@@ -24,4 +24,13 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run Scraping Script
-      run: python script.py  # Adjust the path to your actual script
+      run: |
+        python script.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add README.md
+        git commit -m "Update movie titles in README.md"
+        git push origin main
