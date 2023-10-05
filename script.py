@@ -6,16 +6,18 @@ base_url = 'https://einthusan.tv/movie/results/?find=Popularity&lang=malayalam&p
 
 # Open the README.md file in write mode
 with open('README.md', 'w', encoding='utf-8') as readme_file:
-    # Assuming you want to scrape titles from pages 1 to 5 (you can adjust the range as needed)
-    for page_num in range(1, 6):
-        # Construct the URL for the current page
-        url = f'{base_url}{page_num}&ptype=View&tp=l30d'
+    try:
+        # Assuming you want to scrape titles from pages 1 to 5 (you can adjust the range as needed)
+        for page_num in range(1, 6):
+            # Construct the URL for the current page
+            url = f'{base_url}{page_num}&ptype=View&tp=l30d'
 
-        # Send a request to the URL
-        response = requests.get(url)
+            # Send a request to the URL
+            response = requests.get(url)
 
-        # Check if the request was successful (status code 200)
-        if response.status_code == 200:
+            # Check if the request was successful (status code 200)
+            response.raise_for_status()
+
             # Parse the HTML content
             soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -33,5 +35,5 @@ with open('README.md', 'w', encoding='utf-8') as readme_file:
                 else:
                     readme_file.write(f"{index}. {title}\n")
 
-        else:
-            readme_file.write(f"Failed to retrieve data from Page {page_num}\n")
+    except Exception as e:
+        readme_file.write(f"Error: {str(e)}\n")
