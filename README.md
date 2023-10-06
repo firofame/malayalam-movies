@@ -9,16 +9,22 @@ This repository contains a list of popular Malayalam movies available on Einthus
 3. **King of Kotha**
 4. **Madhura Manohara Moham** (Must Watch)
 5. **RDX: Robert Dony Xavier** (Must Watch)
-6. **Kurukkan**
-7. **Jackson Bazaar Youth** (Must Watch)
-8. **Lovefully Yours Veda**
-9. **1001 Nunakal** (Must Watch)
-10. **Nalla Nilavulla Rathri**
-11. **Neymar** (Must Watch)
-12. **Jailer** (Dubbed)
-19. **Bro Daddy** (Must Watch)
-20. **Janaki Jaane** (Must Watch)
-21. **Padmini** (Must Watch)
-22. **Oh Meri Laila**
-23. **Romancham** (Must Watch)
-24. **Beyond the 7 Seas**
+6. **Jackson Bazaar Youth** (Must Watch)
+7. **Kurukkan**
+8. **1001 Nunakal** (Must Watch)
+9. **Nalla Nilavulla Rathri**
+10. **Lovefully Yours Veda**
+11. **Jailer** (Dubbed)
+12. **Neymar** (Must Watch)
+13. **2018** (Must Watch)
+14. **Santhosham** (Must Watch)
+15. **Ntikkakkakkoru Premondarnn** (Must Watch)
+16. **Neeraja**
+17. **Hridayam** (Must Watch)
+18. **Anuragam** (Must Watch)
+25. **Anjaam Pathiraa** (Must Watch)
+26. **Vivaha Avahanam**
+27. **Ohm Shanthi Oshaana** (Must Watch)
+28. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
+29. **Bangalore Days** (Must Watch)
+30. **Premam** (Must Watch)
