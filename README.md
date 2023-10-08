@@ -13,6 +13,6 @@ This repository contains a list of popular Malayalam movies available on Einthus
 7. **Kurukkan**
 8. **1001 Nunakal** (Must Watch)
 9. **Nalla Nilavulla Rathri**
-10. **Lovefully Yours Veda**
-11. **Jailer** (Dubbed)
+10. **Jailer** (Dubbed)
+11. **Lovefully Yours Veda**
 12. **Neymar** (Must Watch)
