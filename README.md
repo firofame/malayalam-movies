@@ -16,9 +16,9 @@ This repository contains a list of popular Malayalam movies available on Einthus
 10. **Neymar** (Must Watch)
 11. **Nalla Nilavulla Rathri**
 12. **Lovefully Yours Veda**
-25. **Anjaam Pathiraa** (Must Watch)
-26. **Janaki Jaane** (Must Watch)
-27. **Bangalore Days** (Must Watch)
-28. **Neeraja**
-29. **Premam** (Must Watch)
-30. **Super Sharanya** (Must Watch)
+19. **Anuragam** (Must Watch)
+20. **Romancham** (Must Watch)
+21. **Padmini** (Must Watch)
+22. **Ohm Shanthi Oshaana** (Must Watch)
+23. **Oh Meri Laila**
+24. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
