@@ -12,19 +12,13 @@ This repository contains a list of popular Malayalam movies available on Einthus
 6. **Kurukkan**
 7. **Jackson Bazaar Youth** (Must Watch)
 8. **2018** (Must Watch)
-9. **Neymar** (Must Watch)
-10. **1001 Nunakal** (Must Watch)
-11. **Nalla Nilavulla Rathri**
+9. **Kasargold**
+10. **Neymar** (Must Watch)
+11. **1001 Nunakal** (Must Watch)
 12. **Hridayam** (Must Watch)
-13. **Ntikkakkakkoru Premondarnn** (Must Watch)
-14. **Beyond the 7 Seas**
-15. **Santhosham** (Must Watch)
-16. **Lovefully Yours Veda**
-17. **Kasargold**
+13. **Beyond the 7 Seas**
+14. **Nalla Nilavulla Rathri**
+15. **Ntikkakkakkoru Premondarnn** (Must Watch)
+16. **Santhosham** (Must Watch)
+17. **Lovefully Yours Veda**
 18. **Bro Daddy** (Must Watch)
-25. **Anjaam Pathiraa** (Must Watch)
-26. **Oh Meri Laila**
-27. **Bangalore Days** (Must Watch)
-28. **Janaki Jaane** (Must Watch)
-29. **Super Sharanya** (Must Watch)
-30. **Premam** (Must Watch)
