@@ -6,8 +6,8 @@ This repository contains a list of popular Malayalam movies available on Einthus
 
 1. **King of Kotha**
 2. **Pappachan Olivilaanu**
-3. **Voice of Sathyanathan**
-4. **Kasargold**
+3. **Kasargold**
+4. **Voice of Sathyanathan**
 5. **Journey of Love 18+** (Must Watch)
 6. **RDX: Robert Dony Xavier** (Must Watch)
 7. **Madhura Manohara Moham** (Must Watch)
@@ -26,5 +26,5 @@ This repository contains a list of popular Malayalam movies available on Einthus
 26. **Ntikkakkakkoru Premondarnn** (Must Watch)
 27. **Two Countries** (Must Watch)
 28. **Salute** (Must Watch)
-29. **Jackson Bazaar Youth** (Must Watch)
-30. **Padmini** (Must Watch)
+29. **Corona Dhavan**
+30. **Jackson Bazaar Youth** (Must Watch)
