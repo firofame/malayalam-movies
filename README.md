@@ -5,26 +5,26 @@ This repository contains a list of popular Malayalam movies available on Einthus
 ## Movie List
 
 1. **Kannur Squad** (Must Watch)
-2. **Corona Dhavan**
-3. **Theeppori Benny** (Must Watch)
+2. **Theeppori Benny** (Must Watch)
+3. **Corona Dhavan**
 4. **Valatty** (Must Watch)
 5. **Pappachan Olivilaanu**
 6. **King of Kotha**
 7. **Voice of Sathyanathan**
 8. **Journey of Love 18+** (Must Watch)
-9. **RDX: Robert Dony Xavier** (Must Watch)
-10. **Chandramukhi 2** (Dubbed)
-11. **Padachone Ingalu Kaatholee**
+9. **Chaver**
+10. **RDX: Robert Dony Xavier** (Must Watch)
+11. **Chandramukhi 2** (Dubbed)
 12. **Madhura Manohara Moham** (Must Watch)
-13. **Hridayam** (Must Watch)
-14. **Bro Daddy** (Must Watch)
-15. **2018** (Must Watch)
-16. **Kurukkan**
-17. **Ohm Shanthi Oshaana** (Must Watch)
-18. **Neymar** (Must Watch)
-19. **Romancham** (Must Watch)
-20. **Bangalore Days** (Must Watch)
-21. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
-22. **Anjaam Pathiraa** (Must Watch)
-23. **Super Sharanya** (Must Watch)
-24. **Chaver**
+13. **Padachone Ingalu Kaatholee**
+14. **Pulimada**
+15. **Bro Daddy** (Must Watch)
+16. **Hridayam** (Must Watch)
+17. **2018** (Must Watch)
+18. **Kurukkan**
+25. **Super Sharanya** (Must Watch)
+26. **Premam** (Must Watch)
+27. **Two Countries** (Must Watch)
+28. **Kumbalangi Nights** (Must Watch)
+29. **Santhosham** (Must Watch)
+30. **Bheeshma Parvam** (Must Watch)
