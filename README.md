@@ -6,8 +6,8 @@ This repository contains a list of popular Malayalam movies available on Einthus
 
 1. **Kannur Squad** (Must Watch)
 2. **Theeppori Benny** (Must Watch)
-3. **Chaver**
-4. **Dhoomam**
+3. **Dhoomam**
+4. **Chaver**
 5. **Valatty** (Must Watch)
 6. **Corona Dhavan**
 7. **Pulimada**
