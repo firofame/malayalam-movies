@@ -10,15 +10,15 @@ This repository contains a list of popular Malayalam movies available on Einthus
 4. **Chaver**
 5. **Valatty** (Must Watch)
 6. **Pulimada**
-7. **Corona Dhavan**
-8. **Chitta** (Must Watch)
-9. **King of Kotha**
-10. **Adrishya Jalakangal**
-11. **Voice of Sathyanathan**
-12. **Garudan** (Must Watch)
+7. **Chitta** (Must Watch)
+8. **Corona Dhavan**
+9. **Adrishya Jalakangal**
+10. **King of Kotha**
+11. **Garudan** (Must Watch)
+12. **Achanoru Vazha Vechu**
 19. **Hridayam** (Must Watch)
 20. **2018** (Must Watch)
-21. **RDX: Robert Dony Xavier** (Must Watch)
+21. **Bangalore Days** (Must Watch)
 22. **Ohm Shanthi Oshaana** (Must Watch)
-23. **Bangalore Days** (Must Watch)
+23. **RDX: Robert Dony Xavier** (Must Watch)
 24. **Romancham** (Must Watch)
