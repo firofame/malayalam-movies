@@ -8,17 +8,17 @@ This repository contains a list of popular Malayalam movies available on Einthus
 2. **Dhoomam**
 3. **Somante Krithavu** (Must Watch)
 4. **Falimy** (Must Watch)
-5. **Theeppori Benny** (Must Watch)
-6. **Sesham Mikeil Fathima** (Must Watch)
+5. **Sesham Mikeil Fathima** (Must Watch)
+6. **Theeppori Benny** (Must Watch)
 7. **Chaver**
-8. **Garudan** (Must Watch)
-9. **Chitta** (Must Watch)
-10. **Adi**
-11. **Phoenix**
-12. **Pulimada**
-25. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
-26. **Pappachan Olivilaanu**
-27. **Ohm Shanthi Oshaana** (Must Watch)
-28. **Bangalore Days** (Must Watch)
-29. **Premam** (Must Watch)
-30. **Journey of Love 18+** (Must Watch)
+8. **Adi**
+9. **Phoenix**
+10. **Garudan** (Must Watch)
+11. **Chitta** (Must Watch)
+12. **Adrishya Jalakangal**
+13. **Little Miss Rawther**
+14. **Achanoru Vazha Vechu**
+15. **Pulimada**
+16. **King of Kotha**
+17. **Bro Daddy** (Must Watch)
+18. **Valatty** (Must Watch)
