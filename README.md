@@ -12,13 +12,13 @@ This repository contains a list of popular Malayalam movies available on Einthus
 6. **Adi**
 7. **Theeppori Benny** (Must Watch)
 8. **Phoenix**
-9. **Chaver**
-10. **Garudan** (Must Watch)
+9. **Garudan** (Must Watch)
+10. **Chaver**
 11. **Chitta** (Must Watch)
 12. **Adrishya Jalakangal**
-19. **Hridayam** (Must Watch)
-20. **2018** (Must Watch)
-21. **Voice of Sathyanathan**
-22. **Romancham** (Must Watch)
-23. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
-24. **Pappachan Olivilaanu**
+25. **Ohm Shanthi Oshaana** (Must Watch)
+26. **Premam** (Must Watch)
+27. **Madhura Manohara Moham** (Must Watch)
+28. **Bangalore Days** (Must Watch)
+29. **Anjaam Pathiraa** (Must Watch)
+30. **Super Sharanya** (Must Watch)
