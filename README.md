@@ -6,8 +6,8 @@ This repository contains a list of popular Malayalam movies available on Einthus
 
 1. **Falimy** (Must Watch)
 2. **Somante Krithavu** (Must Watch)
-3. **Dhoomam**
-4. **Kannur Squad** (Must Watch)
+3. **Kannur Squad** (Must Watch)
+4. **Dhoomam**
 5. **Adi**
 6. **Sesham Mikeil Fathima** (Must Watch)
 7. **Phoenix**
