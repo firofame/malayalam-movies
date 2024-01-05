@@ -14,5 +14,5 @@ This repository contains a list of popular Malayalam movies available on Einthus
 8. **Dhoomam**
 9. **Theeppori Benny** (Must Watch)
 10. **A Ranjith Cinema**
-11. **Adrishya Jalakangal**
-12. **Achanoru Vazha Vechu**
+11. **Achanoru Vazha Vechu**
+12. **Adrishya Jalakangal**
