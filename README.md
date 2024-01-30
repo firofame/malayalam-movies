@@ -11,8 +11,14 @@ This repository contains a list of popular Malayalam movies available on Einthus
 5. **Philip's** (Must Watch)
 6. **Falimy** (Must Watch)
 7. **Adi**
-8. **A Ranjith Cinema**
-9. **Rajni**
-10. **Somante Krithavu** (Must Watch)
+8. **Rajni**
+9. **Somante Krithavu** (Must Watch)
+10. **A Ranjith Cinema**
 11. **Garudan** (Must Watch)
 12. **Kannur Squad** (Must Watch)
+25. **Premam** (Must Watch)
+26. **King of Kotha**
+27. **Drishyam 2** (Must Watch)
+28. **Theeppori Benny** (Must Watch)
+29. **Purusha Pretham** (Must Watch)
+30. **Madhura Manohara Moham** (Must Watch)
