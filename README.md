@@ -12,19 +12,7 @@ This repository contains a list of popular Malayalam movies available on Einthus
 6. **Falimy** (Must Watch)
 7. **Rajni**
 8. **Adi**
-9. **Somante Krithavu** (Must Watch)
-10. **Kannur Squad** (Must Watch)
+9. **Kannur Squad** (Must Watch)
+10. **Somante Krithavu** (Must Watch)
 11. **Garudan** (Must Watch)
 12. **Bro Daddy** (Must Watch)
-13. **Anjaam Pathiraa** (Must Watch)
-14. **Hridayam** (Must Watch)
-15. **Super Sharanya** (Must Watch)
-16. **Romancham** (Must Watch)
-17. **Sesham Mikeil Fathima** (Must Watch)
-18. **2018** (Must Watch)
-25. **Hi Nanna** (Dubbed)
-26. **Ohm Shanthi Oshaana** (Must Watch)
-27. **Drishyam 2** (Must Watch)
-28. **Purusha Pretham** (Must Watch)
-29. **Animal** (Dubbed)
-30. **King of Kotha**
