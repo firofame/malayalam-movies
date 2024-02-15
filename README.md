@@ -14,5 +14,5 @@ This repository contains a list of popular Malayalam movies available on Einthus
 8. **Adi**
 9. **Bro Daddy** (Must Watch)
 10. **Anjaam Pathiraa** (Must Watch)
-11. **Garudan** (Must Watch)
-12. **Super Sharanya** (Must Watch)
+11. **Super Sharanya** (Must Watch)
+12. **Garudan** (Must Watch)
