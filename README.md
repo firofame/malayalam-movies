@@ -12,7 +12,13 @@ This repository contains a list of popular Malayalam movies available on Einthus
 6. **Rajni**
 7. **Kaathal - The Core** (Must Watch)
 8. **Queen Elizabeth**
-9. **Adi**
-10. **Super Sharanya** (Must Watch)
-11. **Bro Daddy** (Must Watch)
-12. **Anjaam Pathiraa** (Must Watch)
+9. **Super Sharanya** (Must Watch)
+10. **Adi**
+11. **Anjaam Pathiraa** (Must Watch)
+12. **Bro Daddy** (Must Watch)
+19. **Premam** (Must Watch)
+20. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
+21. **Ohm Shanthi Oshaana** (Must Watch)
+22. **Bangalore Days** (Must Watch)
+23. **2018** (Must Watch)
+24. **Phoenix** (Must Watch)
