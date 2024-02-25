@@ -16,3 +16,9 @@ This repository contains a list of popular Malayalam movies available on Einthus
 10. **Anjaam Pathiraa** (Must Watch)
 11. **Bro Daddy** (Must Watch)
 12. **Hridayam** (Must Watch)
+19. **Somante Krithavu** (Must Watch)
+20. **Bhoothakaalam**
+21. **Ohm Shanthi Oshaana** (Must Watch)
+22. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
+23. **Adi**
+24. **Bangalore Days** (Must Watch)
