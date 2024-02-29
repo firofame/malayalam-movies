@@ -6,12 +6,12 @@ This repository contains a list of popular Malayalam movies available on Einthus
 
 1. **Neru** (Must Watch)
 2. **Queen Elizabeth**
-3. **Philip's** (Must Watch)
-4. **Antony** (Must Watch)
+3. **Antony** (Must Watch)
+4. **Philip's** (Must Watch)
 5. **Tholvi F.C.** (Must Watch)
 6. **Falimy** (Must Watch)
-7. **Kaathal - The Core** (Must Watch)
-8. **Malaikottai Vaaliban**
+7. **Malaikottai Vaaliban**
+8. **Kaathal - The Core** (Must Watch)
 9. **Rajni**
 10. **Super Sharanya** (Must Watch)
 11. **Anjaam Pathiraa** (Must Watch)
@@ -27,4 +27,4 @@ This repository contains a list of popular Malayalam movies available on Einthus
 21. **Jaya Jaya Jaya Jaya Hey** (Must Watch)
 22. **Somante Krithavu** (Must Watch)
 23. **Bangalore Days** (Must Watch)
-24. **Salaar: Cease Fire - Part 1** (Dubbed)
+24. **Jan-E-Man** (Must Watch)
