@@ -15,10 +15,10 @@ This repository contains a list of popular Malayalam movies available on Einthus
 9. **Super Sharanya** (Must Watch)
 10. **Rajni**
 11. **Anjaam Pathiraa** (Must Watch)
-12. **Hridayam** (Must Watch)
-25. **Somante Krithavu** (Must Watch)
+12. **Bro Daddy** (Must Watch)
+25. **2018** (Must Watch)
 26. **Pranaya Vilasam** (Must Watch)
-27. **2018** (Must Watch)
-28. **Salaar: Cease Fire - Part 1** (Dubbed)
+27. **Somante Krithavu** (Must Watch)
+28. **Purusha Pretham** (Must Watch)
 29. **Adi**
-30. **Purusha Pretham** (Must Watch)
+30. **Salaar: Cease Fire - Part 1** (Dubbed)
