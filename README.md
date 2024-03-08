@@ -16,9 +16,3 @@ This repository contains a list of popular Malayalam movies available on Einthus
 10. **Rajni**
 11. **Thanneer Mathan Dinangal** (Must Watch)
 12. **Anjaam Pathiraa** (Must Watch)
-25. **Pranaya Vilasam** (Must Watch)
-26. **2018** (Must Watch)
-27. **Makal** (Must Watch)
-28. **Bheeshma Parvam** (Must Watch)
-29. **Purusha Pretham** (Must Watch)
-30. **Adi**
