@@ -5,10 +5,10 @@ This repository contains a list of popular Malayalam movies available on Einthus
 ## Movie List
 
 1. **Anweshippin Kandethum** (Must Watch)
-2. **Bramayugam** (Must Watch)
-3. **Abraham Ozler** (Must Watch)
-4. **Malaikottai Vaaliban**
-5. **Thundu**
+2. **Abraham Ozler** (Must Watch)
+3. **Bramayugam** (Must Watch)
+4. **Thundu**
+5. **Malaikottai Vaaliban**
 6. **Neru** (Must Watch)
 7. **Queen Elizabeth**
 8. **Antony** (Must Watch)
@@ -20,8 +20,8 @@ This repository contains a list of popular Malayalam movies available on Einthus
 14. **Thanneer Mathan Dinangal** (Must Watch)
 15. **Kaathal - The Core** (Must Watch)
 16. **Hridayam** (Must Watch)
-17. **Falimy** (Must Watch)
-18. **Anjaam Pathiraa** (Must Watch)
+17. **Anjaam Pathiraa** (Must Watch)
+18. **Falimy** (Must Watch)
 25. **Journey of Love 18+** (Must Watch)
 26. **Ohm Shanthi Oshaana** (Must Watch)
 27. **2018** (Must Watch)
