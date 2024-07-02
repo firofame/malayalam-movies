@@ -87,11 +87,18 @@ def write_to_readme(movies):
                 f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')})\n\n")
                 f.write(f"- **Synopsis**: {movie.get('synopsis', 'N/A')}\n\n")
                 
-                # Writing all professionals in one line separated by commas
-                professionals = ', '.join([f"{prof['role']}: {prof['name']}" for prof in movie.get('professionals', [])])
-                f.write(f"- **Cast**: {professionals}\n\n")
+                # Writing professionals in specified format
+                professionals = {}
+                for prof in movie.get('professionals', []):
+                    if prof['role'] in professionals:
+                        professionals[prof['role']].append(prof['name'])
+                    else:
+                        professionals[prof['role']] = [prof['name']]
                 
-                f.write("### Ratings\n")
+                for role, names in professionals.items():
+                    f.write(f"- **{role}**: {', '.join(names)}\n")
+                
+                f.write("\n### Ratings\n")
                 for rating_type, rating_value in movie.get('ratings', {}).items():
                     f.write(f"- {rating_type}: {rating_value}\n")
                 f.write("\n")
