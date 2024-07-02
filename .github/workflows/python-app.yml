@@ -5,9 +5,11 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
-  contents: write  # Explicitly grant write permissions
+  contents: write
 
 jobs:
   build:
