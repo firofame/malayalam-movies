@@ -84,7 +84,19 @@ def write_to_readme(movies):
         f.write("# Einthusan Movie Details\n\n")
         for movie in movies:
             if movie:  # Only write non-empty movie dictionaries
-                f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')})\n\n")
+                f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')}) ")
+                
+                # Write IMDb link if available
+                extras = movie.get('extras', {})
+                if 'imdb' in extras:
+                    f.write(f"[IMDb]({extras['imdb']})")
+                
+                # Write Trailer link if available
+                if 'trailer' in extras:
+                    f.write(f" [Trailer]({extras['trailer']})")
+                
+                f.write("\n\n")
+                
                 f.write(f"- **Synopsis**: {movie.get('synopsis', 'N/A')}\n\n")
                 
                 # Writing professionals in specified format
@@ -103,13 +115,7 @@ def write_to_readme(movies):
                     f.write(f"- {rating_type}: {rating_value}\n")
                 f.write("\n")
                 
-                f.write("### Links\n")
-                extras = movie.get('extras', {})
-                if 'imdb' in extras:
-                    f.write(f"- [IMDb]({extras['imdb']})\n")
-                if 'trailer' in extras:
-                    f.write(f"- [Trailer]({extras['trailer']})\n")
-                f.write("\n---\n\n")
+                f.write("---\n\n")
 
 # Example usage
 url = "https://einthusan.tv/movie/results/?find=Popularity&lang=malayalam&ptype=view&tp=l30d"
