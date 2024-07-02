@@ -29,8 +29,10 @@ jobs:
         python app.py
     - name: Commit changes
       run: |
-        git config --global user.name 'GitHub Actions Bot'
-        git config --global user.email '<email>'
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git add README.md  # Replace README.md with the files you want to commit
         git commit -m "Update README.md with new file additions"  # Adjust commit message as needed
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
