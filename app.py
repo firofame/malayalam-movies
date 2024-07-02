@@ -81,10 +81,10 @@ def extract_movie_details(html_content):
 
 def write_to_readme(movies):
     with open('README.md', 'w', encoding='utf-8') as f:
-        f.write("# Einthusan Movie Details\n\n")
-        for movie in movies:
+        f.write("# Watch List\n\n")
+        for idx, movie in enumerate(movies, 1):
             if movie:  # Only write non-empty movie dictionaries
-                f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')}) ")
+                f.write(f"{idx}. **{movie.get('title', 'Unknown Title')}** ({movie.get('year', 'N/A')}) ")
                 
                 # Write IMDb and Trailer links if available
                 extras = movie.get('extras', {})
