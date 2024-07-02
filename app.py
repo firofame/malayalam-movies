@@ -86,15 +86,15 @@ def write_to_readme(movies):
             if movie:  # Only write non-empty movie dictionaries
                 f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')}) ")
                 
-                # Write IMDb link if available
+                # Write IMDb and Trailer links if available
                 extras = movie.get('extras', {})
+                links = []
                 if 'imdb' in extras:
-                    f.write(f"[IMDb]({extras['imdb']})")
-                
-                # Write Trailer link if available
+                    links.append(f"[IMDb]({extras['imdb']})")
                 if 'trailer' in extras:
-                    f.write(f" [Trailer]({extras['trailer']})")
+                    links.append(f"[Trailer]({extras['trailer']})")
                 
+                f.write(', '.join(links))
                 f.write("\n\n")
                 
                 f.write(f"- **Synopsis**: {movie.get('synopsis', 'N/A')}\n\n")
@@ -110,12 +110,7 @@ def write_to_readme(movies):
                 for role, names in professionals.items():
                     f.write(f"- **{role}**: {', '.join(names)}\n")
                 
-                f.write("\n### Ratings\n")
-                for rating_type, rating_value in movie.get('ratings', {}).items():
-                    f.write(f"- {rating_type}: {rating_value}\n")
-                f.write("\n")
-                
-                f.write("---\n\n")
+                f.write("\n---\n\n")
 
 # Example usage
 url = "https://einthusan.tv/movie/results/?find=Popularity&lang=malayalam&ptype=view&tp=l30d"
