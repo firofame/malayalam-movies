@@ -35,9 +35,6 @@ def extract_movie_details(html_content):
             year_match = re.search(r'\d{4}', info_text)
             if year_match:
                 movie['year'] = year_match.group()
-            lang_span = info_elem.p.find('span')
-            if lang_span:
-                movie['language'] = lang_span.text.strip()
 
         # Extract synopsis
         synopsis_elem = movie_item.find('p', class_='synopsis')
@@ -87,15 +84,12 @@ def write_to_readme(movies):
         f.write("# Einthusan Movie Details\n\n")
         for movie in movies:
             if movie:  # Only write non-empty movie dictionaries
-                f.write(f"## {movie.get('title', 'Unknown Title')}\n\n")
-                f.write(f"- **Year**: {movie.get('year', 'N/A')}\n")
-                f.write(f"- **Language**: {movie.get('language', 'N/A')}\n")
+                f.write(f"## {movie.get('title', 'Unknown Title')} ({movie.get('year', 'N/A')})\n\n")
                 f.write(f"- **Synopsis**: {movie.get('synopsis', 'N/A')}\n\n")
                 
-                f.write("### Professionals\n")
-                for prof in movie.get('professionals', []):
-                    f.write(f"- {prof['role']}: {prof['name']}\n")
-                f.write("\n")
+                # Writing all professionals in one line separated by commas
+                professionals = ', '.join([f"{prof['role']}: {prof['name']}" for prof in movie.get('professionals', [])])
+                f.write(f"- **Cast**: {professionals}\n\n")
                 
                 f.write("### Ratings\n")
                 for rating_type, rating_value in movie.get('ratings', {}).items():
