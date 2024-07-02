@@ -1,20 +1,10 @@
 # Einthusan Movie Details
 
-## Varshangalkku Shesham
+## Varshangalkku Shesham (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: The story of two friends set in two different time periods. Two boys, Murali and Venu, hailing from northern Kerala meet coincidentally and become friends.
 
-### Professionals
-- Lead: Pranav Mohanlal
-- Lead: Vineeth Sreenivasan
-- Lead: Nivin Pauly
-- Lead: Kalyani Priyadarshan
-- Lead: Dhyan Sreenivasan
-- Supporting: Basil Joseph
-- Music Director: Amrit Ramnath
-- Director: Vineeth Sreenivasan
+- **Cast**: Lead: Pranav Mohanlal, Lead: Vineeth Sreenivasan, Lead: Nivin Pauly, Lead: Kalyani Priyadarshan, Lead: Dhyan Sreenivasan, Supporting: Basil Joseph, Music Director: Amrit Ramnath, Director: Vineeth Sreenivasan
 
 ### Ratings
 - Action: 1.6
@@ -29,20 +19,11 @@
 
 ---
 
-## Guruvayoor Ambalanadayil
+## Guruvayoor Ambalanadayil (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
 
-### Professionals
-- Lead: Prithviraj Sukumaran
-- Lead: Basil Joseph
-- Lead: Nikhila Vimal
-- Lead: Anaswara Rajan
-- Lead: Yogi Babu
-- Music Director: Ankit Menon
-- Director: Vipin Das
+- **Cast**: Lead: Prithviraj Sukumaran, Lead: Basil Joseph, Lead: Nikhila Vimal, Lead: Anaswara Rajan, Lead: Yogi Babu, Music Director: Ankit Menon, Director: Vipin Das
 
 ### Ratings
 - Action: 2.3
@@ -57,20 +38,11 @@
 
 ---
 
-## Aavesham
+## Aavesham (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: Three teens come to Bangalore for their engineering education and get involved in a fight. They find a local gangster to help them.
 
-### Professionals
-- Lead: Fahadh Faasil
-- Lead: Hipzster
-- Lead: Mithun Jai Shankar
-- Supporting: Roshan Shahnavaz
-- Supporting: Sajin Gopu
-- Music Director: Sushin Shyam
-- Director: Jithu Madhavan
+- **Cast**: Lead: Fahadh Faasil, Lead: Hipzster, Lead: Mithun Jai Shankar, Supporting: Roshan Shahnavaz, Supporting: Sajin Gopu, Music Director: Sushin Shyam, Director: Jithu Madhavan
 
 ### Ratings
 - Action: 4.2
@@ -85,20 +57,11 @@
 
 ---
 
-## Premalu
+## Premalu (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
 
-### Professionals
-- Lead: Mamitha Baiju
-- Lead: Naslen K Gafoor
-- Lead: Shyam Mohan
-- Supporting: Mathew Thomas
-- Supporting: Althaf Salim
-- Music Director: VishnuVijay
-- Director: Girish A. D.
+- **Cast**: Lead: Mamitha Baiju, Lead: Naslen K Gafoor, Lead: Shyam Mohan, Supporting: Mathew Thomas, Supporting: Althaf Salim, Music Director: VishnuVijay, Director: Girish A. D.
 
 ### Ratings
 - Action: 2.0
@@ -113,20 +76,11 @@
 
 ---
 
-## Jananam 1947 Pranayam Thudarunnu
+## Jananam 1947 Pranayam Thudarunnu (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: Gowri a lone old woman in oldage home decided to go with the care taker shivan After that their life turns in to endless love journey.
 
-### Professionals
-- Lead: Kozhikode Jayraj
-- Lead: Leela Samson
-- Supporting: Anu Sithara
-- Supporting: Deepak Parambol
-- Supporting: Nandhan Unni
-- Music Director: Govind Vasantha
-- Director: Abijith Asokan
+- **Cast**: Lead: Kozhikode Jayraj, Lead: Leela Samson, Supporting: Anu Sithara, Supporting: Deepak Parambol, Supporting: Nandhan Unni, Music Director: Govind Vasantha, Director: Abijith Asokan
 
 ### Ratings
 - Action: 1.1
@@ -141,19 +95,11 @@
 
 ---
 
-## Jai Ganesh
+## Jai Ganesh (2024)
 
-- **Year**: 2024
-- **Language**: Malayalam
 - **Synopsis**: Striving for normalcy, paraplegic designer Ganesh Gangadharan wrestles with inner demons in unforgiving shadows of sympathy.
 
-### Professionals
-- Lead: Unni Mukundan
-- Lead: Mahima Nambiar
-- Supporting: Hareesh Peradi
-- Supporting: Ravindra Vijay
-- Music Director: Sankar Sharma
-- Director: Ranjith Sankar
+- **Cast**: Lead: Unni Mukundan, Lead: Mahima Nambiar, Supporting: Hareesh Peradi, Supporting: Ravindra Vijay, Music Director: Sankar Sharma, Director: Ranjith Sankar
 
 ### Ratings
 - Action: 2.7
