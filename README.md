@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-03)
+# Watch List (Updated: 2024-07-04)
 
 ### 1. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
 
@@ -54,14 +54,13 @@
 
 ---
 
-### 6. **Jai Ganesh** (2024) [IMDb](https://www.imdb.com/title/tt28755837/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_Jai%2520Ganesh), [Trailer](https://www.youtube.com/watch?v=Opt0jkNtCTQ)
+### 6. **Manjummel Boys** (2024) [IMDb](https://www.imdb.com/title/tt26458038/), [Trailer](https://www.youtube.com/watch?v=id848Ww1YLo&t=78s)
 
-- **Synopsis**: Striving for normalcy, paraplegic designer Ganesh Gangadharan wrestles with inner demons in unforgiving shadows of sympathy.
+- **Synopsis**: A group of friends get into a daring rescue mission to save their friend from Guna Caves, a perilously deep pit from where nobody has ever been brought back.
 
-- **Lead**: Unni Mukundan, Mahima Nambiar
-- **Supporting**: Hareesh Peradi, Ravindra Vijay
-- **Music Director**: Sankar Sharma
-- **Director**: Ranjith Sankar
+- **Lead**: Soubin Shahir, Sreenath Bhasi, Deepak Parambol, Jean Paul Lal
+- **Music Director**: Sushin Shyam
+- **Director**: Chidambaram
 
 ---
 
