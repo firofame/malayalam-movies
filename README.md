@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-05)
+# Watch List (Updated: 2024-07-06)
 
 ### 1. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
 
