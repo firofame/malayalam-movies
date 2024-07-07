@@ -1,6 +1,16 @@
-# Watch List (Updated: 2024-07-06)
+# Watch List (Updated: 2024-07-07)
 
-### 1. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
+### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
+
+- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
+
+- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
+- **Music Director**: Ankit Menon
+- **Director**: Vipin Das
+
+---
+
+### 2. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
 
 - **Synopsis**: The story of two friends set in two different time periods. Two boys, Murali and Venu, hailing from northern Kerala meet coincidentally and become friends.
 
@@ -8,16 +18,6 @@
 - **Supporting**: Basil Joseph
 - **Music Director**: Amrit Ramnath
 - **Director**: Vineeth Sreenivasan
-
----
-
-### 2. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
-
-- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
-
-- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
-- **Music Director**: Ankit Menon
-- **Director**: Vipin Das
 
 ---
 
