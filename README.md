@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-07)
+# Watch List (Updated: 2024-07-08)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -32,18 +32,7 @@
 
 ---
 
-### 4. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
-
-- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
-
-- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
-- **Supporting**: Mathew Thomas, Althaf Salim
-- **Music Director**: VishnuVijay
-- **Director**: Girish A. D.
-
----
-
-### 5. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
+### 4. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
 
 - **Synopsis**: Gowri a lone old woman in oldage home decided to go with the care taker shivan After that their life turns in to endless love journey.
 
@@ -54,13 +43,25 @@
 
 ---
 
-### 6. **Manjummel Boys** (2024) [IMDb](https://www.imdb.com/title/tt26458038/), [Trailer](https://www.youtube.com/watch?v=id848Ww1YLo&t=78s)
+### 5. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
 
-- **Synopsis**: A group of friends get into a daring rescue mission to save their friend from Guna Caves, a perilously deep pit from where nobody has ever been brought back.
+- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
 
-- **Lead**: Soubin Shahir, Sreenath Bhasi, Deepak Parambol, Jean Paul Lal
-- **Music Director**: Sushin Shyam
-- **Director**: Chidambaram
+- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
+- **Supporting**: Mathew Thomas, Althaf Salim
+- **Music Director**: VishnuVijay
+- **Director**: Girish A. D.
+
+---
+
+### 6. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+
+- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
+
+- **Lead**: Nivin Pauly, Dhyan Sreenivasan
+- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
+- **Music Director**: Jakes Bejoy
+- **Director**: Dijo Jose Antony
 
 ---
 
