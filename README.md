@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-08)
+# Watch List (Updated: 2024-07-09)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -12,7 +12,7 @@
 
 ### 2. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
 
-- **Synopsis**: The story of two friends set in two different time periods. Two boys, Murali and Venu, hailing from northern Kerala meet coincidentally and become friends.
+- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
 
 - **Lead**: Pranav Mohanlal, Vineeth Sreenivasan, Nivin Pauly, Kalyani Priyadarshan, Dhyan Sreenivasan
 - **Supporting**: Basil Joseph
@@ -32,7 +32,18 @@
 
 ---
 
-### 4. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
+### 4. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+
+- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
+
+- **Lead**: Nivin Pauly, Dhyan Sreenivasan
+- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
+- **Music Director**: Jakes Bejoy
+- **Director**: Dijo Jose Antony
+
+---
+
+### 5. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
 
 - **Synopsis**: Gowri a lone old woman in oldage home decided to go with the care taker shivan After that their life turns in to endless love journey.
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
+### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
 
 - **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Mathew Thomas, Althaf Salim
 - **Music Director**: VishnuVijay
 - **Director**: Girish A. D.
-
----
-
-### 6. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
-
-- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
-
-- **Lead**: Nivin Pauly, Dhyan Sreenivasan
-- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
-- **Music Director**: Jakes Bejoy
-- **Director**: Dijo Jose Antony
 
 ---
 
