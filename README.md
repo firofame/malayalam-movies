@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-09)
+# Watch List (Updated: 2024-07-10)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -14,7 +14,7 @@
 
 - **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
 
-- **Lead**: Pranav Mohanlal, Vineeth Sreenivasan, Nivin Pauly, Kalyani Priyadarshan, Dhyan Sreenivasan
+- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
 - **Supporting**: Basil Joseph
 - **Music Director**: Amrit Ramnath
 - **Director**: Vineeth Sreenivasan
