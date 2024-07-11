@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-10)
+# Watch List (Updated: 2024-07-11)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -21,18 +21,7 @@
 
 ---
 
-### 3. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
-
-- **Synopsis**: Three teens come to Bangalore for their engineering education and get involved in a fight. They find a local gangster to help them.
-
-- **Lead**: Fahadh Faasil, Hipzster, Mithun Jai Shankar
-- **Supporting**: Roshan Shahnavaz, Sajin Gopu
-- **Music Director**: Sushin Shyam
-- **Director**: Jithu Madhavan
-
----
-
-### 4. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+### 3. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
 
 - **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
 
@@ -40,6 +29,17 @@
 - **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
 - **Music Director**: Jakes Bejoy
 - **Director**: Dijo Jose Antony
+
+---
+
+### 4. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
+
+- **Synopsis**: Three teens come to Bangalore for their engineering education and get involved in a fight. They find a local gangster to help them.
+
+- **Lead**: Fahadh Faasil, Hipzster, Mithun Jai Shankar
+- **Supporting**: Roshan Shahnavaz, Sajin Gopu
+- **Music Director**: Sushin Shyam
+- **Director**: Jithu Madhavan
 
 ---
 
