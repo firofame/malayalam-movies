@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-12)
+# Watch List (Updated: 2024-07-13)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -10,18 +10,7 @@
 
 ---
 
-### 2. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
-
-- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
-
-- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
-- **Supporting**: Basil Joseph
-- **Music Director**: Amrit Ramnath
-- **Director**: Vineeth Sreenivasan
-
----
-
-### 3. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+### 2. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
 
 - **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
 
@@ -29,6 +18,17 @@
 - **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
 - **Music Director**: Jakes Bejoy
 - **Director**: Dijo Jose Antony
+
+---
+
+### 3. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
+
+- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
+
+- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
+- **Supporting**: Basil Joseph
+- **Music Director**: Amrit Ramnath
+- **Director**: Vineeth Sreenivasan
 
 ---
 
