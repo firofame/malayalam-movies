@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-14)
+# Watch List (Updated: 2024-07-15)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -43,7 +43,18 @@
 
 ---
 
-### 5. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
+### 5. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
+
+- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
+
+- **Lead**: Althaf Salim, Anarkali Marikar
+- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
+- **Music Director**: Bibin Ashok
+- **Director**: Vinod Leela
+
+---
+
+### 6. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
 
 - **Synopsis**: Gowri a lone old woman in oldage home decided to go with the care taker shivan After that their life turns in to endless love journey.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Anu Sithara, Deepak Parambol, Nandhan Unni
 - **Music Director**: Govind Vasantha
 - **Director**: Abijith Asokan
-
----
-
-### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
-
-- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
-
-- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
-- **Supporting**: Mathew Thomas, Althaf Salim
-- **Music Director**: VishnuVijay
-- **Director**: Girish A. D.
 
 ---
 
