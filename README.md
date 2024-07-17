@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-16)
+# Watch List (Updated: 2024-07-17)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -45,7 +45,7 @@
 
 ### 5. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
 
-- **Synopsis**: Three teens come to Bangalore for their engineering education and get involved in a fight. They find a local gangster to help them.
+- **Synopsis**: Three teens come to Bangalore for their engineering education and inadvertently get entangled in a brawl. To navigate the situation, they seek assistance from a local gangster.
 
 - **Lead**: Fahadh Faasil, Hipzster, Mithun Jai Shankar
 - **Supporting**: Roshan Shahnavaz, Sajin Gopu
