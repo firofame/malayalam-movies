@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-17)
+# Watch List (Updated: 2024-07-18)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Jananam 1947 Pranayam Thudarunnu** (2024) [IMDb](https://www.imdb.com/title/tt29040554/), [Trailer](https://www.youtube.com/watch?v=xZomn8QNYCU)
+### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
 
-- **Synopsis**: Gowri, a lonely elderly woman in an old age home, decides to leave with her compassionate caretaker, Shivan. Their lives soon transform into an unexpected and endless journey of love and adventure.
+- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
 
-- **Lead**: Kozhikode Jayraj, Leela Samson
-- **Supporting**: Anu Sithara, Deepak Parambol, Nandhan Unni
-- **Music Director**: Govind Vasantha
-- **Director**: Abijith Asokan
+- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
+- **Supporting**: Mathew Thomas, Althaf Salim
+- **Music Director**: VishnuVijay
+- **Director**: Girish A. D.
 
 ---
 
