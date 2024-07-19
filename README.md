@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-18)
+# Watch List (Updated: 2024-07-19)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -32,18 +32,7 @@
 
 ---
 
-### 4. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
-
-- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
-
-- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
-- **Supporting**: Basil Joseph
-- **Music Director**: Amrit Ramnath
-- **Director**: Vineeth Sreenivasan
-
----
-
-### 5. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
+### 4. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
 
 - **Synopsis**: Three teens come to Bangalore for their engineering education and inadvertently get entangled in a brawl. To navigate the situation, they seek assistance from a local gangster.
 
@@ -51,6 +40,17 @@
 - **Supporting**: Roshan Shahnavaz, Sajin Gopu
 - **Music Director**: Sushin Shyam
 - **Director**: Jithu Madhavan
+
+---
+
+### 5. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
+
+- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
+
+- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
+- **Supporting**: Basil Joseph
+- **Music Director**: Amrit Ramnath
+- **Director**: Vineeth Sreenivasan
 
 ---
 
