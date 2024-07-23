@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-22)
+# Watch List (Updated: 2024-07-23)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
+### 6. **Aadujeevitham - The Goat Life** (2024) [IMDb](https://www.imdb.com/title/tt5525650/), [Trailer](https://www.youtube.com/watch?v=0K5bMylKaNA)
 
-- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
+- **Synopsis**: The true story of Najeeb Muhammad, an Indian migrant worker who travels to Saudi Arabia seeking better prospects. Instead, he faces a cruel twist of fate, living a slave-like existence, herding goats in the harsh desert.
 
-- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
-- **Supporting**: Mathew Thomas, Althaf Salim
-- **Music Director**: VishnuVijay
-- **Director**: Girish A. D.
+- **Lead**: Prithviraj Sukumaran, Amala Paul
+- **Supporting**: Rik Aby, Santhosh Keezhattoor, Lena
+- **Music Director**: A. R. Rahman
+- **Director**: Blessy
 
 ---
 
