@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-26)
+# Watch List (Updated: 2024-07-27)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Varshangalkku Shesham** (2024) [IMDb](https://www.imdb.com/title/tt28364355/), [Trailer](https://www.youtube.com/watch?v=50GJ7D_00NA)
+### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
 
-- **Synopsis**: In two different eras, the narrative intertwines the lives of Murali and Venu, two boys from northern Kerala whose serendipitous meeting sparks a deep and lasting friendship.
+- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
 
-- **Lead**: Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly, Kalyani Priyadarshan
-- **Supporting**: Basil Joseph
-- **Music Director**: Amrit Ramnath
-- **Director**: Vineeth Sreenivasan
+- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
+- **Supporting**: Mathew Thomas, Althaf Salim
+- **Music Director**: VishnuVijay
+- **Director**: Girish A. D.
 
 ---
 
