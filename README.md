@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-07-29)
+# Watch List (Updated: 2024-07-30)
 
 ### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
 
