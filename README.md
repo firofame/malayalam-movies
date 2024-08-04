@@ -1,16 +1,6 @@
-# Watch List (Updated: 2024-08-03)
+# Watch List (Updated: 2024-08-04)
 
-### 1. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
-
-- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
-
-- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
-- **Music Director**: Ankit Menon
-- **Director**: Vipin Das
-
----
-
-### 2. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
+### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
 - **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
 - **Music Director**: Bibin Ashok
 - **Director**: Vinod Leela
+
+---
+
+### 2. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
+
+- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
+
+- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
+- **Music Director**: Ankit Menon
+- **Director**: Vipin Das
 
 ---
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Premalu** (2024) [IMDb](https://www.imdb.com/title/tt28288786/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Premalu), [Trailer](https://www.youtube.com/watch?v=rR_2ti4l3nM)
+### 6. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
 
-- **Synopsis**: Sachin pursues romance but finds himself caught between two potential partners, leading to amusing complications.
+- **Synopsis**: An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.
 
-- **Lead**: Mamitha Baiju, Naslen K Gafoor, Shyam Mohan
-- **Supporting**: Mathew Thomas, Althaf Salim
-- **Music Director**: VishnuVijay
-- **Director**: Girish A. D.
+- **Lead**: Roshan Mathew, Darshana Rajendran
+- **Supporting**: Shyam Fernando, Mahendra Perera
+- **Music Director**: Krishna Kumar
+- **Director**: Prasanna Vithanage
 
 ---
 
