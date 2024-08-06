@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-05)
+# Watch List (Updated: 2024-08-06)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
