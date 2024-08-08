@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-07)
+# Watch List (Updated: 2024-08-08)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -11,7 +11,17 @@
 
 ---
 
-### 2. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+### 2. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
+
+- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
+
+- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
+- **Music Director**: Ankit Menon
+- **Director**: Vipin Das
+
+---
+
+### 3. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
 
 - **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
 
@@ -19,16 +29,6 @@
 - **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
 - **Music Director**: Jakes Bejoy
 - **Director**: Dijo Jose Antony
-
----
-
-### 3. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
-
-- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
-
-- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
-- **Music Director**: Ankit Menon
-- **Director**: Vipin Das
 
 ---
 
