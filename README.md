@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-08)
+# Watch List (Updated: 2024-08-09)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -54,14 +54,13 @@
 
 ---
 
-### 6. **Aavesham** (2024) [IMDb](https://en.wikipedia.org/wiki/Aavesham_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=L0yEMl8PXnw)
+### 6. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
-- **Synopsis**: Three teens come to Bangalore for their engineering education and inadvertently get entangled in a brawl. To navigate the situation, they seek assistance from a local gangster.
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
 
-- **Lead**: Fahadh Faasil, Hipzster, Mithun Jai Shankar
-- **Supporting**: Roshan Shahnavaz, Sajin Gopu
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
 - **Music Director**: Sushin Shyam
-- **Director**: Jithu Madhavan
 
 ---
 
