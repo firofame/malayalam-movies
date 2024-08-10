@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-09)
+# Watch List (Updated: 2024-08-10)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -43,7 +43,17 @@
 
 ---
 
-### 5. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
+### 5. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
+
+---
+
+### 6. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
 
 - **Synopsis**: An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.
 
@@ -51,16 +61,6 @@
 - **Supporting**: Shyam Fernando, Mahendra Perera
 - **Music Director**: Krishna Kumar
 - **Director**: Prasanna Vithanage
-
----
-
-### 6. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
 
 ---
 
