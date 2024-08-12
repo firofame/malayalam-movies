@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-11)
+# Watch List (Updated: 2024-08-12)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -21,7 +21,17 @@
 
 ---
 
-### 3. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
+
+---
+
+### 4. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
 
 - **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
 
@@ -29,16 +39,6 @@
 - **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
 - **Music Director**: Jakes Bejoy
 - **Director**: Dijo Jose Antony
-
----
-
-### 4. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
 
 ---
 
@@ -53,14 +53,14 @@
 
 ---
 
-### 6. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
+### 6. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
 
-- **Synopsis**: An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.
+- **Synopsis**: Jose, a jeep driver from Idukki, finds himself in trouble and is forced to move to Chennai. There, he becomes entangled with Indhu and his best friend, Jerry, only to face unexpected surprises from Vetrivel and others as his life takes unforeseen twists.
 
-- **Lead**: Roshan Mathew, Darshana Rajendran
-- **Supporting**: Shyam Fernando, Mahendra Perera
-- **Music Director**: Krishna Kumar
-- **Director**: Prasanna Vithanage
+- **Lead**: Mammootty, Anjana Jayaprakash
+- **Supporting**: Raj B. Shetty, Vijay Sethupathi, Prashanth, Bindu Panicker
+- **Music Director**: Christo Xavier
+- **Director**: Vysakh
 
 ---
 
