@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-12)
+# Watch List (Updated: 2024-08-13)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -31,18 +31,7 @@
 
 ---
 
-### 4. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
-
-- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
-
-- **Lead**: Nivin Pauly, Dhyan Sreenivasan
-- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
-- **Music Director**: Jakes Bejoy
-- **Director**: Dijo Jose Antony
-
----
-
-### 5. **Aadujeevitham - The Goat Life** (2024) [IMDb](https://www.imdb.com/title/tt5525650/), [Trailer](https://www.youtube.com/watch?v=0K5bMylKaNA)
+### 4. **Aadujeevitham - The Goat Life** (2024) [IMDb](https://www.imdb.com/title/tt5525650/), [Trailer](https://www.youtube.com/watch?v=0K5bMylKaNA)
 
 - **Synopsis**: The true story of Najeeb Muhammad, an Indian migrant worker who travels to Saudi Arabia seeking better prospects. Instead, he faces a cruel twist of fate, living a slave-like existence, herding goats in the harsh desert.
 
@@ -53,7 +42,7 @@
 
 ---
 
-### 6. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
+### 5. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
 
 - **Synopsis**: Jose, a jeep driver from Idukki, finds himself in trouble and is forced to move to Chennai. There, he becomes entangled with Indhu and his best friend, Jerry, only to face unexpected surprises from Vetrivel and others as his life takes unforeseen twists.
 
@@ -61,6 +50,17 @@
 - **Supporting**: Raj B. Shetty, Vijay Sethupathi, Prashanth, Bindu Panicker
 - **Music Director**: Christo Xavier
 - **Director**: Vysakh
+
+---
+
+### 6. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+
+- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
+
+- **Lead**: Nivin Pauly, Dhyan Sreenivasan
+- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
+- **Music Director**: Jakes Bejoy
+- **Director**: Dijo Jose Antony
 
 ---
 
