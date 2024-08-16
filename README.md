@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-13)
+# Watch List (Updated: 2024-08-16)
 
 ### 1. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
 
@@ -11,17 +11,7 @@
 
 ---
 
-### 2. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
-
-- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
-
-- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
-- **Music Director**: Ankit Menon
-- **Director**: Vipin Das
-
----
-
-### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+### 2. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
 - **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
 
@@ -31,36 +21,46 @@
 
 ---
 
-### 4. **Aadujeevitham - The Goat Life** (2024) [IMDb](https://www.imdb.com/title/tt5525650/), [Trailer](https://www.youtube.com/watch?v=0K5bMylKaNA)
+### 3. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
 
-- **Synopsis**: The true story of Najeeb Muhammad, an Indian migrant worker who travels to Saudi Arabia seeking better prospects. Instead, he faces a cruel twist of fate, living a slave-like existence, herding goats in the harsh desert.
-
-- **Lead**: Prithviraj Sukumaran, Amala Paul
-- **Supporting**: Rik Aby, Santhosh Keezhattoor, Lena
-- **Music Director**: A. R. Rahman
-- **Director**: Blessy
-
----
-
-### 5. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
-
-- **Synopsis**: Jose, a jeep driver from Idukki, finds himself in trouble and is forced to move to Chennai. There, he becomes entangled with Indhu and his best friend, Jerry, only to face unexpected surprises from Vetrivel and others as his life takes unforeseen twists.
+- **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
 
 - **Lead**: Mammootty, Anjana Jayaprakash
-- **Supporting**: Raj B. Shetty, Vijay Sethupathi, Prashanth, Bindu Panicker
+- **Supporting**: Raj B. Shetty, Bindu Panicker
 - **Music Director**: Christo Xavier
 - **Director**: Vysakh
 
 ---
 
-### 6. **Malayalee from India** (2024) [IMDb](https://en.wikipedia.org/wiki/Malayalee_from_India), [Trailer](https://www.youtube.com/watch?v=TOY-f5XL3-M)
+### 4. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
-- **Synopsis**: A young man, recently unemployed and with no clear direction, feels compelled to leave his home and embark on a journey. This decision sets in motion a series of events that change the course of his life forever.
+- **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
-- **Lead**: Nivin Pauly, Dhyan Sreenivasan
-- **Supporting**: Anaswara Rajan, Manju Pillai, Shine Tom Chacko
-- **Music Director**: Jakes Bejoy
-- **Director**: Dijo Jose Antony
+- **Lead**: Suraj Venjaramoodu, Biju Menon, Johny Antony, Lalu Alex
+- **Supporting**: Lijo Mol Jose, Sudhi Koppa
+- **Music Director**: Ankit Menon
+- **Director**: Vishnu Narayan
+
+---
+
+### 5. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
+
+- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
+
+- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
+- **Music Director**: Ankit Menon
+- **Director**: Vipin Das
+
+---
+
+### 6. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
+
+- **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
+
+- **Lead**: Ranjith Sajeev, Dileesh Pothan, Sunny Wayne
+- **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
+- **Music Director**: Aby Salvin Thomas
+- **Director**: Samjad
 
 ---
 
