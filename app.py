@@ -72,7 +72,8 @@ def extract_movie_details(html_content):
                 if 'Wiki' in link.text:
                     extras['imdb'] = link['href']
                 elif 'Trailer' in link.text:
-                    extras['trailer'] = link['href']
+                    if 'href' in link.attrs:
+                        extras['trailer'] = link['href']
         movie['extras'] = extras
 
         movies.append(movie)
