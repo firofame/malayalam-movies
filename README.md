@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-17)
+# Watch List (Updated: 2024-08-18)
 
 ### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
@@ -21,18 +21,7 @@
 
 ---
 
-### 3. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
-
-- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
-
-- **Lead**: Althaf Salim, Anarkali Marikar
-- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
-- **Music Director**: Bibin Ashok
-- **Director**: Vinod Leela
-
----
-
-### 4. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
+### 3. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
 - **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
@@ -43,7 +32,7 @@
 
 ---
 
-### 5. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
+### 4. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
 - **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
 
@@ -51,6 +40,17 @@
 - **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
 - **Music Director**: Aby Salvin Thomas
 - **Director**: Samjad
+
+---
+
+### 5. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
+
+- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
+
+- **Lead**: Althaf Salim, Anarkali Marikar
+- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
+- **Music Director**: Bibin Ashok
+- **Director**: Vinod Leela
 
 ---
 
