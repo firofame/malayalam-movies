@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-22)
+# Watch List (Updated: 2024-08-23)
 
 ### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
@@ -54,13 +54,14 @@
 
 ---
 
-### 6. **Guruvayoorambala Nadayil** (2024) [IMDb](https://www.imdb.com/title/tt25400540/), [Trailer](https://www.youtube.com/watch?v=u-BLHW3tJPA)
+### 6. **Little Hearts** (2024) [IMDb](https://www.imdb.com/title/tt29456979/), [Trailer](https://www.youtube.com/watch?v=pBYC1GOpRYI)
 
-- **Synopsis**: A young man who is set to get married but due to a web of unforeseen bad luck and circumstances, he marries a woman who hates him and has to suffer her wrath over it.
+- **Synopsis**: The story follows father Baby and son Sibi as they navigate three intertwined romantic tales set against the scenic backdrop of Kattappana. Blending humor with relatable love stories, it provides a charming experience for audiences of all ages.
 
-- **Lead**: Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal, Anaswara Rajan, Yogi Babu
-- **Music Director**: Ankit Menon
-- **Director**: Vipin Das
+- **Lead**: Shane Nigam, Mahima Nambiar, Baburaj
+- **Supporting**: Jaffer Idukki, Shine Tom Chacko
+- **Music Director**: Kailas Menon
+- **Director**: Anto Jose Pereira
 
 ---
 
