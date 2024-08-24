@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-23)
+# Watch List (Updated: 2024-08-24)
 
 ### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
-
-- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
-
-- **Lead**: Althaf Salim, Anarkali Marikar
-- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
-- **Music Director**: Bibin Ashok
-- **Director**: Vinod Leela
-
----
-
-### 6. **Little Hearts** (2024) [IMDb](https://www.imdb.com/title/tt29456979/), [Trailer](https://www.youtube.com/watch?v=pBYC1GOpRYI)
+### 5. **Little Hearts** (2024) [IMDb](https://www.imdb.com/title/tt29456979/), [Trailer](https://www.youtube.com/watch?v=pBYC1GOpRYI)
 
 - **Synopsis**: The story follows father Baby and son Sibi as they navigate three intertwined romantic tales set against the scenic backdrop of Kattappana. Blending humor with relatable love stories, it provides a charming experience for audiences of all ages.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Jaffer Idukki, Shine Tom Chacko
 - **Music Director**: Kailas Menon
 - **Director**: Anto Jose Pereira
+
+---
+
+### 6. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
+
+- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
+
+- **Lead**: Althaf Salim, Anarkali Marikar
+- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
+- **Music Director**: Bibin Ashok
+- **Director**: Vinod Leela
 
 ---
 
