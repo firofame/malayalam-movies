@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-24)
+# Watch List (Updated: 2024-08-25)
 
 ### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
@@ -10,18 +10,7 @@
 
 ---
 
-### 2. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
-
-- **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
-
-- **Lead**: Mammootty, Anjana Jayaprakash
-- **Supporting**: Raj B. Shetty, Bindu Panicker
-- **Music Director**: Christo Xavier
-- **Director**: Vysakh
-
----
-
-### 3. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
+### 2. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
 - **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
 
@@ -29,6 +18,17 @@
 - **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
 - **Music Director**: Aby Salvin Thomas
 - **Director**: Samjad
+
+---
+
+### 3. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
+
+- **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
+
+- **Lead**: Mammootty, Anjana Jayaprakash
+- **Supporting**: Raj B. Shetty, Bindu Panicker
+- **Music Director**: Christo Xavier
+- **Director**: Vysakh
 
 ---
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Mandakini** (2024) [IMDb](https://www.imdb.com/title/tt32089689/), [Trailer](https://www.youtube.com/watch?v=cdcG9fYoCpI)
+### 6. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
 
-- **Synopsis**: Aromal and Ambili tied the knot, full of excitement for their new life together. However, an unexpected incident on their wedding night throws their family into a complex and challenging situation.
+- **Synopsis**: An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.
 
-- **Lead**: Althaf Salim, Anarkali Marikar
-- **Supporting**: Siju Wilson, Saritha kukku, Priya Prakash Varrier
-- **Music Director**: Bibin Ashok
-- **Director**: Vinod Leela
+- **Lead**: Roshan Mathew, Darshana Rajendran
+- **Supporting**: Shyam Fernando, Mahendra Perera
+- **Music Director**: Krishna Kumar
+- **Director**: Prasanna Vithanage
 
 ---
 
