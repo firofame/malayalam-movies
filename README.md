@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-25)
+# Watch List (Updated: 2024-08-26)
 
 ### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
