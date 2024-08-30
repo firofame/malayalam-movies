@@ -1,16 +1,6 @@
-# Watch List (Updated: 2024-08-29)
+# Watch List (Updated: 2024-08-30)
 
-### 1. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
-
----
-
-### 2. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
+### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
 - **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
 - **Music Director**: Aby Salvin Thomas
 - **Director**: Samjad
+
+---
+
+### 2. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
 
 ---
 
