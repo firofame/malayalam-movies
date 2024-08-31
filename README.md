@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-08-30)
+# Watch List (Updated: 2024-08-31)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Paradise** (2024) [IMDb](https://www.imdb.com/title/tt28800663/), [Trailer](https://www.youtube.com/watch?v=B_k88dX02Do)
+### 6. **Grrrr..** (2024) [IMDb](https://www.imdb.com/title/tt13004760/), [Trailer](https://www.youtube.com/watch?v=Mj-wGDiGhXg)
 
-- **Synopsis**: An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.
+- **Synopsis**: Inspired by true events, this comedy follows a group of thrill-seekers whose adventure takes an unexpected turn when they stumble into a wild cat sanctuary. Chaos and laughter ensue as they navigate the dangers of their unplanned encounter.
 
-- **Lead**: Roshan Mathew, Darshana Rajendran
-- **Supporting**: Shyam Fernando, Mahendra Perera
-- **Music Director**: Krishna Kumar
-- **Director**: Prasanna Vithanage
+- **Lead**: Suraj Venjaramoodu, Kunchacko Boban
+- **Supporting**: Shruti Ramachandran, Anagha, Rajesh Madhavan, Alencier Ley Lopez
+- **Music Director**: Dawn Vincent
+- **Director**: Jayakrishnan
 
 ---
 
