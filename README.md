@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-05)
+# Watch List (Updated: 2024-09-06)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
