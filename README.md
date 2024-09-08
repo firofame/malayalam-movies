@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-07)
+# Watch List (Updated: 2024-09-08)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
-
-- **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
-
-- **Lead**: Mammootty, Anjana Jayaprakash
-- **Supporting**: Raj B. Shetty, Bindu Panicker
-- **Music Director**: Christo Xavier
-- **Director**: Vysakh
-
----
-
-### 3. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
+### 2. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
 - **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Lijo Mol Jose, Sudhi Koppa
 - **Music Director**: Ankit Menon
 - **Director**: Vishnu Narayan
+
+---
+
+### 3. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
+
+- **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
+
+- **Lead**: Mammootty, Anjana Jayaprakash
+- **Supporting**: Raj B. Shetty, Bindu Panicker
+- **Music Director**: Christo Xavier
+- **Director**: Vysakh
 
 ---
 
