@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-10)
+# Watch List (Updated: 2024-09-11)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -22,7 +22,17 @@
 
 ---
 
-### 3. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
+### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
+
+---
+
+### 4. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
 
 - **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
 
@@ -30,16 +40,6 @@
 - **Supporting**: Raj B. Shetty, Bindu Panicker
 - **Music Director**: Christo Xavier
 - **Director**: Vysakh
-
----
-
-### 4. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
 
 ---
 
