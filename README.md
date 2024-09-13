@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-12)
+# Watch List (Updated: 2024-09-13)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -11,7 +11,17 @@
 
 ---
 
-### 2. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
+### 2. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
+
+---
+
+### 3. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
 - **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
@@ -19,16 +29,6 @@
 - **Supporting**: Lijo Mol Jose, Sudhi Koppa
 - **Music Director**: Ankit Menon
 - **Director**: Vishnu Narayan
-
----
-
-### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
 
 ---
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Grrrr..** (2024) [IMDb](https://www.imdb.com/title/tt13004760/), [Trailer](https://www.youtube.com/watch?v=Mj-wGDiGhXg)
+### 6. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
 
-- **Synopsis**: Inspired by true events, this comedy follows a group of thrill-seekers whose adventure takes an unexpected turn when they stumble into a wild cat sanctuary. Chaos and laughter ensue as they navigate the dangers of their unplanned encounter.
+- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
 
-- **Lead**: Suraj Venjaramoodu, Kunchacko Boban
-- **Supporting**: Shruti Ramachandran, Anagha, Rajesh Madhavan, Alencier Ley Lopez
-- **Music Director**: Dawn Vincent
-- **Director**: Jayakrishnan
+- **Lead**: Suraj Venjaramoodu, Asif Ali
+- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
+- **Music Director**: Jakes Bejoy
+- **Director**: Nahas Nazar
 
 ---
 
