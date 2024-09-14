@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-13)
+# Watch List (Updated: 2024-09-14)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -32,7 +32,18 @@
 
 ---
 
-### 4. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
+### 4. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+
+- **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
+
+- **Lead**: Biju Menon, Asif Ali
+- **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
+- **Music Director**: Deepak Dev
+- **Director**: Jis Joy
+
+---
+
+### 5. **Turbo** (2024) [IMDb](https://www.imdb.com/title/tt29608104/), [Trailer](https://www.youtube.com/watch?v=LOE8ESPIMpE)
 
 - **Synopsis**: Jose, a jeep driver from Idukki, relocates to Chennai after getting into trouble. Entangled with Indhu and his best friend Jerry, he faces unexpected twists when Vetrivel enters the scene. But just as Jose thinks he's in control, a final surprise changes everything.
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Little Hearts** (2024) [IMDb](https://www.imdb.com/title/tt29456979/), [Trailer](https://www.youtube.com/watch?v=pBYC1GOpRYI)
+### 6. **Little Hearts** (2024) [IMDb](https://www.imdb.com/title/tt29456979/), [Trailer](https://www.youtube.com/watch?v=pBYC1GOpRYI)
 
 - **Synopsis**: The story follows father Baby and son Sibi as they navigate three intertwined romantic tales set against the scenic backdrop of Kattappana. Blending humor with relatable love stories, it provides a charming experience for audiences of all ages.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Jaffer Idukki, Shine Tom Chacko
 - **Music Director**: Kailas Menon
 - **Director**: Anto Jose Pereira
-
----
-
-### 6. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
-
-- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
-
-- **Lead**: Suraj Venjaramoodu, Asif Ali
-- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
-- **Music Director**: Jakes Bejoy
-- **Director**: Nahas Nazar
 
 ---
 
