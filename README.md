@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-14)
+# Watch List (Updated: 2024-09-15)
 
 ### 1. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
 
@@ -11,7 +11,18 @@
 
 ---
 
-### 2. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+### 2. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+
+- **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
+
+- **Lead**: Biju Menon, Asif Ali
+- **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
+- **Music Director**: Deepak Dev
+- **Director**: Jis Joy
+
+---
+
+### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
 - **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
 
@@ -21,7 +32,7 @@
 
 ---
 
-### 3. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
+### 4. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
 - **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
@@ -29,17 +40,6 @@
 - **Supporting**: Lijo Mol Jose, Sudhi Koppa
 - **Music Director**: Ankit Menon
 - **Director**: Vishnu Narayan
-
----
-
-### 4. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
-
-- **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
-
-- **Lead**: Biju Menon, Asif Ali
-- **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
-- **Music Director**: Deepak Dev
-- **Director**: Jis Joy
 
 ---
 
