@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-16)
+# Watch List (Updated: 2024-09-17)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -22,7 +22,18 @@
 
 ---
 
-### 3. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+### 3. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
+
+- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
+
+- **Lead**: Basil Joseph, Nikhila Vimal
+- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
+- **Music Director**: Vishnu Shyam
+- **Director**: Jeethu Joseph
+
+---
+
+### 4. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
 
 - **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
 
@@ -32,7 +43,7 @@
 
 ---
 
-### 4. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
+### 5. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
 
 - **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
+### 6. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
 
 - **Synopsis**: An unmarried caretaker's ordinary life takes a surprising turn when he forms an unexpected connection with someone in the residential complex. This new bond brings happiness into his daily routine, despite the challenges he faces.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Vineeth Kumar, Dharmajan Bolgatty, Jinu Ben
 - **Music Director**: Midhun Mukundan
 - **Director**: Vineeth Kumar
-
----
-
-### 6. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
-
-- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
-
-- **Lead**: Basil Joseph, Nikhila Vimal
-- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
-- **Music Director**: Vishnu Shyam
-- **Director**: Jeethu Joseph
 
 ---
 
