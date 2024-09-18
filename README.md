@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-17)
+# Watch List (Updated: 2024-09-18)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Nadanna Sambhavam** (2024) [IMDb](https://www.imdb.com/title/tt26445683/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Nadanna%2520Sambhavam)
-
-- **Synopsis**: A group of family and friends in a residential association experience a major shift upon the arrival of a peculiar new tenant.
-
-- **Lead**: Suraj Venjaramoodu, Biju Menon, Johny Antony, Lalu Alex
-- **Supporting**: Lijo Mol Jose, Sudhi Koppa
-- **Music Director**: Ankit Menon
-- **Director**: Vishnu Narayan
-
----
-
-### 6. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
+### 5. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
 
 - **Synopsis**: An unmarried caretaker's ordinary life takes a surprising turn when he forms an unexpected connection with someone in the residential complex. This new bond brings happiness into his daily routine, despite the challenges he faces.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Vineeth Kumar, Dharmajan Bolgatty, Jinu Ben
 - **Music Director**: Midhun Mukundan
 - **Director**: Vineeth Kumar
+
+---
+
+### 6. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
+
+- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
+
+- **Lead**: Suraj Venjaramoodu, Asif Ali
+- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
+- **Music Director**: Jakes Bejoy
+- **Director**: Nahas Nazar
 
 ---
 
