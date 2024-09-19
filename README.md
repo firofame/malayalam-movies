@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-18)
+# Watch List (Updated: 2024-09-19)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -33,17 +33,7 @@
 
 ---
 
-### 4. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
-
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
-
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
-
----
-
-### 5. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
+### 4. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
 
 - **Synopsis**: An unmarried caretaker's ordinary life takes a surprising turn when he forms an unexpected connection with someone in the residential complex. This new bond brings happiness into his daily routine, despite the challenges he faces.
 
@@ -54,7 +44,7 @@
 
 ---
 
-### 6. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
+### 5. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
 
 - **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
 
@@ -62,6 +52,16 @@
 - **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
 - **Music Director**: Jakes Bejoy
 - **Director**: Nahas Nazar
+
+---
+
+### 6. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+
+- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+
+- **Lead**: Parvathy Thiruvothu, Urvasi
+- **Supporting**: Shebin Benson, Alencier Ley Lopez
+- **Music Director**: Sushin Shyam
 
 ---
 
