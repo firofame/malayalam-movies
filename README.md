@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-19)
+# Watch List (Updated: 2024-09-20)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
-
-- **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
-
-- **Lead**: Ranjith Sajeev, Dileesh Pothan, Sunny Wayne
-- **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
-- **Music Director**: Aby Salvin Thomas
-- **Director**: Samjad
-
----
-
-### 3. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
+### 2. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
 
 - **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
 - **Music Director**: Vishnu Shyam
 - **Director**: Jeethu Joseph
+
+---
+
+### 3. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
+
+- **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
+
+- **Lead**: Ranjith Sajeev, Dileesh Pothan, Sunny Wayne
+- **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
+- **Music Director**: Aby Salvin Thomas
+- **Director**: Samjad
 
 ---
 
