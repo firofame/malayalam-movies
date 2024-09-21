@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-20)
+# Watch List (Updated: 2024-09-21)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
