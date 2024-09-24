@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-23)
+# Watch List (Updated: 2024-09-24)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -55,13 +55,12 @@
 
 ---
 
-### 6. **Ullozhukku** (2024) [IMDb](https://www.imdb.com/title/tt32537777/), [Trailer](https://www.youtube.com/watch?v=iElmR97W024)
+### 6. **Cheena Trophy** (2023) [IMDb](https://www.imdb.com/title/tt29026239/), [Trailer](https://www.youtube.com/watch?v=hUAVJfyEia8)
 
-- **Synopsis**: A family's attempt to bury a loved one is thwarted by floodwaters, forcing them to confront long-buried secrets and lies that threaten their unity.
+- **Synopsis**: Rajesh a struggling entrepreneur who runs a bakeshop, the arrival of Zheng, a woman from China. Her presence somewhat disrupts the rhythm of the village, leaving the audience curious about her identity and the reasons behind her visit.
 
-- **Lead**: Parvathy Thiruvothu, Urvasi
-- **Supporting**: Shebin Benson, Alencier Ley Lopez
-- **Music Director**: Sushin Shyam
+- **Lead**: Dhyan Sreenivasan, Johny Antony, Jaffer Idukki
+- **Supporting**: Sudheesh, Ponnamma Babu
 
 ---
 
