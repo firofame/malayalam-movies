@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-28)
+# Watch List (Updated: 2024-09-29)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -55,12 +55,14 @@
 
 ---
 
-### 6. **Cheena Trophy** (2023) [IMDb](https://www.imdb.com/title/tt29026239/), [Trailer](https://www.youtube.com/watch?v=hUAVJfyEia8)
+### 6. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
-- **Synopsis**: Rajesh a struggling entrepreneur who runs a bakeshop, the arrival of Zheng, a woman from China. Her presence somewhat disrupts the rhythm of the village, leaving the audience curious about her identity and the reasons behind her visit.
+- **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
-- **Lead**: Dhyan Sreenivasan, Johny Antony, Jaffer Idukki
-- **Supporting**: Sudheesh, Ponnamma Babu
+- **Lead**: Joemon Jyothir, Saaf Bros, Hashir
+- **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
+- **Music Director**: Rajat Prakash
+- **Director**: Anand Menen
 
 ---
 
