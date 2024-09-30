@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-29)
+# Watch List (Updated: 2024-09-30)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -44,18 +44,7 @@
 
 ---
 
-### 5. **Golam** (2024) [IMDb](https://www.imdb.com/title/tt29272469/), [Trailer](https://www.youtube.com/watch?v=vL6l-9OqmfU)
-
-- **Synopsis**: A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.
-
-- **Lead**: Ranjith Sajeev, Dileesh Pothan, Sunny Wayne
-- **Supporting**: Chinnu Chandni Nair, Alencier Ley Lopez, Siddique
-- **Music Director**: Aby Salvin Thomas
-- **Director**: Samjad
-
----
-
-### 6. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 5. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -63,6 +52,17 @@
 - **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
 - **Music Director**: Rajat Prakash
 - **Director**: Anand Menen
+
+---
+
+### 6. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
+
+- **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
+
+- **Lead**: Kalabhavan Shajohn, Baiju
+- **Supporting**: Anumol, Sudheer Karamana, Indrans
+- **Music Director**: Anu B Ivar
+- **Director**: Sanoop Sathyan
 
 ---
 
