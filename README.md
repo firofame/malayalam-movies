@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-09-30)
+# Watch List (Updated: 2024-10-01)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
-
-- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
-
-- **Lead**: Suraj Venjaramoodu, Asif Ali
-- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
-- **Music Director**: Jakes Bejoy
-- **Director**: Nahas Nazar
-
----
-
-### 5. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 4. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -52,6 +41,17 @@
 - **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
 - **Music Director**: Rajat Prakash
 - **Director**: Anand Menen
+
+---
+
+### 5. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
+
+- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
+
+- **Lead**: Suraj Venjaramoodu, Asif Ali
+- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
+- **Music Director**: Jakes Bejoy
+- **Director**: Nahas Nazar
 
 ---
 
