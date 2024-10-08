@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-07)
+# Watch List (Updated: 2024-10-08)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -55,14 +55,13 @@
 
 ---
 
-### 6. **Adios Amigo** (2024) [IMDb](https://en.wikipedia.org/wiki/Adios_Amigo_%282024_film%29), [Trailer](https://www.youtube.com/watch?v=oi-ABOheUpQ)
+### 6. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
 
-- **Synopsis**: At a busy bus stand, two men from very different backgrounds meet by chance. One is wealthy, while the other struggles with life's difficulties. Their chance encounter leads to a journey full of humor and unexpected adventures.
+- **Synopsis**: Mrinalini, a dedicated teacher, pursues the culprit who took her water pump. As the case lingers for years without resolution, it subtly highlights the slow pace of India's legal system.
 
-- **Lead**: Suraj Venjaramoodu, Asif Ali
-- **Supporting**: Anagha, Shine Tom Chacko, Althaf Salim
-- **Music Director**: Jakes Bejoy
-- **Director**: Nahas Nazar
+- **Lead**: Indrans, Urvasi
+- **Supporting**: Johny Antony, Vijayaraghavan, Althaf Salim, Sanusha
+- **Music Director**: Kailas Menon
 
 ---
 
