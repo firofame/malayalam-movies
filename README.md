@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-08)
+# Watch List (Updated: 2024-10-09)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -44,24 +44,22 @@
 
 ---
 
-### 5. **Pavi Caretaker** (2024) [IMDb](https://www.imdb.com/title/tt27369385/), [Trailer](https://www.youtube.com/watch?v=tAPT0fo57Ok)
-
-- **Synopsis**: An unmarried caretaker's ordinary life takes a surprising turn when he forms an unexpected connection with someone in the residential complex. This new bond brings happiness into his daily routine, despite the challenges he faces.
-
-- **Lead**: Dileep, Johny Antony, Radhika
-- **Supporting**: Vineeth Kumar, Dharmajan Bolgatty, Jinu Ben
-- **Music Director**: Midhun Mukundan
-- **Director**: Vineeth Kumar
-
----
-
-### 6. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
+### 5. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
 
 - **Synopsis**: Mrinalini, a dedicated teacher, pursues the culprit who took her water pump. As the case lingers for years without resolution, it subtly highlights the slow pace of India's legal system.
 
 - **Lead**: Indrans, Urvasi
 - **Supporting**: Johny Antony, Vijayaraghavan, Althaf Salim, Sanusha
 - **Music Director**: Kailas Menon
+
+---
+
+### 6. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
 
 ---
 
