@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-11)
+# Watch List (Updated: 2024-10-12)
 
 ### 1. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
@@ -44,22 +44,22 @@
 
 ---
 
-### 5. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
+### 5. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
+
+---
+
+### 6. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
 
 - **Synopsis**: Mrinalini, a dedicated teacher, pursues the culprit who took her water pump. As the case lingers for years without resolution, it subtly highlights the slow pace of India's legal system.
 
 - **Lead**: Indrans, Urvasi
 - **Supporting**: Johny Antony, Vijayaraghavan, Althaf Salim, Sanusha
 - **Music Director**: Kailas Menon
-
----
-
-### 6. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
 
 ---
 
