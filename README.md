@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-13)
+# Watch List (Updated: 2024-10-14)
 
 ### 1. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
 
