@@ -1,17 +1,6 @@
-# Watch List (Updated: 2024-10-16)
+# Watch List (Updated: 2024-10-17)
 
-### 1. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
-
-- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
-
-- **Lead**: Basil Joseph, Nikhila Vimal
-- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
-- **Music Director**: Vishnu Shyam
-- **Director**: Jeethu Joseph
-
----
-
-### 2. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 1. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -22,7 +11,7 @@
 
 ---
 
-### 3. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
+### 2. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
 - **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Anumol, Sudheer Karamana, Indrans
 - **Music Director**: Anu B Ivar
 - **Director**: Sanoop Sathyan
+
+---
+
+### 3. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
+
+- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
+
+- **Lead**: Basil Joseph, Nikhila Vimal
+- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
+- **Music Director**: Vishnu Shyam
+- **Director**: Jeethu Joseph
 
 ---
 
