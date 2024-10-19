@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-18)
+# Watch List (Updated: 2024-10-19)
 
 ### 1. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
-
-- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
-
-- **Lead**: Basil Joseph, Nikhila Vimal
-- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
-- **Music Director**: Vishnu Shyam
-- **Director**: Jeethu Joseph
-
----
-
-### 4. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+### 3. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
 - **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
 - **Music Director**: Deepak Dev
 - **Director**: Jis Joy
+
+---
+
+### 4. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
+
+- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
+
+- **Lead**: Basil Joseph, Nikhila Vimal
+- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
+- **Music Director**: Vishnu Shyam
+- **Director**: Jeethu Joseph
 
 ---
 
