@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-19)
+# Watch List (Updated: 2024-10-20)
 
 ### 1. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
