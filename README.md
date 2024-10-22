@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-21)
+# Watch List (Updated: 2024-10-22)
 
 ### 1. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
@@ -53,13 +53,13 @@
 
 ---
 
-### 6. **Jaladhara Pumpset Since 1962** (2023) [IMDb](https://www.imdb.com/title/tt20765818/), [Trailer](https://www.youtube.com/watch?v=FaZB4KuOf8g)
+### 6. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
-- **Synopsis**: Mrinalini, a dedicated teacher, pursues the culprit who took her water pump. As the case lingers for years without resolution, it subtly highlights the slow pace of India's legal system.
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
 
-- **Lead**: Indrans, Urvasi
-- **Supporting**: Johny Antony, Vijayaraghavan, Althaf Salim, Sanusha
-- **Music Director**: Kailas Menon
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
 
 ---
 
