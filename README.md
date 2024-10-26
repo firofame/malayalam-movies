@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-25)
+# Watch List (Updated: 2024-10-26)
 
 ### 1. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
@@ -31,7 +31,17 @@
 
 ---
 
-### 4. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+### 4. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
+
+---
+
+### 5. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
 - **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
 
@@ -39,16 +49,6 @@
 - **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
 - **Music Director**: Deepak Dev
 - **Director**: Jis Joy
-
----
-
-### 5. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
 
 ---
 
