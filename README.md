@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-26)
+# Watch List (Updated: 2024-10-27)
 
 ### 1. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
@@ -52,14 +52,13 @@
 
 ---
 
-### 6. **Nunakuzhi** (2024) [IMDb](https://www.imdb.com/title/tt29274198/), [Trailer](https://www.youtube.com/watch?v=Ek78m6BOGTQ)
+### 6. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
 
-- **Synopsis**: A young man gets caught in a tangled mess of lies and mistaken identities, plunging him into a whirlwind of chaos and unexpected twists.
+- **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
 
-- **Lead**: Basil Joseph, Nikhila Vimal
-- **Supporting**: Saiju Kurup, Grace Antony, Althaf Salim
-- **Music Director**: Vishnu Shyam
-- **Director**: Jeethu Joseph
+- **Lead**: Shine Tom Chacko, Swasika, Grace Antony
+- **Supporting**: Sminu Sijo, Johny Antony
+- **Music Director**: Bijibal
 
 ---
 
