@@ -1,6 +1,15 @@
-# Watch List (Updated: 2024-10-28)
+# Watch List (Updated: 2024-10-29)
 
-### 1. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
+### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
+
+---
+
+### 2. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
 - **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
 
@@ -8,15 +17,6 @@
 - **Supporting**: Anumol, Sudheer Karamana, Indrans
 - **Music Director**: Anu B Ivar
 - **Director**: Sanoop Sathyan
-
----
-
-### 2. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
 
 ---
 
@@ -41,7 +41,17 @@
 
 ---
 
-### 5. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+### 5. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
+
+- **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
+
+- **Lead**: Shine Tom Chacko, Swasika, Grace Antony
+- **Supporting**: Sminu Sijo, Johny Antony
+- **Music Director**: Bijibal
+
+---
+
+### 6. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
 
 - **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
 
@@ -49,16 +59,6 @@
 - **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
 - **Music Director**: Deepak Dev
 - **Director**: Jis Joy
-
----
-
-### 6. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
-
-- **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
-
-- **Lead**: Shine Tom Chacko, Swasika, Grace Antony
-- **Supporting**: Sminu Sijo, Johny Antony
-- **Music Director**: Bijibal
 
 ---
 
