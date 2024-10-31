@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-30)
+# Watch List (Updated: 2024-10-31)
 
 ### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
 
@@ -20,7 +20,17 @@
 
 ---
 
-### 3. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 3. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
+
+---
+
+### 4. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -28,16 +38,6 @@
 - **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
 - **Music Director**: Rajat Prakash
 - **Director**: Anand Menen
-
----
-
-### 4. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
 
 ---
 
