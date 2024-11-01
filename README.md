@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-10-31)
+# Watch List (Updated: 2024-11-01)
 
 ### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
 
@@ -9,7 +9,17 @@
 
 ---
 
-### 2. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
+### 2. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
+
+---
+
+### 3. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
 - **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
 
@@ -17,16 +27,6 @@
 - **Supporting**: Anumol, Sudheer Karamana, Indrans
 - **Music Director**: Anu B Ivar
 - **Director**: Sanoop Sathyan
-
----
-
-### 3. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
 
 ---
 
