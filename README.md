@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-01)
+# Watch List (Updated: 2024-11-02)
 
 ### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
 
