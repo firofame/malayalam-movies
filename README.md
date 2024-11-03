@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-02)
+# Watch List (Updated: 2024-11-03)
 
 ### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
 
@@ -30,7 +30,17 @@
 
 ---
 
-### 4. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 4. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
+
+- **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
+
+- **Lead**: Shine Tom Chacko, Swasika, Grace Antony
+- **Supporting**: Sminu Sijo, Johny Antony
+- **Music Director**: Bijibal
+
+---
+
+### 5. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -38,16 +48,6 @@
 - **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
 - **Music Director**: Rajat Prakash
 - **Director**: Anand Menen
-
----
-
-### 5. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
-
-- **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
-
-- **Lead**: Shine Tom Chacko, Swasika, Grace Antony
-- **Supporting**: Sminu Sijo, Johny Antony
-- **Music Director**: Bijibal
 
 ---
 
