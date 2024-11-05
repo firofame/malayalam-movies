@@ -1,21 +1,21 @@
-# Watch List (Updated: 2024-11-04)
+# Watch List (Updated: 2024-11-05)
 
-### 1. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
-
----
-
-### 2. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+### 1. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
 - **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
 
 - **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
 - **Music Director**: Vishal Chandrasekhar
 - **Director**: Arfaz Ayub
+
+---
+
+### 2. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
 
 ---
 
