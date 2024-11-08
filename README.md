@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-07)
+# Watch List (Updated: 2024-11-08)
 
 ### 1. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
@@ -10,22 +10,22 @@
 
 ---
 
-### 2. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
-
----
-
-### 3. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
+### 2. **Vivekanandan Viralaanu** (2024) [IMDb](https://www.imdb.com/title/tt28090020/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Vivekanandan%2520Viralanu), [Trailer](https://www.youtube.com/watch?v=cTBzEUzjk20)
 
 - **Synopsis**: A seemingly normal person's dual life is upended when he becomes infamous overnight. He struggles to reconcile his new public persona with his true self.
 
 - **Lead**: Shine Tom Chacko, Swasika, Grace Antony
 - **Supporting**: Sminu Sijo, Johny Antony
 - **Music Director**: Bijibal
+
+---
+
+### 3. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
 
 ---
 
