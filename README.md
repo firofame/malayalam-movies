@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-09)
+# Watch List (Updated: 2024-11-10)
 
 ### 1. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
@@ -29,18 +29,7 @@
 
 ---
 
-### 4. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
-
-- **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
-
-- **Lead**: Kalabhavan Shajohn, Baiju
-- **Supporting**: Anumol, Sudheer Karamana, Indrans
-- **Music Director**: Anu B Ivar
-- **Director**: Sanoop Sathyan
-
----
-
-### 5. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 4. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -51,14 +40,25 @@
 
 ---
 
-### 6. **Thalavan** (2024) [IMDb](https://www.imdb.com/title/tt27510257/), [Trailer](https://www.youtube.com/watch?v=jhUyy5DdUZI)
+### 5. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
 
-- **Synopsis**: Retired Dysp Udhayabhanu narrates events of his professional life in a TV program. He reveals the intriguing details of the 'Chepanamthota case', a milestone event in his career.
+- **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
 
-- **Lead**: Biju Menon, Asif Ali
-- **Supporting**: Miya George, Dileesh Pothan, Jaffer Idukki
-- **Music Director**: Deepak Dev
-- **Director**: Jis Joy
+- **Lead**: Kalabhavan Shajohn, Baiju
+- **Supporting**: Anumol, Sudheer Karamana, Indrans
+- **Music Director**: Anu B Ivar
+- **Director**: Sanoop Sathyan
+
+---
+
+### 6. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
+
+- **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
+
+- **Lead**: Tovino Thomas, Aishwarya Rajesh, Krithi Shetty
+- **Supporting**: Mohanlal, Rohini
+- **Music Director**: Dhibu Ninan Thomas
+- **Director**: Jithin Lal
 
 ---
 
