@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-12)
+# Watch List (Updated: 2024-11-13)
 
 ### 1. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
@@ -40,7 +40,18 @@
 
 ---
 
-### 5. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 5. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+
+- **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
+
+- **Lead**: Jaise Jose, Bibin George, Bindu Sajeev
+- **Supporting**: Dileesh Pothan
+- **Music Director**: Stephen Devassy
+- **Director**: Amal K Joby
+
+---
+
+### 6. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
 
 - **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
 
@@ -48,17 +59,6 @@
 - **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
 - **Music Director**: Rajat Prakash
 - **Director**: Anand Menen
-
----
-
-### 6. **CID Ramachandran Retd SI** (2024) [IMDb](https://www.imdb.com/title/tt26931586/), [Trailer](https://www.youtube.com/watch?v=CY7-dFvTgbk)
-
-- **Synopsis**: Retired police inspector Ramachandran investigates a case of falsely accused suspects in a rural area, uncovering lies, betrayal, and the real culprit to exonerate the innocent and restore faith in justice.
-
-- **Lead**: Kalabhavan Shajohn, Baiju
-- **Supporting**: Anumol, Sudheer Karamana, Indrans
-- **Music Director**: Anu B Ivar
-- **Director**: Sanoop Sathyan
 
 ---
 
