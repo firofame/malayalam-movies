@@ -1,16 +1,6 @@
-# Watch List (Updated: 2024-11-14)
+# Watch List (Updated: 2024-11-15)
 
-### 1. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
-
----
-
-### 2. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
+### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
 - **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
 
@@ -18,6 +8,16 @@
 - **Supporting**: Mohanlal, Rohini
 - **Music Director**: Dhibu Ninan Thomas
 - **Director**: Jithin Lal
+
+---
+
+### 2. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
 
 ---
 
