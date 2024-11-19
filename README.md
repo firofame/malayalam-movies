@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-18)
+# Watch List (Updated: 2024-11-19)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -11,17 +11,7 @@
 
 ---
 
-### 2. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
-
----
-
-### 3. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+### 2. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
 
 - **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
 
@@ -29,6 +19,16 @@
 - **Supporting**: Dileesh Pothan
 - **Music Director**: Stephen Devassy
 - **Director**: Amal K Joby
+
+---
+
+### 3. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
 
 ---
 
@@ -52,14 +52,12 @@
 
 ---
 
-### 6. **Vaazha: Biopic of a Billion Boys** (2024) [IMDb](https://www.imdb.com/title/tt29470244/), [Trailer](https://www.youtube.com/watch?v=B0jPCvKH5kQ)
+### 6. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
 
-- **Synopsis**: Four friends, labeled as 'losers' by society, struggle with the weight of parental and societal expectations as they step into adulthood. Their journey of self-discovery and acceptance is filled with challenges, but in the end, love and friendship rise above the judgments they face.
+- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
 
-- **Lead**: Joemon Jyothir, Saaf Bros, Hashir
-- **Supporting**: Kottayam Nazeer, Sminu Sijo, Jagadish
-- **Music Director**: Rajat Prakash
-- **Director**: Anand Menen
+- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
+- **Director**: C.D.Venkitesh
 
 ---
 
