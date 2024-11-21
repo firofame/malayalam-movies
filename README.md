@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-20)
+# Watch List (Updated: 2024-11-21)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -32,16 +32,7 @@
 
 ---
 
-### 4. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
-
----
-
-### 5. **Gaganachari** (2024) [IMDb](https://en.wikipedia.org/wiki/Gaganachari), [Trailer](https://www.youtube.com/watch?v=RlVD9zmGsKo)
+### 4. **Gaganachari** (2024) [IMDb](https://en.wikipedia.org/wiki/Gaganachari), [Trailer](https://www.youtube.com/watch?v=RlVD9zmGsKo)
 
 - **Synopsis**: A dystopian comedy that takes place in the 2040's, where an apartment inhabited by three problematic bachelors soon becomes a haven for an extra-terrestrial female fugitive.
 
@@ -49,6 +40,15 @@
 - **Supporting**: Aju Varghese, K.B. Ganesh Kumar
 - **Music Director**: Sankar Sharma
 - **Director**: Arun Chandu
+
+---
+
+### 5. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
 
 ---
 
