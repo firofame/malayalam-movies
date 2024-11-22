@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-21)
+# Watch List (Updated: 2024-11-22)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -43,21 +43,21 @@
 
 ---
 
-### 5. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
-
-- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
-
-- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
-- **Director**: Krishnadas Murali
-
----
-
-### 6. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
+### 5. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
 
 - **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
 
 - **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
 - **Director**: C.D.Venkitesh
+
+---
+
+### 6. **Bharathanatyam** (2024) [IMDb](https://www.imdb.com/title/tt31639439/), [Trailer](https://www.youtube.com/watch?v=lVnHxwWftxw)
+
+- **Synopsis**: The struggle of a young man to maintain a family secret amidst some testing situations and poky neighbourhood that leads to funny situations and later to family bonding.
+
+- **Lead**: Saiju Kurup, Saikumar, Kalaranjini, Sruthy Suresh
+- **Director**: Krishnadas Murali
 
 ---
 
