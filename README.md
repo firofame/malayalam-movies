@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-24)
+# Watch List (Updated: 2024-11-25)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -11,7 +11,18 @@
 
 ---
 
-### 2. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+### 2. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+
+- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
+
+- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
+- **Supporting**: Ashokan
+- **Music Director**: Mujeeb Majeed
+- **Director**: Dinjith Ayyathan
+
+---
+
+### 3. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
 
 - **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
 
@@ -19,16 +30,6 @@
 - **Supporting**: Dileesh Pothan
 - **Music Director**: Stephen Devassy
 - **Director**: Amal K Joby
-
----
-
-### 3. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
-
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
-
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
 
 ---
 
