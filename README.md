@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-25)
+# Watch List (Updated: 2024-11-26)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -33,17 +33,7 @@
 
 ---
 
-### 4. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
-
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
-
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
-
----
-
-### 5. **Gaganachari** (2024) [IMDb](https://en.wikipedia.org/wiki/Gaganachari), [Trailer](https://www.youtube.com/watch?v=RlVD9zmGsKo)
+### 4. **Gaganachari** (2024) [IMDb](https://en.wikipedia.org/wiki/Gaganachari), [Trailer](https://www.youtube.com/watch?v=RlVD9zmGsKo)
 
 - **Synopsis**: A dystopian comedy that takes place in the 2040's, where an apartment inhabited by three problematic bachelors soon becomes a haven for an extra-terrestrial female fugitive.
 
@@ -51,6 +41,16 @@
 - **Supporting**: Aju Varghese, K.B. Ganesh Kumar
 - **Music Director**: Sankar Sharma
 - **Director**: Arun Chandu
+
+---
+
+### 5. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+
+- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+
+- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
+- **Music Director**: Vishal Chandrasekhar
+- **Director**: Arfaz Ayub
 
 ---
 
