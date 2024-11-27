@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-26)
+# Watch List (Updated: 2024-11-27)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -44,22 +44,22 @@
 
 ---
 
-### 5. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+### 5. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
+
+- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
+
+- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
+- **Director**: C.D.Venkitesh
+
+---
+
+### 6. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
 
 - **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
 
 - **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
 - **Music Director**: Vishal Chandrasekhar
 - **Director**: Arfaz Ayub
-
----
-
-### 6. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
-
-- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
-
-- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
-- **Director**: C.D.Venkitesh
 
 ---
 
