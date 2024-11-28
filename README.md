@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-27)
+# Watch List (Updated: 2024-11-28)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -53,13 +53,14 @@
 
 ---
 
-### 6. **Level Cross** (2024) [IMDb](https://imdb.com/title/tt27328373/), [Trailer](https://www.youtube.com/watch?v=D2iT47KqS9w)
+### 6. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
 
-- **Synopsis**: A modern girl and an unruly man from different worlds meet at a surreal setup. Despite their differences, they discover unexpected similarities about life.
+- **Synopsis**: Two rivals, a retired engineer and rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.
 
-- **Lead**: Asif Ali, Amala Paul, Sharaf U Dheen
-- **Music Director**: Vishal Chandrasekhar
-- **Director**: Arfaz Ayub
+- **Lead**: Vinayakan, Suraj Venjaramoodu
+- **Supporting**: Vineeth Vishwam
+- **Music Director**: Sam C. S.
+- **Director**: Prem Shankar
 
 ---
 
