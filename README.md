@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-11-30)
+# Watch List (Updated: 2024-12-01)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -33,16 +33,7 @@
 
 ---
 
-### 4. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
-
-- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
-
-- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
-- **Director**: C.D.Venkitesh
-
----
-
-### 5. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
+### 4. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
 
 - **Synopsis**: Two rivals, a retired engineer and rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.
 
@@ -53,14 +44,22 @@
 
 ---
 
-### 6. **Gaganachari** (2024) [IMDb](https://en.wikipedia.org/wiki/Gaganachari), [Trailer](https://www.youtube.com/watch?v=RlVD9zmGsKo)
+### 5. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
 
-- **Synopsis**: A dystopian comedy that takes place in the 2040's, where an apartment inhabited by three problematic bachelors soon becomes a haven for an extra-terrestrial female fugitive.
+- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
 
-- **Lead**: Gokul Suresh, Anarkali Marikar
-- **Supporting**: Aju Varghese, K.B. Ganesh Kumar
+- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
+- **Director**: C.D.Venkitesh
+
+---
+
+### 6. **Secret** (2024) [IMDb](https://www.imdb.com/title/tt27494298/), [Trailer](https://www.youtube.com/watch?v=NNdfVVWPxRk)
+
+- **Synopsis**: Secret promises to be a gripping tale that explores the science of omens (Nimitha Shasthram), psychological turmoil, and the strength of friendships.
+
+- **Lead**: Dhyan Sreenivasan, Aparna Das
+- **Supporting**: Ranjith, Sshivada, Chandhunadh
 - **Music Director**: Sankar Sharma
-- **Director**: Arun Chandu
 
 ---
 
