@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-01)
+# Watch List (Updated: 2024-12-02)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -44,12 +44,14 @@
 
 ---
 
-### 5. **Agathokakological** (2024) [IMDb](https://www.imdb.com/title/tt31598768/), [Trailer](https://www.youtube.com/watch?v=4SN-TRwo4kU)
+### 5. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
 
-- **Synopsis**: Nisha receives frequent blackmail calls from a private number, which she ignores at first. However, as her life becomes increasingly complicated, she realizes the threats are serious. Now, SI Ajith must uncover who is behind these calls and save Nisha from her troubles.
+- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
 
-- **Lead**: Prasanth Murali, Leona Lishoy, Maqbool Salmaan
-- **Director**: C.D.Venkitesh
+- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
+- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
+- **Music Director**: G. V. Prakash Kumar
+- **Director**: Venky Atluri
 
 ---
 
