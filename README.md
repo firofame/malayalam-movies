@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-02)
+# Watch List (Updated: 2024-12-03)
 
 ### 1. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
-
-- **Synopsis**: Two rivals, a retired engineer and rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.
-
-- **Lead**: Vinayakan, Suraj Venjaramoodu
-- **Supporting**: Vineeth Vishwam
-- **Music Director**: Sam C. S.
-- **Director**: Prem Shankar
-
----
-
-### 5. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+### 4. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
 
 - **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
 
@@ -52,6 +41,17 @@
 - **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
 - **Music Director**: G. V. Prakash Kumar
 - **Director**: Venky Atluri
+
+---
+
+### 5. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
+
+- **Synopsis**: Two rivals, a retired engineer and rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.
+
+- **Lead**: Vinayakan, Suraj Venjaramoodu
+- **Supporting**: Vineeth Vishwam
+- **Music Director**: Sam C. S.
+- **Director**: Prem Shankar
 
 ---
 
