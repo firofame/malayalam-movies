@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-04)
+# Watch List (Updated: 2024-12-05)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -53,14 +53,13 @@
 
 ---
 
-### 6. **Thekku Vadakku** (2024) [IMDb](https://www.imdb.com/title/tt32827834/), [Trailer](https://www.youtube.com/watch?v=LJmvoJJUl08)
+### 6. **Secret** (2024) [IMDb](https://www.imdb.com/title/tt27494298/), [Trailer](https://www.youtube.com/watch?v=NNdfVVWPxRk)
 
-- **Synopsis**: Two rivals, a retired engineer and rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.
+- **Synopsis**: Secret promises to be a gripping tale that explores the science of omens (Nimitha Shasthram), psychological turmoil, and the strength of friendships.
 
-- **Lead**: Vinayakan, Suraj Venjaramoodu
-- **Supporting**: Vineeth Vishwam
-- **Music Director**: Sam C. S.
-- **Director**: Prem Shankar
+- **Lead**: Dhyan Sreenivasan, Aparna Das
+- **Supporting**: Ranjith, Sshivada, Chandhunadh
+- **Music Director**: Sankar Sharma
 
 ---
 
