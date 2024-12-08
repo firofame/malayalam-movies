@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-07)
+# Watch List (Updated: 2024-12-08)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
