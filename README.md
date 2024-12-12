@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-11)
+# Watch List (Updated: 2024-12-12)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
-
-- **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
-
-- **Lead**: Jaise Jose, Bibin George, Bindu Sajeev
-- **Supporting**: Dileesh Pothan
-- **Music Director**: Stephen Devassy
-- **Director**: Amal K Joby
-
----
-
-### 4. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+### 3. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
 
 - **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
 
@@ -41,6 +30,17 @@
 - **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
 - **Music Director**: G. V. Prakash Kumar
 - **Director**: Venky Atluri
+
+---
+
+### 4. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+
+- **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
+
+- **Lead**: Jaise Jose, Bibin George, Bindu Sajeev
+- **Supporting**: Dileesh Pothan
+- **Music Director**: Stephen Devassy
+- **Director**: Amal K Joby
 
 ---
 
