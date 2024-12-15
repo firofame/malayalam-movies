@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-14)
+# Watch List (Updated: 2024-12-15)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -33,7 +33,16 @@
 
 ---
 
-### 4. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+### 4. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
+
+- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
+
+- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
+- **Director**: Lijin Jose
+
+---
+
+### 5. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
 
 - **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
 
@@ -41,15 +50,6 @@
 - **Supporting**: Dileesh Pothan
 - **Music Director**: Stephen Devassy
 - **Director**: Amal K Joby
-
----
-
-### 5. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
-
-- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
-
-- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
-- **Director**: Lijin Jose
 
 ---
 
