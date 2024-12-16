@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-15)
+# Watch List (Updated: 2024-12-16)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -33,7 +33,18 @@
 
 ---
 
-### 4. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
+### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+
+- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
+
+- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
+- **Supporting**: Jinu Joseph, Srinda
+- **Music Director**: Sushin Shyam
+- **Director**: Amal Neerad
+
+---
+
+### 5. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
 
 - **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
 
@@ -42,7 +53,7 @@
 
 ---
 
-### 5. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
+### 6. **Gumasthan** (2024) [IMDb](https://www.imdb.com/title/tt29608092/), [Trailer](https://www.youtube.com/watch?v=dQN_12QiqGo)
 
 - **Synopsis**: A cunning clerk twists the law to get away with his wife’s murder, staying one step ahead of suspicion. But as the web tightens, the police and public start to close in—will his clever schemes finally unravel?
 
@@ -50,16 +61,6 @@
 - **Supporting**: Dileesh Pothan
 - **Music Director**: Stephen Devassy
 - **Director**: Amal K Joby
-
----
-
-### 6. **Secret** (2024) [IMDb](https://www.imdb.com/title/tt27494298/), [Trailer](https://www.youtube.com/watch?v=NNdfVVWPxRk)
-
-- **Synopsis**: Secret promises to be a gripping tale that explores the science of omens (Nimitha Shasthram), psychological turmoil, and the strength of friendships.
-
-- **Lead**: Dhyan Sreenivasan, Aparna Das
-- **Supporting**: Ranjith, Sshivada, Chandhunadh
-- **Music Director**: Sankar Sharma
 
 ---
 
