@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-19)
+# Watch List (Updated: 2024-12-20)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
-
-- **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
-
-- **Lead**: Tovino Thomas, Aishwarya Rajesh, Krithi Shetty
-- **Supporting**: Mohanlal, Rohini
-- **Music Director**: Dhibu Ninan Thomas
-- **Director**: Jithin Lal
-
----
-
-### 5. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+### 4. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
 
 - **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
 
@@ -52,6 +41,17 @@
 - **Supporting**: Siddique, Renji Panicker
 - **Music Director**: Ashwin Aryan
 - **Director**: Vishnu Mohan
+
+---
+
+### 5. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
+
+- **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
+
+- **Lead**: Tovino Thomas, Aishwarya Rajesh, Krithi Shetty
+- **Supporting**: Mohanlal, Rohini
+- **Music Director**: Dhibu Ninan Thomas
+- **Director**: Jithin Lal
 
 ---
 
