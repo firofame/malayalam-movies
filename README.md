@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-21)
+# Watch List (Updated: 2024-12-22)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
-
-- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
-
-- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
-- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
-- **Music Director**: G. V. Prakash Kumar
-- **Director**: Venky Atluri
-
----
-
-### 4. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+### 3. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
 
 - **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Siddique, Renji Panicker
 - **Music Director**: Ashwin Aryan
 - **Director**: Vishnu Mohan
+
+---
+
+### 4. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+
+- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
+
+- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
+- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
+- **Music Director**: G. V. Prakash Kumar
+- **Director**: Venky Atluri
 
 ---
 
