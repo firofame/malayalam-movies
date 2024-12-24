@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-23)
+# Watch List (Updated: 2024-12-24)
 
 ### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
@@ -44,7 +44,16 @@
 
 ---
 
-### 5. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
+### 5. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
+
+- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
+
+- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
+- **Director**: Lijin Jose
+
+---
+
+### 6. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
 
 - **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
 
@@ -52,15 +61,6 @@
 - **Supporting**: Mohanlal, Rohini
 - **Music Director**: Dhibu Ninan Thomas
 - **Director**: Jithin Lal
-
----
-
-### 6. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
-
-- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
-
-- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
-- **Director**: Lijin Jose
 
 ---
 
