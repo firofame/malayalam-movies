@@ -1,17 +1,6 @@
-# Watch List (Updated: 2024-12-25)
+# Watch List (Updated: 2024-12-26)
 
-### 1. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
-
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
-
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
-- **Director**: Dinjith Ayyathan
-
----
-
-### 2. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
 - **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
 
@@ -19,6 +8,17 @@
 - **Supporting**: Jinu Joseph, Srinda
 - **Music Director**: Sushin Shyam
 - **Director**: Amal Neerad
+
+---
+
+### 2. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+
+- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
+
+- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
+- **Supporting**: Ashokan
+- **Music Director**: Mujeeb Majeed
+- **Director**: Dinjith Ayyathan
 
 ---
 
@@ -53,14 +53,14 @@
 
 ---
 
-### 6. **Ajayante Randam Moshanam(A.R.M)** (2024) [IMDb](https://www.imdb.com/title/tt11531182/), [Trailer](https://www.youtube.com/watch?v=rFgS10V8908)
+### 6. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
-- **Synopsis**: In a coastal village, a fearless hero fights for the helpless and strikes fear into the hearts of evildoers. This thrilling story is packed with action and deep emotions as he battles injustice. Can he bring peace to his people?
+- **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
-- **Lead**: Tovino Thomas, Aishwarya Rajesh, Krithi Shetty
-- **Supporting**: Mohanlal, Rohini
-- **Music Director**: Dhibu Ninan Thomas
-- **Director**: Jithin Lal
+- **Lead**: Arjun Ashokan, Balu Varghese
+- **Supporting**: Saiju Kurup, Niranjana Anoop
+- **Music Director**: Manikandan Ayyappa
+- **Director**: Jithin Raj
 
 ---
 
