@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-27)
+# Watch List (Updated: 2024-12-28)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -44,16 +44,7 @@
 
 ---
 
-### 5. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
-
-- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
-
-- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
-- **Director**: Lijin Jose
-
----
-
-### 6. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 5. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -61,6 +52,15 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
+
+---
+
+### 6. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
+
+- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
+
+- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
+- **Director**: Lijin Jose
 
 ---
 
