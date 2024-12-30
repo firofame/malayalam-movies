@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-29)
+# Watch List (Updated: 2024-12-30)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -55,12 +55,14 @@
 
 ---
 
-### 6. **Her** (2024) [IMDb](https://www.imdb.com/title/tt23833570/), [Trailer](https://www.youtube.com/watch?v=UoqX5qZNF2M)
+### 6. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
 
-- **Synopsis**: The story weaves together the lives of five women from different social classes, exploring their unique struggles, dreams, and unexpected connections.
+- **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
 
-- **Lead**: Parvathy Thiruvothu, Aishwarya Rajesh, Lijo Mol Jose, Urvasi, Ramya Nambeeshan
-- **Director**: Lijin Jose
+- **Lead**: Suraj Venjaramoodu, Rajesh Madhavan
+- **Supporting**: Babu Antony, Sumesh Chandran
+- **Music Director**: Christo Xavier
+- **Director**: Sudhish Gopinath
 
 ---
 
