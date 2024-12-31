@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-30)
+# Watch List (Updated: 2024-12-31)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
-
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
-
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
-- **Director**: Dinjith Ayyathan
-
----
-
-### 3. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+### 2. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
 
 - **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
 
@@ -33,18 +22,18 @@
 
 ---
 
-### 4. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+### 3. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
-- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
+- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
 
-- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
-- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
-- **Music Director**: G. V. Prakash Kumar
-- **Director**: Venky Atluri
+- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
+- **Supporting**: Ashokan
+- **Music Director**: Mujeeb Majeed
+- **Director**: Dinjith Ayyathan
 
 ---
 
-### 5. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 4. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -55,7 +44,7 @@
 
 ---
 
-### 6. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+### 5. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
 
 - **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
 
@@ -63,6 +52,17 @@
 - **Supporting**: Babu Antony, Sumesh Chandran
 - **Music Director**: Christo Xavier
 - **Director**: Sudhish Gopinath
+
+---
+
+### 6. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+
+- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
+
+- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
+- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
+- **Music Director**: G. V. Prakash Kumar
+- **Director**: Venky Atluri
 
 ---
 
