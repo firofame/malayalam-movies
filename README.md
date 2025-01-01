@@ -1,4 +1,4 @@
-# Watch List (Updated: 2024-12-31)
+# Watch List (Updated: 2025-01-01)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -55,14 +55,13 @@
 
 ---
 
-### 6. **Lucky Baskhar** (2024) [IMDb](https://www.imdb.com/title/tt27540542/), [Trailer](https://www.youtube.com/watch?v=EvFVXlalmXg)
+### 6. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
 
-- **Synopsis**: A broke bank cashier takes a daring gamble with a risky investment, only to find himself tangled in the dark and dangerous web of money laundering. Will he find a way out, or sink deeper into the chaos?
+- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
 
-- **Lead**: Dulquer Salmaan, Meenakshi Chaudhary
-- **Supporting**: Ramki, Sachin Khedekar, Sai Kumar
-- **Music Director**: G. V. Prakash Kumar
-- **Director**: Venky Atluri
+- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
+- **Music Director**: Christy Joby
+- **Director**: Musthafa
 
 ---
 
