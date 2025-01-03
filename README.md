@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-02)
+# Watch List (Updated: 2025-01-03)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
-
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
-
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
-- **Director**: Dinjith Ayyathan
-
----
-
-### 4. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 3. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
+
+---
+
+### 4. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+
+- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
+
+- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
+- **Supporting**: Ashokan
+- **Music Director**: Mujeeb Majeed
+- **Director**: Dinjith Ayyathan
 
 ---
 
