@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-04)
+# Watch List (Updated: 2025-01-05)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
-
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
-
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
-- **Director**: Dinjith Ayyathan
-
----
-
-### 5. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+### 4. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
 
 - **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
 
@@ -52,6 +41,17 @@
 - **Supporting**: Babu Antony, Sumesh Chandran
 - **Music Director**: Christo Xavier
 - **Director**: Sudhish Gopinath
+
+---
+
+### 5. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+
+- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
+
+- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
+- **Supporting**: Ashokan
+- **Music Director**: Mujeeb Majeed
+- **Director**: Dinjith Ayyathan
 
 ---
 
