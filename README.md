@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-06)
+# Watch List (Updated: 2025-01-07)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -44,7 +44,17 @@
 
 ---
 
-### 5. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+### 5. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
+
+- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
+
+- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
+- **Music Director**: Christy Joby
+- **Director**: Musthafa
+
+---
+
+### 6. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
 
 - **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
 
@@ -52,16 +62,6 @@
 - **Supporting**: Ashokan
 - **Music Director**: Mujeeb Majeed
 - **Director**: Dinjith Ayyathan
-
----
-
-### 6. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
-
-- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
-
-- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
-- **Music Director**: Christy Joby
-- **Director**: Musthafa
 
 ---
 
