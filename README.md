@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-12)
+# Watch List (Updated: 2025-01-13)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Kishkindha Kaandam** (2024) [IMDb](https://www.imdb.com/title/tt15980138/), [Trailer](https://www.youtube.com/watch?v=6jR7lL-o7js)
+### 6. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
-- **Synopsis**: Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.
+- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
-- **Lead**: Asif Ali, Vijayaraghavan, Aparna Balamurali
-- **Supporting**: Ashokan
-- **Music Director**: Mujeeb Majeed
-- **Director**: Dinjith Ayyathan
+- **Lead**: Shine Tom Chacko
+- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
+- **Music Director**: Bijibal
+- **Director**: K. K. Haridas
 
 ---
 
