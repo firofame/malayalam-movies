@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-13)
+# Watch List (Updated: 2025-01-14)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
-
-- **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
-
-- **Lead**: Biju Menon, Nikhila Vimal, Anusree
-- **Supporting**: Siddique, Renji Panicker
-- **Music Director**: Ashwin Aryan
-- **Director**: Vishnu Mohan
-
----
-
-### 3. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 2. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
+
+---
+
+### 3. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+
+- **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
+
+- **Lead**: Biju Menon, Nikhila Vimal, Anusree
+- **Supporting**: Siddique, Renji Panicker
+- **Music Director**: Ashwin Aryan
+- **Director**: Vishnu Mohan
 
 ---
 
