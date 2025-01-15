@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-14)
+# Watch List (Updated: 2025-01-15)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
-
-- **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
-
-- **Lead**: Biju Menon, Nikhila Vimal, Anusree
-- **Supporting**: Siddique, Renji Panicker
-- **Music Director**: Ashwin Aryan
-- **Director**: Vishnu Mohan
-
----
-
-### 4. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+### 3. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
 
 - **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Babu Antony, Sumesh Chandran
 - **Music Director**: Christo Xavier
 - **Director**: Sudhish Gopinath
+
+---
+
+### 4. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+
+- **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
+
+- **Lead**: Biju Menon, Nikhila Vimal, Anusree
+- **Supporting**: Siddique, Renji Panicker
+- **Music Director**: Ashwin Aryan
+- **Director**: Vishnu Mohan
 
 ---
 
