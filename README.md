@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-15)
+# Watch List (Updated: 2025-01-16)
 
 ### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
@@ -33,7 +33,17 @@
 
 ---
 
-### 4. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
+### 4. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
+
+- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
+
+- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
+- **Music Director**: Christy Joby
+- **Director**: Musthafa
+
+---
+
+### 5. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
 
 - **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
 
@@ -41,16 +51,6 @@
 - **Supporting**: Siddique, Renji Panicker
 - **Music Director**: Ashwin Aryan
 - **Director**: Vishnu Mohan
-
----
-
-### 5. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
-
-- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
-
-- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
-- **Music Director**: Christy Joby
-- **Director**: Musthafa
 
 ---
 
