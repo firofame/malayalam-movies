@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-01-17)
+# Watch List (Updated: 2025-01-18)
 
-### 1. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
-
-- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
-
-- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
-- **Supporting**: Jinu Joseph, Srinda
-- **Music Director**: Sushin Shyam
-- **Director**: Amal Neerad
-
----
-
-### 2. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 1. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
+
+---
+
+### 2. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+
+- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
+
+- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
+- **Supporting**: Jinu Joseph, Srinda
+- **Music Director**: Sushin Shyam
+- **Director**: Amal Neerad
 
 ---
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Kadha Innuvare** (2024) [IMDb](https://www.imdb.com/title/tt28372186/), [Trailer](https://www.youtube.com/watch?v=4k9vEE2Xwv0)
-
-- **Synopsis**: An anthology of four unique stories, where each couple must overcome obstacles to be with the ones they love.
-
-- **Lead**: Biju Menon, Nikhila Vimal, Anusree
-- **Supporting**: Siddique, Renji Panicker
-- **Music Director**: Ashwin Aryan
-- **Director**: Vishnu Mohan
-
----
-
-### 6. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
+### 5. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
 - **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
@@ -62,6 +51,16 @@
 - **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
 - **Music Director**: Bijibal
 - **Director**: K. K. Haridas
+
+---
+
+### 6. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
+
+- **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
+
+- **Lead**: Nazriya Nazim, Basil Joseph, Merin Philip, Deepak Parambol
+- **Music Director**: Christo Xavier
+- **Director**: M C Jithin
 
 ---
 
