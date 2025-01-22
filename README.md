@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-21)
+# Watch List (Updated: 2025-01-22)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -32,7 +32,18 @@
 
 ---
 
-### 4. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+### 4. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
+
+- **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
+
+- **Lead**: Joju George, Abhinaya, Sagar Surya
+- **Supporting**: Sujith Shankar, Prashanth Alexander
+- **Music Director**: Santhosh Narayanan
+- **Director**: Joju George
+
+---
+
+### 5. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
 
 - **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
 
@@ -43,24 +54,14 @@
 
 ---
 
-### 5. **Mura** (2024) [IMDb](https://www.imdb.com/title/tt33294237/), [Trailer](https://www.youtube.com/watch?v=btEgr48QE2I)
+### 6. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
-- **Synopsis**: Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.
+- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
-- **Lead**: Suraj Venjaramoodu, Hridhu Haroon, Kani Kusruti
-- **Music Director**: Christy Joby
-- **Director**: Musthafa
-
----
-
-### 6. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
-
-- **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
-
-- **Lead**: Joju George, Abhinaya, Sagar Surya
-- **Supporting**: Sujith Shankar, Prashanth Alexander
-- **Music Director**: Santhosh Narayanan
-- **Director**: Joju George
+- **Lead**: Shine Tom Chacko
+- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
+- **Music Director**: Bijibal
+- **Director**: K. K. Haridas
 
 ---
 
