@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-22)
+# Watch List (Updated: 2025-01-23)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -10,7 +10,18 @@
 
 ---
 
-### 2. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 2. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
+
+- **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
+
+- **Lead**: Joju George, Abhinaya, Sagar Surya
+- **Supporting**: Sujith Shankar, Prashanth Alexander
+- **Music Director**: Santhosh Narayanan
+- **Director**: Joju George
+
+---
+
+### 3. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -21,7 +32,7 @@
 
 ---
 
-### 3. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
 - **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
 
@@ -29,17 +40,6 @@
 - **Supporting**: Jinu Joseph, Srinda
 - **Music Director**: Sushin Shyam
 - **Director**: Amal Neerad
-
----
-
-### 4. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
-
-- **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
-
-- **Lead**: Joju George, Abhinaya, Sagar Surya
-- **Supporting**: Sujith Shankar, Prashanth Alexander
-- **Music Director**: Santhosh Narayanan
-- **Director**: Joju George
 
 ---
 
