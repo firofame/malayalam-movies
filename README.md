@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-23)
+# Watch List (Updated: 2025-01-24)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
-
-- **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
-
-- **Lead**: Suraj Venjaramoodu, Rajesh Madhavan
-- **Supporting**: Babu Antony, Sumesh Chandran
-- **Music Director**: Christo Xavier
-- **Director**: Sudhish Gopinath
-
----
-
-### 6. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
+### 5. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
 - **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
 - **Music Director**: Bijibal
 - **Director**: K. K. Haridas
+
+---
+
+### 6. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+
+- **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
+
+- **Lead**: Suraj Venjaramoodu, Rajesh Madhavan
+- **Supporting**: Babu Antony, Sumesh Chandran
+- **Music Director**: Christo Xavier
+- **Director**: Sudhish Gopinath
 
 ---
 
