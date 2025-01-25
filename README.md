@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-24)
+# Watch List (Updated: 2025-01-25)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -32,18 +32,7 @@
 
 ---
 
-### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
-
-- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
-
-- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
-- **Supporting**: Jinu Joseph, Srinda
-- **Music Director**: Sushin Shyam
-- **Director**: Amal Neerad
-
----
-
-### 5. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
+### 4. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
 - **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
@@ -51,6 +40,17 @@
 - **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
 - **Music Director**: Bijibal
 - **Director**: K. K. Haridas
+
+---
+
+### 5. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+
+- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
+
+- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
+- **Supporting**: Jinu Joseph, Srinda
+- **Music Director**: Sushin Shyam
+- **Director**: Amal Neerad
 
 ---
 
