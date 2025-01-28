@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-27)
+# Watch List (Updated: 2025-01-28)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -21,18 +21,7 @@
 
 ---
 
-### 3. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
-
-- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
-
-- **Lead**: Shine Tom Chacko
-- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
-- **Music Director**: Bijibal
-- **Director**: K. K. Haridas
-
----
-
-### 4. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 3. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -40,6 +29,17 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
+
+---
+
+### 4. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
+
+- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
+
+- **Lead**: Shine Tom Chacko
+- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
+- **Music Director**: Bijibal
+- **Director**: K. K. Haridas
 
 ---
 
