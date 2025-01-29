@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-28)
+# Watch List (Updated: 2025-01-29)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -32,18 +32,7 @@
 
 ---
 
-### 4. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
-
-- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
-
-- **Lead**: Shine Tom Chacko
-- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
-- **Music Director**: Bijibal
-- **Director**: K. K. Haridas
-
----
-
-### 5. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
 - **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
 
@@ -54,14 +43,25 @@
 
 ---
 
-### 6. **Madanolsavam** (2023) [IMDb](https://www.imdb.com/title/tt26423773/), [Trailer](https://www.youtube.com/watch?v=7rr2CXvHZZE)
+### 5. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
 
-- **Synopsis**: The story of Madhanan's journey from being a mere cog in the wheel to defying the odds and fighting his unusual circumstances to regain control of his life and destiny.
+- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
 
-- **Lead**: Suraj Venjaramoodu, Rajesh Madhavan
-- **Supporting**: Babu Antony, Sumesh Chandran
-- **Music Director**: Christo Xavier
-- **Director**: Sudhish Gopinath
+- **Lead**: Shine Tom Chacko
+- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
+- **Music Director**: Bijibal
+- **Director**: K. K. Haridas
+
+---
+
+### 6. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
+
+- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
+
+- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
+- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
+- **Music Director**: Rex Vijayan
+- **Director**: Aashiq Abu
 
 ---
 
