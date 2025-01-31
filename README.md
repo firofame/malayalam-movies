@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-01-30)
+# Watch List (Updated: 2025-01-31)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -21,7 +21,18 @@
 
 ---
 
-### 3. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 3. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
+
+- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
+
+- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
+- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
+- **Music Director**: Rex Vijayan
+- **Director**: Aashiq Abu
+
+---
+
+### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
 - **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
 
@@ -32,7 +43,7 @@
 
 ---
 
-### 4. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 5. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -40,17 +51,6 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
-
----
-
-### 5. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
-
-- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
-
-- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
-- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
-- **Music Director**: Rex Vijayan
-- **Director**: Aashiq Abu
 
 ---
 
