@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-03)
+# Watch List (Updated: 2025-02-04)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -32,7 +32,18 @@
 
 ---
 
-### 4. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 4. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
+
+- **Synopsis**: A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.
+
+- **Lead**: Tovino Thomas, Trisha, Vinay Rai
+- **Supporting**: Aju Varghese, Gopika Ramesh
+- **Music Director**: Jakes Bejoy
+- **Director**: Akhil Paul
+
+---
+
+### 5. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
 
 - **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 6. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
 
 - **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Saiju Kurup, Niranjana Anoop
 - **Music Director**: Manikandan Ayyappa
 - **Director**: Jithin Raj
-
----
-
-### 6. **Thaanara** (2024) [IMDb](https://www.imdb.com/title/tt27411215/), [Trailer](https://www.youtube.com/watch?v=yhDwXSAs7QY&t=1s)
-
-- **Synopsis**: Anjali, the daughter of a former home minister, secretly monitors her untrustworthy husband, an opposition MLA, with the help of a police officer.
-
-- **Lead**: Shine Tom Chacko
-- **Supporting**: Deepti Sati, Aju Varghese, Vishnu Unnikrishnan, Chinnu Chandni Nair
-- **Music Director**: Bijibal
-- **Director**: K. K. Haridas
 
 ---
 
