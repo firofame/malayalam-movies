@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-05)
+# Watch List (Updated: 2025-02-06)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Pallotty 90's Kids** (2024) [IMDb](https://www.imdb.com/title/tt22017632/), [Trailer](https://www.youtube.com/watch?v=JBA1qcKzZOs)
+### 6. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
 
-- **Synopsis**: A heartfelt tale of love and friendship blossoms between two innocent souls, Kannan and Unni.
+- **Synopsis**: For 400 years, Barroz, a loyal guardian bound by ancient magic, has protected da Gama's treasure, waiting for a rightful descendant to claim it.
 
-- **Lead**: Arjun Ashokan, Balu Varghese
-- **Supporting**: Saiju Kurup, Niranjana Anoop
-- **Music Director**: Manikandan Ayyappa
-- **Director**: Jithin Raj
+- **Lead**: Mohanlal, Maya Rao West
+- **Supporting**: Nerea Camacho, Tuhin Menon
+- **Music Director**: Lydian Nadhaswaram
+- **Director**: Mohanlal
 
 ---
 
