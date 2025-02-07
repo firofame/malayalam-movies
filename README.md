@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-06)
+# Watch List (Updated: 2025-02-07)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
-
-- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
-
-- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
-- **Supporting**: Jinu Joseph, Srinda
-- **Music Director**: Sushin Shyam
-- **Director**: Amal Neerad
-
----
-
-### 6. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
+### 5. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
 
 - **Synopsis**: For 400 years, Barroz, a loyal guardian bound by ancient magic, has protected da Gama's treasure, waiting for a rightful descendant to claim it.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Nerea Camacho, Tuhin Menon
 - **Music Director**: Lydian Nadhaswaram
 - **Director**: Mohanlal
+
+---
+
+### 6. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+
+- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
+
+- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
+- **Supporting**: Jinu Joseph, Srinda
+- **Music Director**: Sushin Shyam
+- **Director**: Amal Neerad
 
 ---
 
