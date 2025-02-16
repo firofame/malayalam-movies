@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-15)
+# Watch List (Updated: 2025-02-16)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Bougainvillea** (2024) [IMDb](https://www.imdb.com/title/tt32592802/), [Trailer](https://www.youtube.com/watch?v=l7LEsLdEYJY)
+### 6. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
 
-- **Synopsis**: A family's life takes a dark turn as they become entangled in a police investigation into the mysterious disappearance of tourists in Kerala. Will they uncover the truth or get lost in the shadows?
+- **Synopsis**: The Adattu family's gold-trading empire is shaken by a shocking incident. While George seeks justice through tradition, his brother Marco takes a different path. Their hunt for the truth leads to a thrilling clash of ideals and revenge.
 
-- **Lead**: Kunchacko Boban, Jyothirmayi, Fahadh Faasil
-- **Supporting**: Jinu Joseph, Srinda
-- **Music Director**: Sushin Shyam
-- **Director**: Amal Neerad
+- **Lead**: Unni Mukundan, Siddique, Jagadish
+- **Supporting**: Kabir Duhan Singh, Sreejith Ravi
+- **Music Director**: Ravi Basrur
+- **Director**: Haneef Adeni
 
 ---
 
