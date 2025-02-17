@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-16)
+# Watch List (Updated: 2025-02-17)
 
 ### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
-
-- **Synopsis**: For 400 years, Barroz, a loyal guardian bound by ancient magic, has protected da Gama's treasure, waiting for a rightful descendant to claim it.
-
-- **Lead**: Mohanlal, Maya Rao West
-- **Supporting**: Nerea Camacho, Tuhin Menon
-- **Music Director**: Lydian Nadhaswaram
-- **Director**: Mohanlal
-
----
-
-### 6. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
+### 5. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
 
 - **Synopsis**: The Adattu family's gold-trading empire is shaken by a shocking incident. While George seeks justice through tradition, his brother Marco takes a different path. Their hunt for the truth leads to a thrilling clash of ideals and revenge.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Kabir Duhan Singh, Sreejith Ravi
 - **Music Director**: Ravi Basrur
 - **Director**: Haneef Adeni
+
+---
+
+### 6. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
+
+- **Synopsis**: For 400 years, Barroz, a loyal guardian bound by ancient magic, has protected da Gama's treasure, waiting for a rightful descendant to claim it.
+
+- **Lead**: Mohanlal, Maya Rao West
+- **Supporting**: Nerea Camacho, Tuhin Menon
+- **Music Director**: Lydian Nadhaswaram
+- **Director**: Mohanlal
 
 ---
 
