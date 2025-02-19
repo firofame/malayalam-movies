@@ -1,16 +1,6 @@
-# Watch List (Updated: 2025-02-18)
+# Watch List (Updated: 2025-02-19)
 
-### 1. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
-
-- **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
-
-- **Lead**: Nazriya Nazim, Basil Joseph, Merin Philip, Deepak Parambol
-- **Music Director**: Christo Xavier
-- **Director**: M C Jithin
-
----
-
-### 2. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
+### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
 - **Synopsis**: A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Aju Varghese, Gopika Ramesh
 - **Music Director**: Jakes Bejoy
 - **Director**: Akhil Paul
+
+---
+
+### 2. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
+
+- **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
+
+- **Lead**: Nazriya Nazim, Basil Joseph, Merin Philip, Deepak Parambol
+- **Music Director**: Christo Xavier
+- **Director**: M C Jithin
 
 ---
 
