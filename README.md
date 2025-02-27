@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-26)
+# Watch List (Updated: 2025-02-27)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Barroz** (2024) [IMDb](https://en.wikipedia.org/wiki/Barroz), [Trailer](https://www.youtube.com/watch?v=3hWY6oAuk9I)
+### 6. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
 
-- **Synopsis**: For 400 years, Barroz, a loyal guardian bound by ancient magic, has protected da Gama's treasure, waiting for a rightful descendant to claim it.
+- **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
 
-- **Lead**: Mohanlal, Maya Rao West
-- **Supporting**: Nerea Camacho, Tuhin Menon
-- **Music Director**: Lydian Nadhaswaram
-- **Director**: Mohanlal
+- **Lead**: Naslen K Gafoor, Anishma Anilkumar, Vineeth Vasudevan
+- **Supporting**: Dileesh Pothan, Lijo Mol Jose
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Girish A. D.
 
 ---
 
