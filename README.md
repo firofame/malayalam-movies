@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-02-27)
+# Watch List (Updated: 2025-02-28)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
-
-- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
-
-- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
-- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
-- **Music Director**: Rex Vijayan
-- **Director**: Aashiq Abu
-
----
-
-### 6. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
+### 5. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
 
 - **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Dileesh Pothan, Lijo Mol Jose
 - **Music Director**: Sidhartha Pradeep
 - **Director**: Girish A. D.
+
+---
+
+### 6. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
+
+- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
+
+- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
+- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
+- **Music Director**: Rex Vijayan
+- **Director**: Aashiq Abu
 
 ---
 
