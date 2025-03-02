@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-01)
+# Watch List (Updated: 2025-03-02)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Rifle Club** (2024) [IMDb](https://www.imdb.com/title/tt31188121/), [Trailer](https://www.youtube.com/watch?v=_HacZSM24mA)
+### 6. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
 
-- **Synopsis**: A historic rifle club in the Western Ghats must defend itself against a vengeful arms dealer's gang. Skilled hunters battle to survive and protect their legacy.
+- **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
 
-- **Lead**: Anurag Kashyap, Dileesh Pothan, Vishnu Agasthya
-- **Supporting**: Unnimaya Prasad, Darshana Rajendran, Vijayaraghavan
-- **Music Director**: Rex Vijayan
-- **Director**: Aashiq Abu
+- **Lead**: Arjun Ashokan, Aparna Das, Siddique
+- **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
+- **Music Director**: Ranjin Raj
+- **Director**: Vishnu Vinay
 
 ---
 
