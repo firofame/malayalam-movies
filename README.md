@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-03)
+# Watch List (Updated: 2025-03-04)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -22,7 +22,18 @@
 
 ---
 
-### 3. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
+### 3. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
+
+- **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
+
+- **Lead**: Naslen K Gafoor, Anishma Anilkumar, Vineeth Vasudevan
+- **Supporting**: Dileesh Pothan, Lijo Mol Jose
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Girish A. D.
+
+---
+
+### 4. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
 - **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
 
@@ -32,7 +43,7 @@
 
 ---
 
-### 4. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
+### 5. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
 
 - **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
 
@@ -40,17 +51,6 @@
 - **Supporting**: Sujith Shankar, Prashanth Alexander
 - **Music Director**: Santhosh Narayanan
 - **Director**: Joju George
-
----
-
-### 5. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
-
-- **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
-
-- **Lead**: Naslen K Gafoor, Anishma Anilkumar, Vineeth Vasudevan
-- **Supporting**: Dileesh Pothan, Lijo Mol Jose
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Girish A. D.
 
 ---
 
