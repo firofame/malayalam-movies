@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-05)
+# Watch List (Updated: 2025-03-06)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -33,7 +33,18 @@
 
 ---
 
-### 4. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
+### 4. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
+
+- **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
+
+- **Lead**: Arjun Ashokan, Aparna Das, Siddique
+- **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
+- **Music Director**: Ranjin Raj
+- **Director**: Vishnu Vinay
+
+---
+
+### 5. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
 - **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
+### 6. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
 
 - **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Sujith Shankar, Prashanth Alexander
 - **Music Director**: Santhosh Narayanan
 - **Director**: Joju George
-
----
-
-### 6. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
-
-- **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
-
-- **Lead**: Arjun Ashokan, Aparna Das, Siddique
-- **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
-- **Music Director**: Ranjin Raj
-- **Director**: Vishnu Vinay
 
 ---
 
