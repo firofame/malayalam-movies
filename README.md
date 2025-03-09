@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-08)
+# Watch List (Updated: 2025-03-09)
 
 ### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Pani** (2024) [IMDb](https://www.imdb.com/title/tt29461220/), [Trailer](https://www.youtube.com/watch?v=TmpzntdJqm4)
+### 6. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
-- **Synopsis**: A peaceful married life is shattered when two young criminals disrupt the couple's world, dragging them into Thrissur's underworld and a dangerous tale of vengeance.
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
 
-- **Lead**: Joju George, Abhinaya, Sagar Surya
-- **Supporting**: Sujith Shankar, Prashanth Alexander
-- **Music Director**: Santhosh Narayanan
-- **Director**: Joju George
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
 
 ---
 
