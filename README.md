@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-03-09)
+# Watch List (Updated: 2025-03-10)
 
-### 1. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
-
-- **Synopsis**: A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.
-
-- **Lead**: Tovino Thomas, Trisha, Vinay Rai
-- **Supporting**: Aju Varghese, Gopika Ramesh
-- **Music Director**: Jakes Bejoy
-- **Director**: Akhil Paul
-
----
-
-### 2. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
+### 1. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
 
 - **Synopsis**: The Adattu family's gold-trading empire is shaken by a shocking incident. While George seeks justice through tradition, his brother Marco takes a different path. Their hunt for the truth leads to a thrilling clash of ideals and revenge.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Kabir Duhan Singh, Sreejith Ravi
 - **Music Director**: Ravi Basrur
 - **Director**: Haneef Adeni
+
+---
+
+### 2. **Identity** (2025) [IMDb](https://www.imdb.com/title/tt27436132/), [Trailer](https://www.youtube.com/watch?v=6LSqReemlTk)
+
+- **Synopsis**: A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.
+
+- **Lead**: Tovino Thomas, Trisha, Vinay Rai
+- **Supporting**: Aju Varghese, Gopika Ramesh
+- **Music Director**: Jakes Bejoy
+- **Director**: Akhil Paul
 
 ---
 
@@ -33,7 +33,18 @@
 
 ---
 
-### 4. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
+### 4. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
+
+---
+
+### 5. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
 
 - **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
 
@@ -44,24 +55,13 @@
 
 ---
 
-### 5. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
+### 6. **Sookshma Darshini** (2024) [IMDb](https://www.imdb.com/title/tt32495687/), [Trailer](https://www.youtube.com/watch?v=IrkfzvO9LkE)
 
 - **Synopsis**: Manuel moves back to his old neighborhood with his mother, but Priyadarshini and her friends grow suspicious. Convinced he’s hiding a dark secret, they start uncovering clues about his mysterious return.
 
 - **Lead**: Nazriya Nazim, Basil Joseph, Merin Philip, Deepak Parambol
 - **Music Director**: Christo Xavier
 - **Director**: M C Jithin
-
----
-
-### 6. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
-
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
-
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
 
 ---
 
