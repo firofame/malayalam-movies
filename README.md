@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-17)
+# Watch List (Updated: 2025-03-18)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
-
-- **Synopsis**: The Adattu family's gold-trading empire is shaken by a shocking incident. While George seeks justice through tradition, his brother Marco takes a different path. Their hunt for the truth leads to a thrilling clash of ideals and revenge.
-
-- **Lead**: Unni Mukundan, Siddique, Jagadish
-- **Supporting**: Kabir Duhan Singh, Sreejith Ravi
-- **Music Director**: Ravi Basrur
-- **Director**: Haneef Adeni
-
----
-
-### 3. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
+### 2. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
 
 - **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
 
@@ -33,7 +22,7 @@
 
 ---
 
-### 4. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
+### 3. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
 
 - **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
 - **Music Director**: Ranjin Raj
 - **Director**: Vishnu Vinay
+
+---
+
+### 4. **Marco** (2024) [IMDb](https://www.imdb.com/title/tt29383379/), [Trailer](https://www.youtube.com/watch?v=5dy3azady4w)
+
+- **Synopsis**: The Adattu family's gold-trading empire is shaken by a shocking incident. While George seeks justice through tradition, his brother Marco takes a different path. Their hunt for the truth leads to a thrilling clash of ideals and revenge.
+
+- **Lead**: Unni Mukundan, Siddique, Jagadish
+- **Supporting**: Kabir Duhan Singh, Sreejith Ravi
+- **Music Director**: Ravi Basrur
+- **Director**: Haneef Adeni
 
 ---
 
