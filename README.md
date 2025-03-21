@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-20)
+# Watch List (Updated: 2025-03-21)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
