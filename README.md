@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-23)
+# Watch List (Updated: 2025-03-24)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
@@ -54,13 +54,13 @@
 
 ---
 
-### 6. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
+### 6. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
 
-- **Synopsis**: Long-separated brothers gather at their childhood home to bid farewell to their terminally ill mother, but old wounds resurface as they confront their shared history under the same roof.
+- **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
 
-- **Lead**: Joju George, Suraj Venjaramoodu, Alencier Ley Lopez
-- **Supporting**: Thomas Mathew, Sajitha Madathil
-- **Director**: Sharan Venugopal
+- **Lead**: Kunchacko Boban, Priyamani
+- **Supporting**: Jagadish, Vishak Nair
+- **Music Director**: Jakes Bejoy
 
 ---
 
