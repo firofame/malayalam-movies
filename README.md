@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-28)
+# Watch List (Updated: 2025-03-29)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
-
-- **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
-
-- **Lead**: Naslen K Gafoor, Anishma Anilkumar, Vineeth Vasudevan
-- **Supporting**: Dileesh Pothan, Lijo Mol Jose
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Girish A. D.
-
----
-
-### 4. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
+### 3. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
 
 - **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
 - **Music Director**: Ranjin Raj
 - **Director**: Vishnu Vinay
+
+---
+
+### 4. **I Am Kathalan** (2024) [IMDb](https://www.imdb.com/title/tt23577326/), [Trailer](https://www.youtube.com/watch?v=wg_d34GNd4s)
+
+- **Synopsis**: A college student hacks into his ex-girlfriend’s father’s company security system, setting off unexpected consequences.
+
+- **Lead**: Naslen K Gafoor, Anishma Anilkumar, Vineeth Vasudevan
+- **Supporting**: Dileesh Pothan, Lijo Mol Jose
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Girish A. D.
 
 ---
 
