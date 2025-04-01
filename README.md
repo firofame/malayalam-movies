@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-03-31)
+# Watch List (Updated: 2025-04-01)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Anand Sreebala** (2024) [IMDb](https://www.imdb.com/title/tt31416854/), [Trailer](https://www.youtube.com/watch?v=2dXJhnkDRmo)
-
-- **Synopsis**: A common man's quest to unravel a law student's mysterious death leads him down a dark path, confronting secrets and his own demons in a high-stakes investigation.
-
-- **Lead**: Arjun Ashokan, Aparna Das, Siddique
-- **Supporting**: Sshivada, Saiju Kurup, Aju Varghese
-- **Music Director**: Ranjin Raj
-- **Director**: Vishnu Vinay
-
----
-
-### 5. **Hello Mummy** (2024) [IMDb](https://www.imdb.com/title/tt31702438/), [Trailer](https://www.youtube.com/watch?v=QpciIDsXuzA)
+### 4. **Hello Mummy** (2024) [IMDb](https://www.imdb.com/title/tt31702438/), [Trailer](https://www.youtube.com/watch?v=QpciIDsXuzA)
 
 - **Synopsis**: A man named Boney falls for Stefy and wants to marry her, but her deceased mother's ghost haunts her, disliking Boney. He faces the challenge of dealing with this supernatural obstacle to their relationship.
 
@@ -54,13 +43,24 @@
 
 ---
 
-### 6. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
+### 5. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
 
 - **Synopsis**: Long-separated brothers gather at their childhood home to bid farewell to their terminally ill mother, but old wounds resurface as they confront their shared history under the same roof.
 
 - **Lead**: Joju George, Suraj Venjaramoodu, Alencier Ley Lopez
 - **Supporting**: Thomas Mathew, Sajitha Madathil
 - **Director**: Sharan Venugopal
+
+---
+
+### 6. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+
+- **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
+
+- **Lead**: Vineeth Sreenivasan, Nikhila Vimal
+- **Supporting**: Babu Antony, Kayadu Lohar
+- **Music Director**: Guna Balasubramanian
+- **Director**: M. Mohanan
 
 ---
 
