@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-04)
+# Watch List (Updated: 2025-04-05)
 
 ### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
@@ -33,17 +33,7 @@
 
 ---
 
-### 4. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
-
-- **Synopsis**: Long-separated brothers gather at their childhood home to bid farewell to their terminally ill mother, but old wounds resurface as they confront their shared history under the same roof.
-
-- **Lead**: Joju George, Suraj Venjaramoodu, Alencier Ley Lopez
-- **Supporting**: Thomas Mathew, Sajitha Madathil
-- **Director**: Sharan Venugopal
-
----
-
-### 5. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+### 4. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
 
 - **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
 
@@ -51,6 +41,16 @@
 - **Supporting**: Babu Antony, Kayadu Lohar
 - **Music Director**: Guna Balasubramanian
 - **Director**: M. Mohanan
+
+---
+
+### 5. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
+
+- **Synopsis**: Long-separated brothers gather at their childhood home to bid farewell to their terminally ill mother, but old wounds resurface as they confront their shared history under the same roof.
+
+- **Lead**: Joju George, Suraj Venjaramoodu, Alencier Ley Lopez
+- **Supporting**: Thomas Mathew, Sajitha Madathil
+- **Director**: Sharan Venugopal
 
 ---
 
