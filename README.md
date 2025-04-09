@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-04-08)
+# Watch List (Updated: 2025-04-09)
 
-### 1. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
-
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
-
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
-
----
-
-### 2. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Justin Varghese
 - **Director**: Jotish Shankar
+
+---
+
+### 2. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
 
 ---
 
