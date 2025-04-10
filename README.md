@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-09)
+# Watch List (Updated: 2025-04-10)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -54,13 +54,13 @@
 
 ---
 
-### 6. **Hello Mummy** (2024) [IMDb](https://www.imdb.com/title/tt31702438/), [Trailer](https://www.youtube.com/watch?v=QpciIDsXuzA)
+### 6. **Lucifer** (2019) [IMDb](https://en.wikipedia.org/wiki/Lucifer_%28film%29), [Trailer](https://www.youtube.com/watch?v=x1-Ya0NZQso)
 
-- **Synopsis**: A man named Boney falls for Stefy and wants to marry her, but her deceased mother's ghost haunts her, disliking Boney. He faces the challenge of dealing with this supernatural obstacle to their relationship.
+- **Synopsis**: A mad scramble for power ensues when the leader of a political party dies suddenly.
 
-- **Lead**: Sharaf U Dheen, Aishwarya Lekshmi, Johny Antony
-- **Supporting**: Jagadish, Aju Varghese
-- **Music Director**: Jakes Bejoy
+- **Lead**: Mohanlal, Prithviraj Sukumaran, Vivek Oberoi, Manju Warrier
+- **Music Director**: Deepak Dev
+- **Director**: Prithviraj Sukumaran
 
 ---
 
