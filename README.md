@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-11)
+# Watch List (Updated: 2025-04-12)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -54,13 +54,13 @@
 
 ---
 
-### 6. **Lucifer** (2019) [IMDb](https://en.wikipedia.org/wiki/Lucifer_%28film%29), [Trailer](https://www.youtube.com/watch?v=x1-Ya0NZQso)
+### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
 
-- **Synopsis**: A mad scramble for power ensues when the leader of a political party dies suddenly.
+- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
 
-- **Lead**: Mohanlal, Prithviraj Sukumaran, Vivek Oberoi, Manju Warrier
-- **Music Director**: Deepak Dev
-- **Director**: Prithviraj Sukumaran
+- **Lead**: Arjun Ashokan, Anagha Narayanan
+- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
+- **Director**: Liju Thomaz
 
 ---
 
