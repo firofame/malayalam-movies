@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-12)
+# Watch List (Updated: 2025-04-13)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -54,13 +54,13 @@
 
 ---
 
-### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+### 6. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
 
-- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
+- **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
 
-- **Lead**: Arjun Ashokan, Anagha Narayanan
-- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
-- **Director**: Liju Thomaz
+- **Lead**: Soubin Shahir, Namitha Pramod
+- **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
+- **Director**: Boban Samuel
 
 ---
 
