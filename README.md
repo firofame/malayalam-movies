@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-13)
+# Watch List (Updated: 2025-04-14)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
-
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
-
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
-
----
-
-### 3. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+### 2. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
 
 - **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Jagadish, Vishak Nair
 - **Music Director**: Jakes Bejoy
 - **Director**: Jithu Asharef
+
+---
+
+### 3. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
 
 ---
 
@@ -44,23 +44,23 @@
 
 ---
 
-### 5. **Narayaneente Moonnaanmakkal** (2025) [IMDb](https://www.imdb.com/title/tt24331162/), [Trailer](https://www.youtube.com/watch?v=iGa2x1DgsNk)
-
-- **Synopsis**: Long-separated brothers gather at their childhood home to bid farewell to their terminally ill mother, but old wounds resurface as they confront their shared history under the same roof.
-
-- **Lead**: Joju George, Suraj Venjaramoodu, Alencier Ley Lopez
-- **Supporting**: Thomas Mathew, Sajitha Madathil
-- **Director**: Sharan Venugopal
-
----
-
-### 6. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+### 5. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
 
 - **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
 
 - **Lead**: Soubin Shahir, Namitha Pramod
 - **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
 - **Director**: Boban Samuel
+
+---
+
+### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+
+- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
+
+- **Lead**: Arjun Ashokan, Anagha Narayanan
+- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
+- **Director**: Liju Thomaz
 
 ---
 
