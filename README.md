@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-15)
+# Watch List (Updated: 2025-04-16)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
-
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
-
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
-
----
-
-### 4. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+### 3. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
 
 - **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Babu Antony, Kayadu Lohar
 - **Music Director**: Guna Balasubramanian
 - **Director**: M. Mohanan
+
+---
+
+### 4. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
 
 ---
 
