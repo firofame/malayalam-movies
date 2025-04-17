@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-04-16)
+# Watch List (Updated: 2025-04-17)
 
-### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
-
-- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
-
-- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
-- **Supporting**: Deepak Parambol
-- **Music Director**: Justin Varghese
-- **Director**: Jotish Shankar
-
----
-
-### 2. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+### 1. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
 
 - **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Jagadish, Vishak Nair
 - **Music Director**: Jakes Bejoy
 - **Director**: Jithu Asharef
+
+---
+
+### 2. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+
+- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
+
+- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
+- **Supporting**: Deepak Parambol
+- **Music Director**: Justin Varghese
+- **Director**: Jotish Shankar
 
 ---
 
