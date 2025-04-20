@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-19)
+# Watch List (Updated: 2025-04-20)
 
 ### 1. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
 
@@ -44,23 +44,24 @@
 
 ---
 
-### 5. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+### 5. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+
+- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
+
+- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
+- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
+- **Music Director**: VishnuVijay
+- **Director**: Sreeraj Sreenivasan
+
+---
+
+### 6. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
 
 - **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
 
 - **Lead**: Soubin Shahir, Namitha Pramod
 - **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
 - **Director**: Boban Samuel
-
----
-
-### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
-
-- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
-
-- **Lead**: Arjun Ashokan, Anagha Narayanan
-- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
-- **Director**: Liju Thomaz
 
 ---
 
