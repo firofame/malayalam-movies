@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-04-20)
+# Watch List (Updated: 2025-04-21)
 
-### 1. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
-
-- **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
-
-- **Lead**: Kunchacko Boban, Priyamani
-- **Supporting**: Jagadish, Vishak Nair
-- **Music Director**: Jakes Bejoy
-- **Director**: Jithu Asharef
-
----
-
-### 2. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Justin Varghese
 - **Director**: Jotish Shankar
+
+---
+
+### 2. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+
+- **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
+
+- **Lead**: Kunchacko Boban, Priyamani
+- **Supporting**: Jagadish, Vishak Nair
+- **Music Director**: Jakes Bejoy
+- **Director**: Jithu Asharef
 
 ---
 
@@ -33,18 +33,7 @@
 
 ---
 
-### 4. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
-
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
-
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
-
----
-
-### 5. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+### 4. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
 - **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
 
@@ -52,6 +41,17 @@
 - **Supporting**: Chemban Vinod Jose, Shabareesh Varma
 - **Music Director**: VishnuVijay
 - **Director**: Sreeraj Sreenivasan
+
+---
+
+### 5. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+
+- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+
+- **Lead**: Asif Ali, Anaswara Rajan
+- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
+- **Music Director**: Mujeeb Majeed
+- **Director**: Jofin. T. Chacko
 
 ---
 
