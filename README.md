@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-21)
+# Watch List (Updated: 2025-04-22)
 
 ### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
@@ -11,7 +11,18 @@
 
 ---
 
-### 2. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+### 2. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+
+- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
+
+- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
+- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
+- **Music Director**: VishnuVijay
+- **Director**: Sreeraj Sreenivasan
+
+---
+
+### 3. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
 
 - **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
 
@@ -22,7 +33,7 @@
 
 ---
 
-### 3. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+### 4. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
 
 - **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
 
@@ -30,17 +41,6 @@
 - **Supporting**: Babu Antony, Kayadu Lohar
 - **Music Director**: Guna Balasubramanian
 - **Director**: M. Mohanan
-
----
-
-### 4. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
-
-- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
-
-- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
-- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
-- **Music Director**: VishnuVijay
-- **Director**: Sreeraj Sreenivasan
 
 ---
 
