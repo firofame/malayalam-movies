@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-04-22)
+# Watch List (Updated: 2025-04-23)
 
-### 1. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
-
-- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
-
-- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
-- **Supporting**: Deepak Parambol
-- **Music Director**: Justin Varghese
-- **Director**: Jotish Shankar
-
----
-
-### 2. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
 - **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
 
@@ -22,18 +11,18 @@
 
 ---
 
-### 3. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+### 2. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
-- **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
+- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
-- **Lead**: Kunchacko Boban, Priyamani
-- **Supporting**: Jagadish, Vishak Nair
-- **Music Director**: Jakes Bejoy
-- **Director**: Jithu Asharef
+- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
+- **Supporting**: Deepak Parambol
+- **Music Director**: Justin Varghese
+- **Director**: Jotish Shankar
 
 ---
 
-### 4. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+### 3. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
 
 - **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Babu Antony, Kayadu Lohar
 - **Music Director**: Guna Balasubramanian
 - **Director**: M. Mohanan
+
+---
+
+### 4. **Officer on Duty** (2025) [IMDb](https://www.imdb.com/title/tt34388152/), [Trailer](https://www.youtube.com/watch?v=EoCPtpWmFtc)
+
+- **Synopsis**: A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.
+
+- **Lead**: Kunchacko Boban, Priyamani
+- **Supporting**: Jagadish, Vishak Nair
+- **Music Director**: Jakes Bejoy
+- **Director**: Jithu Asharef
 
 ---
 
