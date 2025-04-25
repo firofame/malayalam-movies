@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-24)
+# Watch List (Updated: 2025-04-25)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -33,7 +33,17 @@
 
 ---
 
-### 4. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+### 4. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+
+- **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
+
+- **Lead**: Soubin Shahir, Namitha Pramod
+- **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
+- **Director**: Boban Samuel
+
+---
+
+### 5. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
 - **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
 
@@ -44,24 +54,13 @@
 
 ---
 
-### 5. **Oru Jaathi Jathakam** (2025) [IMDb](https://en.wikipedia.org/wiki/Oru_Jaathi_Jathakam), [Trailer](https://www.youtube.com/watch?v=tp-Ck7VuuUU)
+### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
 
-- **Synopsis**: In North Malabar, Jayesh meets a palm reader who predicts hardships, ridicule, and trouble in his life—prophecies that unfold as multiple women become entwined in his journey.
+- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
 
-- **Lead**: Vineeth Sreenivasan, Nikhila Vimal
-- **Supporting**: Babu Antony, Kayadu Lohar
-- **Music Director**: Guna Balasubramanian
-- **Director**: M. Mohanan
-
----
-
-### 6. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
-
-- **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
-
-- **Lead**: Soubin Shahir, Namitha Pramod
-- **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
-- **Director**: Boban Samuel
+- **Lead**: Arjun Ashokan, Anagha Narayanan
+- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
+- **Director**: Liju Thomaz
 
 ---
 
