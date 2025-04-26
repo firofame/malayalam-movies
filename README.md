@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-25)
+# Watch List (Updated: 2025-04-26)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -43,7 +43,17 @@
 
 ---
 
-### 5. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+### 5. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+
+- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
+
+- **Lead**: Arjun Ashokan, Anagha Narayanan
+- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
+- **Director**: Liju Thomaz
+
+---
+
+### 6. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
 
 - **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
 
@@ -51,16 +61,6 @@
 - **Supporting**: Indrans, Manoj K. Jayan, Jagadish
 - **Music Director**: Mujeeb Majeed
 - **Director**: Jofin. T. Chacko
-
----
-
-### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
-
-- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
-
-- **Lead**: Arjun Ashokan, Anagha Narayanan
-- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
-- **Director**: Liju Thomaz
 
 ---
 
