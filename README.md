@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-28)
+# Watch List (Updated: 2025-04-29)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
-
-- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
-
-- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
-- **Supporting**: Deepak Parambol
-- **Music Director**: Justin Varghese
-- **Director**: Jotish Shankar
-
----
-
-### 3. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
+### 2. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
 
 - **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Riyaz Khan
 - **Music Director**: Justin Varghese
 - **Director**: Sreejith Babu
+
+---
+
+### 3. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+
+- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
+
+- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
+- **Supporting**: Deepak Parambol
+- **Music Director**: Justin Varghese
+- **Director**: Jotish Shankar
 
 ---
 
@@ -53,14 +53,14 @@
 
 ---
 
-### 6. **Rekhachithram** (2025) [IMDb](https://www.imdb.com/title/tt32284154/), [Trailer](https://www.youtube.com/watch?v=_g4sWAFR3GE)
+### 6. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
-- **Synopsis**: Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.
+- **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
-- **Lead**: Asif Ali, Anaswara Rajan
-- **Supporting**: Indrans, Manoj K. Jayan, Jagadish
-- **Music Director**: Mujeeb Majeed
-- **Director**: Jofin. T. Chacko
+- **Lead**: Mohanlal, Prithviraj Sukumaran
+- **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
+- **Music Director**: Deepak Dev
+- **Director**: Prithviraj Sukumaran
 
 ---
 
