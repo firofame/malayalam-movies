@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-04-29)
+# Watch List (Updated: 2025-04-30)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -22,7 +22,18 @@
 
 ---
 
-### 3. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 3. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+
+- **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
+
+- **Lead**: Mohanlal, Prithviraj Sukumaran
+- **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
+- **Music Director**: Deepak Dev
+- **Director**: Prithviraj Sukumaran
+
+---
+
+### 4. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -33,7 +44,7 @@
 
 ---
 
-### 4. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+### 5. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
 
 - **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
 
@@ -43,24 +54,13 @@
 
 ---
 
-### 5. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
 
 - **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
 
 - **Lead**: Arjun Ashokan, Anagha Narayanan
 - **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
 - **Director**: Liju Thomaz
-
----
-
-### 6. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
-
-- **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
-
-- **Lead**: Mohanlal, Prithviraj Sukumaran
-- **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
-- **Music Director**: Deepak Dev
-- **Director**: Prithviraj Sukumaran
 
 ---
 
