@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-01)
+# Watch List (Updated: 2025-05-02)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
-
-- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
-
-- **Lead**: Anaswara Rajan, Sajin Gopu
-- **Supporting**: Riyaz Khan
-- **Music Director**: Justin Varghese
-- **Director**: Sreejith Babu
-
----
-
-### 3. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+### 2. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
 - **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
@@ -30,6 +19,17 @@
 - **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
 - **Music Director**: Deepak Dev
 - **Director**: Prithviraj Sukumaran
+
+---
+
+### 3. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
+
+- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
+
+- **Lead**: Anaswara Rajan, Sajin Gopu
+- **Supporting**: Riyaz Khan
+- **Music Director**: Justin Varghese
+- **Director**: Sreejith Babu
 
 ---
 
