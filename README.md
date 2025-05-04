@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-03)
+# Watch List (Updated: 2025-05-04)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -43,17 +43,7 @@
 
 ---
 
-### 5. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
-
-- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
-
-- **Lead**: Arjun Ashokan, Anagha Narayanan
-- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
-- **Director**: Liju Thomaz
-
----
-
-### 6. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 5. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -61,6 +51,16 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Justin Varghese
 - **Director**: Jotish Shankar
+
+---
+
+### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+
+- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
+
+- **Lead**: Arjun Ashokan, Anagha Narayanan
+- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
+- **Director**: Liju Thomaz
 
 ---
 
