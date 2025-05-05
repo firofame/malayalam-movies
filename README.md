@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-04)
+# Watch List (Updated: 2025-05-05)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -54,13 +54,14 @@
 
 ---
 
-### 6. **Anpodu Kanmani** (2025) [IMDb](https://www.imdb.com/title/tt31616118/), [Trailer](https://www.youtube.com/watch?v=sUxfZp39D-Q)
+### 6. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
-- **Synopsis**: A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.
+- **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
-- **Lead**: Arjun Ashokan, Anagha Narayanan
-- **Supporting**: Johny Antony, Althaf Salim, Maala Paravthi, Navas Vallikkunnu
-- **Director**: Liju Thomaz
+- **Lead**: Arjun Ashokan, Mahima Nambiar, Mathew Thomas
+- **Supporting**: Binu Pappu, Kalabhavan Shajohn
+- **Music Director**: Govind Vasantha
+- **Director**: Arun D. Jose
 
 ---
 
