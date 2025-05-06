@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-05)
+# Watch List (Updated: 2025-05-06)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -33,7 +33,18 @@
 
 ---
 
-### 4. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+### 4. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+
+- **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
+
+- **Lead**: Arjun Ashokan, Mahima Nambiar, Mathew Thomas
+- **Supporting**: Binu Pappu, Kalabhavan Shajohn
+- **Music Director**: Govind Vasantha
+- **Director**: Arun D. Jose
+
+---
+
+### 5. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
 
 - **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
 
@@ -43,7 +54,7 @@
 
 ---
 
-### 5. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 6. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -51,17 +62,6 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Justin Varghese
 - **Director**: Jotish Shankar
-
----
-
-### 6. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
-
-- **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
-
-- **Lead**: Arjun Ashokan, Mahima Nambiar, Mathew Thomas
-- **Supporting**: Binu Pappu, Kalabhavan Shajohn
-- **Music Director**: Govind Vasantha
-- **Director**: Arun D. Jose
 
 ---
 
