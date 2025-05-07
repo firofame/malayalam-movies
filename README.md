@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-06)
+# Watch List (Updated: 2025-05-07)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -44,17 +44,7 @@
 
 ---
 
-### 5. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
-
-- **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
-
-- **Lead**: Soubin Shahir, Namitha Pramod
-- **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
-- **Director**: Boban Samuel
-
----
-
-### 6. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 5. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
 
 - **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
 
@@ -62,6 +52,16 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Justin Varghese
 - **Director**: Jotish Shankar
+
+---
+
+### 6. **Machante Malakha** (2025) [IMDb](https://www.imdb.com/title/tt28364526/), [Trailer](https://www.youtube.com/watch?v=VfK6bN1IX9M)
+
+- **Synopsis**: A husband struggles to cope with his overly affectionate wife, leading to comical situations as he tries to maintain his personal space.
+
+- **Lead**: Soubin Shahir, Namitha Pramod
+- **Supporting**: Dileesh Pothan, Dhyan Sreenivasan, Manoj K U
+- **Director**: Boban Samuel
 
 ---
 
