@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-09)
+# Watch List (Updated: 2025-05-10)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -44,18 +44,7 @@
 
 ---
 
-### 5. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
-
-- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
-
-- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
-- **Supporting**: Deepak Parambol
-- **Music Director**: Justin Varghese
-- **Director**: Jotish Shankar
-
----
-
-### 6. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
+### 5. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
 
 - **Synopsis**: A middle-aged bouncer named Ashiq Abu enters a fierce rivalry with Turkish boxer Sainul Akhmadov, leading him through a personal journey of redemption and determination.
 
@@ -63,6 +52,17 @@
 - **Supporting**: Vijayaraghavan, Aju Varghese, Saiju Kurup
 - **Music Director**: Justin Varghese
 - **Director**: Vishnu Govindhan
+
+---
+
+### 6. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+
+- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
+
+- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
+- **Supporting**: Deepak Parambol
+- **Music Director**: Justin Varghese
+- **Director**: Jotish Shankar
 
 ---
 
