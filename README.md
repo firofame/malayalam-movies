@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-13)
+# Watch List (Updated: 2025-05-14)
 
 ### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
-
-- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
-
-- **Lead**: Anaswara Rajan, Sajin Gopu
-- **Supporting**: Riyaz Khan
-- **Music Director**: Justin Varghese
-- **Director**: Sreejith Babu
-
----
-
-### 4. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 3. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
 - **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Binu Pappu, Kalabhavan Shajohn
 - **Music Director**: Govind Vasantha
 - **Director**: Arun D. Jose
+
+---
+
+### 4. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
+
+- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
+
+- **Lead**: Anaswara Rajan, Sajin Gopu
+- **Supporting**: Riyaz Khan
+- **Music Director**: Justin Varghese
+- **Director**: Sreejith Babu
 
 ---
 
