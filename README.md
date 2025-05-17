@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-05-16)
+# Watch List (Updated: 2025-05-17)
 
-### 1. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
-
-- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
-
-- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
-- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
-- **Music Director**: VishnuVijay
-- **Director**: Sreeraj Sreenivasan
-
----
-
-### 2. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+### 1. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
 - **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
 - **Music Director**: Deepak Dev
 - **Director**: Prithviraj Sukumaran
+
+---
+
+### 2. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+
+- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
+
+- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
+- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
+- **Music Director**: VishnuVijay
+- **Director**: Sreeraj Sreenivasan
 
 ---
 
