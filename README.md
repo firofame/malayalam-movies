@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-17)
+# Watch List (Updated: 2025-05-18)
 
 ### 1. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
@@ -55,14 +55,13 @@
 
 ---
 
-### 6. **Ponman** (2025) [IMDb](https://www.imdb.com/title/tt30089457/), [Trailer](https://www.youtube.com/watch?v=3aohQs8a-lE)
+### 6. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
 
-- **Synopsis**: Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever.
+- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
 
-- **Lead**: Basil Joseph, Sajin Gopu, Lijo Mol Jose
-- **Supporting**: Deepak Parambol
-- **Music Director**: Justin Varghese
-- **Director**: Jotish Shankar
+- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
+- **Supporting**: Joemon Jyothir, Babu Antony
+- **Producer**: Tovino Thomas
 
 ---
 
