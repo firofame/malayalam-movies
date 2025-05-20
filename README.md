@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-19)
+# Watch List (Updated: 2025-05-20)
 
 ### 1. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
@@ -33,14 +33,13 @@
 
 ---
 
-### 4. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
+### 4. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
 
-- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
+- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
 
-- **Lead**: Anaswara Rajan, Sajin Gopu
-- **Supporting**: Riyaz Khan
-- **Music Director**: Justin Varghese
-- **Director**: Sreejith Babu
+- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
+- **Supporting**: Joemon Jyothir, Babu Antony
+- **Producer**: Tovino Thomas
 
 ---
 
@@ -55,13 +54,14 @@
 
 ---
 
-### 6. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
+### 6. **Painkili** (2025) [IMDb](https://www.imdb.com/title/tt32607369/), [Trailer](https://www.youtube.com/watch?v=avlXrTRrHaM)
 
-- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
+- **Synopsis**: Suku pretends to be insane to escape the law, but during this deception, he unexpectedly falls in love. His struggle to maintain the act while navigating his new emotions becomes the core of his journey.
 
-- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
-- **Supporting**: Joemon Jyothir, Babu Antony
-- **Producer**: Tovino Thomas
+- **Lead**: Anaswara Rajan, Sajin Gopu
+- **Supporting**: Riyaz Khan
+- **Music Director**: Justin Varghese
+- **Director**: Sreejith Babu
 
 ---
 
