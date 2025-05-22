@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-21)
+# Watch List (Updated: 2025-05-22)
 
 ### 1. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
@@ -22,7 +22,17 @@
 
 ---
 
-### 3. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+### 3. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
+
+- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
+
+- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
+- **Supporting**: Joemon Jyothir, Babu Antony
+- **Producer**: Tovino Thomas
+
+---
+
+### 4. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
 - **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
 
@@ -30,16 +40,6 @@
 - **Supporting**: Chemban Vinod Jose, Shabareesh Varma
 - **Music Director**: VishnuVijay
 - **Director**: Sreeraj Sreenivasan
-
----
-
-### 4. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
-
-- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
-
-- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
-- **Supporting**: Joemon Jyothir, Babu Antony
-- **Producer**: Tovino Thomas
 
 ---
 
