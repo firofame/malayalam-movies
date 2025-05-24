@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-23)
+# Watch List (Updated: 2025-05-24)
 
 ### 1. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
@@ -32,18 +32,7 @@
 
 ---
 
-### 4. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
-
-- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
-
-- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
-- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
-- **Music Director**: VishnuVijay
-- **Director**: Sreeraj Sreenivasan
-
----
-
-### 5. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
+### 4. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
 
 - **Synopsis**: A middle-aged bouncer named Ashiq Abu enters a fierce rivalry with Turkish boxer Sainul Akhmadov, leading him through a personal journey of redemption and determination.
 
@@ -51,6 +40,17 @@
 - **Supporting**: Vijayaraghavan, Aju Varghese, Saiju Kurup
 - **Music Director**: Justin Varghese
 - **Director**: Vishnu Govindhan
+
+---
+
+### 5. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+
+- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
+
+- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
+- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
+- **Music Director**: VishnuVijay
+- **Director**: Sreeraj Sreenivasan
 
 ---
 
