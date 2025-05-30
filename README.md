@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-29)
+# Watch List (Updated: 2025-05-30)
 
 ### 1. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
@@ -43,7 +43,17 @@
 
 ---
 
-### 5. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
+### 5. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
+
+---
+
+### 6. **Daveed** (2025) [IMDb](https://www.imdb.com/title/tt29472286/), [Trailer](https://www.youtube.com/watch?v=z-w03TdsegE)
 
 - **Synopsis**: A middle-aged bouncer named Ashiq Abu enters a fierce rivalry with Turkish boxer Sainul Akhmadov, leading him through a personal journey of redemption and determination.
 
@@ -51,16 +61,6 @@
 - **Supporting**: Vijayaraghavan, Aju Varghese, Saiju Kurup
 - **Music Director**: Justin Varghese
 - **Director**: Vishnu Govindhan
-
----
-
-### 6. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
-
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
-
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
 
 ---
 
