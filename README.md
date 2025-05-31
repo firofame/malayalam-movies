@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-05-30)
+# Watch List (Updated: 2025-05-31)
 
 ### 1. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
@@ -32,7 +32,17 @@
 
 ---
 
-### 4. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
+### 4. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
+
+---
+
+### 5. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
 
 - **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
 
@@ -40,16 +50,6 @@
 - **Supporting**: Chemban Vinod Jose, Shabareesh Varma
 - **Music Director**: VishnuVijay
 - **Director**: Sreeraj Sreenivasan
-
----
-
-### 5. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
-
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
-
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
 
 ---
 
