@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-01)
+# Watch List (Updated: 2025-06-02)
 
 ### 1. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
 
@@ -10,7 +10,18 @@
 
 ---
 
-### 2. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 2. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+
+- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
+
+- **Lead**: Mohanlal, Shobana
+- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
+- **Music Director**: Jakes Bejoy
+- **Director**: Tharun Moorthy
+
+---
+
+### 3. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
 - **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
@@ -21,7 +32,7 @@
 
 ---
 
-### 3. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+### 4. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
 - **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
@@ -29,17 +40,6 @@
 - **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
 - **Music Director**: Deepak Dev
 - **Director**: Prithviraj Sukumaran
-
----
-
-### 4. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
-
-- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
-
-- **Lead**: Mohanlal, Shobana
-- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
-- **Music Director**: Jakes Bejoy
-- **Director**: Tharun Moorthy
 
 ---
 
