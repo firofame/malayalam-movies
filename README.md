@@ -1,16 +1,6 @@
-# Watch List (Updated: 2025-06-03)
+# Watch List (Updated: 2025-06-04)
 
-### 1. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
-
-- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
-
-- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
-- **Supporting**: Joemon Jyothir, Babu Antony
-- **Producer**: Tovino Thomas
-
----
-
-### 2. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
 - **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
 - **Music Director**: Jakes Bejoy
 - **Director**: Tharun Moorthy
+
+---
+
+### 2. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
+
+- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
+
+- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
+- **Supporting**: Joemon Jyothir, Babu Antony
+- **Producer**: Tovino Thomas
 
 ---
 
@@ -32,7 +32,17 @@
 
 ---
 
-### 4. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+### 4. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
+
+---
+
+### 5. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
 - **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
@@ -43,24 +53,13 @@
 
 ---
 
-### 5. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+### 6. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
 
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
 
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
-
----
-
-### 6. **Praavinkoodu Shappu** (2025) [IMDb](https://www.imdb.com/title/tt32539176/), [Trailer](https://www.youtube.com/watch?v=hoE7SG_ZbqM)
-
-- **Synopsis**: A murder in a toddy shop sets off a series of funny and unexpected twists as the investigation unfolds. What starts as a serious case turns into a chaotic mix of confusion, secrets, and laughter.
-
-- **Lead**: Basil Joseph, Chandini Sreedharan, Soubin Shahir
-- **Supporting**: Chemban Vinod Jose, Shabareesh Varma
-- **Music Director**: VishnuVijay
-- **Director**: Sreeraj Sreenivasan
+- **Lead**: Bhavana, Aditi Ravi
+- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
+- **Director**: Shaji Kailas
 
 ---
 
