@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-05)
+# Watch List (Updated: 2025-06-06)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -21,7 +21,17 @@
 
 ---
 
-### 3. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 3. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
+
+---
+
+### 4. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
 - **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
@@ -29,16 +39,6 @@
 - **Supporting**: Binu Pappu, Kalabhavan Shajohn
 - **Music Director**: Govind Vasantha
 - **Director**: Arun D. Jose
-
----
-
-### 4. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
-
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
-
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
 
 ---
 
