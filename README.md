@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-06)
+# Watch List (Updated: 2025-06-07)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
