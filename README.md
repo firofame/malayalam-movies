@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-07)
+# Watch List (Updated: 2025-06-08)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -42,7 +42,17 @@
 
 ---
 
-### 5. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
+### 5. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
+
+- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
+
+- **Lead**: Bhavana, Aditi Ravi
+- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
+- **Director**: Shaji Kailas
+
+---
+
+### 6. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
 
 - **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
 
@@ -50,16 +60,6 @@
 - **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
 - **Music Director**: Deepak Dev
 - **Director**: Prithviraj Sukumaran
-
----
-
-### 6. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
-
-- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
-
-- **Lead**: Bhavana, Aditi Ravi
-- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
-- **Director**: Shaji Kailas
 
 ---
 
