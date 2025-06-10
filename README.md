@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-09)
+# Watch List (Updated: 2025-06-10)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -31,7 +31,17 @@
 
 ---
 
-### 4. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 4. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
+
+- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
+
+- **Lead**: Bhavana, Aditi Ravi
+- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
+- **Director**: Shaji Kailas
+
+---
+
+### 5. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
 - **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
@@ -39,16 +49,6 @@
 - **Supporting**: Binu Pappu, Kalabhavan Shajohn
 - **Music Director**: Govind Vasantha
 - **Director**: Arun D. Jose
-
----
-
-### 5. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
-
-- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
-
-- **Lead**: Bhavana, Aditi Ravi
-- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
-- **Director**: Shaji Kailas
 
 ---
 
