@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-13)
+# Watch List (Updated: 2025-06-14)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -41,7 +41,17 @@
 
 ---
 
-### 5. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 5. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+
+- **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
+
+- **Lead**: Sharaf U Dheen, Niranjana Anoop, Suraj Venjaramoodu, Sandeep Pradeep
+- **Music Director**: Rajesh Murugesan
+- **Director**: Manu Swaraj
+
+---
+
+### 6. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
 
 - **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
 
@@ -49,17 +59,6 @@
 - **Supporting**: Binu Pappu, Kalabhavan Shajohn
 - **Music Director**: Govind Vasantha
 - **Director**: Arun D. Jose
-
----
-
-### 6. **L2: Empuraan** (2025) [IMDb](https://www.imdb.com/title/tt10505918/), [Trailer](https://www.youtube.com/watch?v=PGqltBCo6cU)
-
-- **Synopsis**: Stephen Nedumpally seems like an ordinary man, but behind closed doors, he’s Khureshi Ab’raam — the elusive mastermind of a global crime empire. As law and loyalty collide, his double life unravels into a high-stakes battle of power, deception, and survival.
-
-- **Lead**: Mohanlal, Prithviraj Sukumaran
-- **Supporting**: Manju Warrier, Saniya Iyappan, Tovino Thomas
-- **Music Director**: Deepak Dev
-- **Director**: Prithviraj Sukumaran
 
 ---
 
