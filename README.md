@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-14)
+# Watch List (Updated: 2025-06-15)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -31,17 +31,7 @@
 
 ---
 
-### 4. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
-
-- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
-
-- **Lead**: Bhavana, Aditi Ravi
-- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
-- **Director**: Shaji Kailas
-
----
-
-### 5. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+### 4. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
 - **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
 
@@ -51,14 +41,24 @@
 
 ---
 
-### 6. **Bromance** (2025) [IMDb](https://www.imdb.com/title/tt32135710/), [Trailer](https://www.youtube.com/watch?v=JOPuTZfDp0M)
+### 5. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
 
-- **Synopsis**: Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.
+- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
 
-- **Lead**: Arjun Ashokan, Mahima Nambiar, Mathew Thomas
-- **Supporting**: Binu Pappu, Kalabhavan Shajohn
-- **Music Director**: Govind Vasantha
-- **Director**: Arun D. Jose
+- **Lead**: Bhavana, Aditi Ravi
+- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
+- **Director**: Shaji Kailas
+
+---
+
+### 6. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+
+- **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
+
+- **Lead**: Naslen K Gafoor, Sandeep Pradeep, Anagha Ravi
+- **Supporting**: Lukman Avaran
+- **Music Director**: VishnuVijay
+- **Director**: Khalid Rahman
 
 ---
 
