@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-15)
+# Watch List (Updated: 2025-06-16)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -21,17 +21,7 @@
 
 ---
 
-### 3. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
-
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
-
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
-
----
-
-### 4. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+### 3. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
 - **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
 
@@ -41,17 +31,17 @@
 
 ---
 
-### 5. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
+### 4. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
 
-- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
 
-- **Lead**: Bhavana, Aditi Ravi
-- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
-- **Director**: Shaji Kailas
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
 
 ---
 
-### 6. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 5. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -59,6 +49,16 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
+
+---
+
+### 6. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
+
+- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
+
+- **Lead**: Bhavana, Aditi Ravi
+- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
+- **Director**: Shaji Kailas
 
 ---
 
