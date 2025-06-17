@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-16)
+# Watch List (Updated: 2025-06-17)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -31,17 +31,7 @@
 
 ---
 
-### 4. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
-
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
-
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
-
----
-
-### 5. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 4. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -49,6 +39,16 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
+
+---
+
+### 5. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+
+- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+
+- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
+- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
+- **Director**: Shamzu Zayba
 
 ---
 
