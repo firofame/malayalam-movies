@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-17)
+# Watch List (Updated: 2025-06-18)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -11,17 +11,7 @@
 
 ---
 
-### 2. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
-
-- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
-
-- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
-- **Supporting**: Joemon Jyothir, Babu Antony
-- **Producer**: Tovino Thomas
-
----
-
-### 3. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+### 2. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
 - **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
 
@@ -31,7 +21,7 @@
 
 ---
 
-### 4. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 3. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -39,6 +29,16 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
+
+---
+
+### 4. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
+
+- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
+
+- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
+- **Supporting**: Joemon Jyothir, Babu Antony
+- **Producer**: Tovino Thomas
 
 ---
 
