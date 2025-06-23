@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-22)
+# Watch List (Updated: 2025-06-23)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -42,23 +42,23 @@
 
 ---
 
-### 5. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
+### 5. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+
+- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
+
+- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
+- **Supporting**: Johny Antony, Bindu Panicker, Siddique
+- **Director**: Binto Stephen
+
+---
+
+### 6. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
 
 - **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
 
 - **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
 - **Supporting**: Joemon Jyothir, Babu Antony
 - **Producer**: Tovino Thomas
-
----
-
-### 6. **Hunt** (2024) [IMDb](https://www.imdb.com/title/tt24485600/), [Trailer](https://www.youtube.com/watch?v=DNLqr4mhEWo)
-
-- **Synopsis**: When Dr. Keerthy takes up a case at a medical college, she expects a routine diagnosis — but the investigation unravels shocking secrets that turn her world upside down.
-
-- **Lead**: Bhavana, Aditi Ravi
-- **Supporting**: Chandhunadh, Renji Panicker, Ajmal Ameer
-- **Director**: Shaji Kailas
 
 ---
 
