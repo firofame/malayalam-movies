@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-06-30)
+# Watch List (Updated: 2025-07-01)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -42,23 +42,23 @@
 
 ---
 
-### 5. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+### 5. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
+
+- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
+
+- **Lead**: Prashanth Alexander, Indrans, Jagadish
+- **Supporting**: Rajendran
+- **Director**: Fahad Nandu
+
+---
+
+### 6. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
 
 - **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
 
 - **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
 - **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
 - **Director**: Shamzu Zayba
-
----
-
-### 6. **Marana Mass** (2025) [IMDb](https://www.imdb.com/title/tt32065993/), [Trailer](https://www.youtube.com/watch?v=-6wvnuMYIAQ)
-
-- **Synopsis**: When a serial killer strikes in Kerala, local troublemaker Luke becomes the prime suspect. A fateful night bus journey connects him with a conductor and driver, leading to unexpected developments.
-
-- **Lead**: Basil Joseph, Anishma Anilkumar, Rajesh Madhavan
-- **Supporting**: Joemon Jyothir, Babu Antony
-- **Producer**: Tovino Thomas
 
 ---
 
