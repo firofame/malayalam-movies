@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-01)
+# Watch List (Updated: 2025-07-02)
 
 ### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
@@ -52,13 +52,13 @@
 
 ---
 
-### 6. **Abhilasham** (2025) [IMDb](https://www.imdb.com/title/tt29559988/), [Trailer](https://www.youtube.com/watch?v=UtUl4shMRfk)
+### 6. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
 
-- **Synopsis**: Two childhood friends separated by time and unspoken feelings reunite in their hometown. Abhilash sees a second chance with Sherin, but the past casts a long shadow over their present.
+- **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
 
-- **Lead**: Saiju Kurup, Tanvi Ram, Arjun Ashokan
-- **Supporting**: Shine Tom Chacko, Binu Pappu, Navas Vallikkunnu
-- **Director**: Shamzu Zayba
+- **Lead**: Sreenath Bhasi, Lal
+- **Supporting**: Saiju Kurup, Raveena Ravi
+- **Director**: Jo George
 
 ---
 
