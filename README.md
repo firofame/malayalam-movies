@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-07-02)
+# Watch List (Updated: 2025-07-03)
 
-### 1. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
-
-- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
-
-- **Lead**: Mohanlal, Shobana
-- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
-- **Music Director**: Jakes Bejoy
-- **Director**: Tharun Moorthy
-
----
-
-### 2. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+### 1. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
 - **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
 
@@ -21,7 +10,7 @@
 
 ---
 
-### 3. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 2. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -29,6 +18,17 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
+
+---
+
+### 3. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+
+- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
+
+- **Lead**: Mohanlal, Shobana
+- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
+- **Music Director**: Jakes Bejoy
+- **Director**: Tharun Moorthy
 
 ---
 
