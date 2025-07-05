@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-04)
+# Watch List (Updated: 2025-07-05)
 
 ### 1. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
@@ -21,7 +21,17 @@
 
 ---
 
-### 3. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+### 3. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+
+- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
+
+- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
+- **Supporting**: Johny Antony, Bindu Panicker, Siddique
+- **Director**: Binto Stephen
+
+---
+
+### 4. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
 
 - **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
 
@@ -29,16 +39,6 @@
 - **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
 - **Music Director**: Jakes Bejoy
 - **Director**: Tharun Moorthy
-
----
-
-### 4. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
-
-- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
-
-- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
-- **Supporting**: Johny Antony, Bindu Panicker, Siddique
-- **Director**: Binto Stephen
 
 ---
 
