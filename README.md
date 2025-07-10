@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-09)
+# Watch List (Updated: 2025-07-10)
 
 ### 1. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
