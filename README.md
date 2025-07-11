@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-10)
+# Watch List (Updated: 2025-07-11)
 
 ### 1. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
 
@@ -42,23 +42,23 @@
 
 ---
 
-### 5. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
-
-- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
-
-- **Lead**: Prashanth Alexander, Indrans, Jagadish
-- **Supporting**: Rajendran
-- **Director**: Fahad Nandu
-
----
-
-### 6. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
+### 5. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
 
 - **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
 
 - **Lead**: Sreenath Bhasi, Lal
 - **Supporting**: Saiju Kurup, Raveena Ravi
 - **Director**: Jo George
+
+---
+
+### 6. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
+
+- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
+
+- **Lead**: Prashanth Alexander, Indrans, Jagadish
+- **Supporting**: Rajendran
+- **Director**: Fahad Nandu
 
 ---
 
