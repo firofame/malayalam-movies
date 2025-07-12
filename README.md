@@ -1,16 +1,6 @@
-# Watch List (Updated: 2025-07-11)
+# Watch List (Updated: 2025-07-12)
 
-### 1. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
-
-- **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
-
-- **Lead**: Sharaf U Dheen, Niranjana Anoop, Suraj Venjaramoodu, Sandeep Pradeep
-- **Music Director**: Rajesh Murugesan
-- **Director**: Manu Swaraj
-
----
-
-### 2. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 1. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
+
+---
+
+### 2. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+
+- **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
+
+- **Lead**: Sharaf U Dheen, Niranjana Anoop, Suraj Venjaramoodu, Sandeep Pradeep
+- **Music Director**: Rajesh Murugesan
+- **Director**: Manu Swaraj
 
 ---
 
