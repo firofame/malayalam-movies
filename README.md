@@ -1,6 +1,16 @@
-# Watch List (Updated: 2025-07-14)
+# Watch List (Updated: 2025-07-15)
 
-### 1. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 1. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+
+- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
+
+- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
+- **Supporting**: Johny Antony, Bindu Panicker, Siddique
+- **Director**: Binto Stephen
+
+---
+
+### 2. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
 - **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
@@ -8,16 +18,6 @@
 - **Supporting**: Lukman Avaran
 - **Music Director**: VishnuVijay
 - **Director**: Khalid Rahman
-
----
-
-### 2. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
-
-- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
-
-- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
-- **Supporting**: Johny Antony, Bindu Panicker, Siddique
-- **Director**: Binto Stephen
 
 ---
 
@@ -31,18 +31,7 @@
 
 ---
 
-### 4. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
-
-- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
-
-- **Lead**: Mohanlal, Shobana
-- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
-- **Music Director**: Jakes Bejoy
-- **Director**: Tharun Moorthy
-
----
-
-### 5. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
+### 4. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
 - **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
 
@@ -52,13 +41,24 @@
 
 ---
 
-### 6. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
+### 5. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
 
 - **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
 
 - **Lead**: Sreenath Bhasi, Lal
 - **Supporting**: Saiju Kurup, Raveena Ravi
 - **Director**: Jo George
+
+---
+
+### 6. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+
+- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
+
+- **Lead**: Mohanlal, Shobana
+- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
+- **Music Director**: Jakes Bejoy
+- **Director**: Tharun Moorthy
 
 ---
 
