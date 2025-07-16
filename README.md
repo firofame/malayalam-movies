@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-15)
+# Watch List (Updated: 2025-07-16)
 
 ### 1. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
 
@@ -51,14 +51,13 @@
 
 ---
 
-### 6. **Thudarum** (2025) [IMDb](https://www.imdb.com/title/tt31969600/), [Trailer](https://www.youtube.com/watch?v=HZrYlXuecRg)
+### 6. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
 
-- **Synopsis**: In the quiet hill town of Ranni, humble taxi driver Shanmughan treasures one thing above all - his aging Ambassador car. When fate puts him to the test, he must prove just how far he'll go for what he holds dear.
+- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
 
-- **Lead**: Mohanlal, Shobana
-- **Supporting**: Bharathiraja, Irshad, Maniyanpilla Raju, Santhosh Keezhattoor
-- **Music Director**: Jakes Bejoy
-- **Director**: Tharun Moorthy
+- **Lead**: Prashanth Alexander, Indrans, Jagadish
+- **Supporting**: Rajendran
+- **Director**: Fahad Nandu
 
 ---
 
