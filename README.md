@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-17)
+# Watch List (Updated: 2025-07-18)
 
 ### 1. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
 
@@ -10,14 +10,13 @@
 
 ---
 
-### 2. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
+### 2. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
-- **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
+- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
 
-- **Lead**: Naslen K Gafoor, Sandeep Pradeep, Anagha Ravi
-- **Supporting**: Lukman Avaran
-- **Music Director**: VishnuVijay
-- **Director**: Khalid Rahman
+- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
+- **Music Director**: Jakes Bejoy
+- **Director**: Anuraj Manohar
 
 ---
 
@@ -31,13 +30,14 @@
 
 ---
 
-### 4. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
+### 4. **Alappuzha Gymkhana** (2025) [IMDb](https://www.imdb.com/title/tt29884526/), [Trailer](https://www.youtube.com/watch?v=acCVmR5RrN0)
 
-- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
+- **Synopsis**: After failing exams, students try entering college through sports quotas, picking boxing. They luck through district matches, but face uncertainty at higher competition levels.
 
-- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
-- **Music Director**: Jakes Bejoy
-- **Director**: Anuraj Manohar
+- **Lead**: Naslen K Gafoor, Sandeep Pradeep, Anagha Ravi
+- **Supporting**: Lukman Avaran
+- **Music Director**: VishnuVijay
+- **Director**: Khalid Rahman
 
 ---
 
