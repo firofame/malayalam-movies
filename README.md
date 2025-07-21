@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-20)
+# Watch List (Updated: 2025-07-21)
 
 ### 1. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
 
@@ -51,13 +51,13 @@
 
 ---
 
-### 6. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
+### 6. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
 
-- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
+- **Synopsis**: In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.
 
-- **Lead**: Prashanth Alexander, Indrans, Jagadish
-- **Supporting**: Rajendran
-- **Director**: Fahad Nandu
+- **Lead**: Dhyan Sreenivasan, Siju Wilson, Kottayam Nazeer
+- **Supporting**: Seema G. Nair, Rony David
+- **Director**: Indraneel Gopalakrishnan
 
 ---
 
