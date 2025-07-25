@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-24)
+# Watch List (Updated: 2025-07-25)
 
 ### 1. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
@@ -30,17 +30,7 @@
 
 ---
 
-### 4. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
-
-- **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
-
-- **Lead**: Sreenath Bhasi, Lal
-- **Supporting**: Saiju Kurup, Raveena Ravi
-- **Director**: Jo George
-
----
-
-### 5. **Mr and Mrs Bachelor** (2025) [IMDb](https://www.imdb.com/title/tt33029493/), [Trailer](https://www.youtube.com/watch?v=HbBpRwKeP4M)
+### 4. **Mr and Mrs Bachelor** (2025) [IMDb](https://www.imdb.com/title/tt33029493/), [Trailer](https://www.youtube.com/watch?v=HbBpRwKeP4M)
 
 - **Synopsis**: When bride-to-be Stephy  runs away to find her missing groom, she unexpectedly teams up with Jithu, a carefree bachelor. Their spontaneous road trip takes a turn, leading to moments of laughter, heartfelt confessions, and an unexpected connection that could change everything.
 
@@ -50,13 +40,23 @@
 
 ---
 
-### 6. **Padakkalam** (2025) [IMDb](https://www.imdb.com/title/tt32919734/), [Trailer](https://www.youtube.com/watch?v=ubVjt3eIDqA)
+### 5. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
 
-- **Synopsis**: Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.
+- **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
 
-- **Lead**: Sharaf U Dheen, Niranjana Anoop, Suraj Venjaramoodu, Sandeep Pradeep
-- **Music Director**: Rajesh Murugesan
-- **Director**: Manu Swaraj
+- **Lead**: Sreenath Bhasi, Lal
+- **Supporting**: Saiju Kurup, Raveena Ravi
+- **Director**: Jo George
+
+---
+
+### 6. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
+
+- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
+
+- **Lead**: Prashanth Alexander, Indrans, Jagadish
+- **Supporting**: Rajendran
+- **Director**: Fahad Nandu
 
 ---
 
