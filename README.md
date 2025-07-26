@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-25)
+# Watch List (Updated: 2025-07-26)
 
 ### 1. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
