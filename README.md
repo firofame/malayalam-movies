@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-26)
+# Watch List (Updated: 2025-07-27)
 
 ### 1. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
@@ -10,23 +10,23 @@
 
 ---
 
-### 2. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
-
-- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
-
-- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
-- **Supporting**: Johny Antony, Bindu Panicker, Siddique
-- **Director**: Binto Stephen
-
----
-
-### 3. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
+### 2. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
 
 - **Synopsis**: In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.
 
 - **Lead**: Dhyan Sreenivasan, Siju Wilson, Kottayam Nazeer
 - **Supporting**: Seema G. Nair, Rony David
 - **Director**: Indraneel Gopalakrishnan
+
+---
+
+### 3. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+
+- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
+
+- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
+- **Supporting**: Johny Antony, Bindu Panicker, Siddique
+- **Director**: Binto Stephen
 
 ---
 
@@ -40,23 +40,24 @@
 
 ---
 
-### 5. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
+### 5. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
+
+- **Synopsis**: Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.
+
+- **Lead**: Roshan Mathew, Dileesh Pothan
+- **Supporting**: Sudhi Koppa, Rajesh Madhavan, Nandhan Unni
+- **Music Director**: Anil Johnson
+- **Director**: Shahi Kabir
+
+---
+
+### 6. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
 
 - **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
 
 - **Lead**: Sreenath Bhasi, Lal
 - **Supporting**: Saiju Kurup, Raveena Ravi
 - **Director**: Jo George
-
----
-
-### 6. **Pariwar** (2025) [IMDb](https://www.imdb.com/title/tt36021272/), [Trailer](https://www.youtube.com/watch?v=pedWTssvQHU)
-
-- **Synopsis**: Bhaskara Pillai (99) lies bedridden, awaiting his final moments, while his four sons, having secured their own fortunes, fixate on one thing-the diamond ring on his finger.
-
-- **Lead**: Prashanth Alexander, Indrans, Jagadish
-- **Supporting**: Rajendran
-- **Director**: Fahad Nandu
 
 ---
 
