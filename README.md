@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-07-30)
+# Watch List (Updated: 2025-07-31)
 
 ### 1. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
@@ -41,23 +41,23 @@
 
 ---
 
-### 5. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+### 5. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
+
+- **Synopsis**: Tony, a diligent Kerala student, defies his father's dream of him going abroad. His decision challenges their bond and ignites a youth movement in Kerala.
+
+- **Lead**: Ranjith Sajeev, Johny Antony, Indrans
+- **Supporting**: Manoj K. Jayan
+- **Director**: Arun Vaiga
+
+---
+
+### 6. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
 
 - **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
 
 - **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
 - **Supporting**: Johny Antony, Bindu Panicker, Siddique
 - **Director**: Binto Stephen
-
----
-
-### 6. **Azadi** (2025) [IMDb](https://www.imdb.com/title/tt27494358/), [Trailer](https://www.youtube.com/watch?v=OR6olYhRm4s)
-
-- **Synopsis**: A family, where a woman finds herself caught in a dangerous situation and is saved by her husband and father
-
-- **Lead**: Sreenath Bhasi, Lal
-- **Supporting**: Saiju Kurup, Raveena Ravi
-- **Director**: Jo George
 
 ---
 
