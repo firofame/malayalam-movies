@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-02)
+# Watch List (Updated: 2025-08-03)
 
 ### 1. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
@@ -51,13 +51,13 @@
 
 ---
 
-### 6. **Prince and Family** (2025) [IMDb](https://www.imdb.com/title/tt32105116/), [Trailer](https://www.youtube.com/watch?v=XXsewmjMDt0)
+### 6. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
 
-- **Synopsis**: Introverted bridal boutique owner, Prince, the town's most eligible bachelor, marries his polar opposite. Chaos and comedy ensue as their contrasting personalities clash in rural Kerala.
+- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
 
-- **Lead**: Dileep, Manju Pillai, Dhyan Sreenivasan
-- **Supporting**: Johny Antony, Bindu Panicker, Siddique
-- **Director**: Binto Stephen
+- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
+- **Music Director**: Hesham Abdul Wahab
+- **Director**: Rajesh Ravi
 
 ---
 
