@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-12)
+# Watch List (Updated: 2025-08-13)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -41,23 +41,23 @@
 
 ---
 
-### 5. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
-
-- **Synopsis**: In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.
-
-- **Lead**: Dhyan Sreenivasan, Siju Wilson, Kottayam Nazeer
-- **Supporting**: Seema G. Nair, Rony David
-- **Director**: Indraneel Gopalakrishnan
-
----
-
-### 6. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
+### 5. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
 
 - **Synopsis**: Tony, a diligent Kerala student, defies his father's dream of him going abroad. His decision challenges their bond and ignites a youth movement in Kerala.
 
 - **Lead**: Ranjith Sajeev, Johny Antony, Indrans
 - **Supporting**: Manoj K. Jayan
 - **Director**: Arun Vaiga
+
+---
+
+### 6. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
+
+- **Synopsis**: In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.
+
+- **Lead**: Dhyan Sreenivasan, Siju Wilson, Kottayam Nazeer
+- **Supporting**: Seema G. Nair, Rony David
+- **Director**: Indraneel Gopalakrishnan
 
 ---
 
