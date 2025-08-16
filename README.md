@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-15)
+# Watch List (Updated: 2025-08-16)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -51,13 +51,13 @@
 
 ---
 
-### 6. **Detective Ujjwalan** (2025) [IMDb](https://en.wikipedia.org/wiki/Detective_Ujjwalan), [Trailer](https://www.youtube.com/watch?v=TJOjAaMrnTs)
+### 6. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
 
-- **Synopsis**: In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.
+- **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
 
-- **Lead**: Dhyan Sreenivasan, Siju Wilson, Kottayam Nazeer
-- **Supporting**: Seema G. Nair, Rony David
-- **Director**: Indraneel Gopalakrishnan
+- **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
+- **Supporting**: Johny Antony, Suresh Krishna
+- **Director**: Vintesh
 
 ---
 
