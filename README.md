@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-17)
+# Watch List (Updated: 2025-08-18)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -41,13 +41,13 @@
 
 ---
 
-### 5. **Mr and Mrs Bachelor** (2025) [IMDb](https://www.imdb.com/title/tt33029493/), [Trailer](https://www.youtube.com/watch?v=HbBpRwKeP4M)
+### 5. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
-- **Synopsis**: When bride-to-be Stephy  runs away to find her missing groom, she unexpectedly teams up with Jithu, a carefree bachelor. Their spontaneous road trip takes a turn, leading to moments of laughter, heartfelt confessions, and an unexpected connection that could change everything.
+- **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
 
-- **Lead**: Anaswara Rajan, Indrajith Sukumaran, Dayyana Hameed
-- **Supporting**: Sohan Seenulal
-- **Director**: Deepu Karunakaran
+- **Lead**: Suresh Gopi, Anupama Parameswaran
+- **Supporting**: Divya Pillai, Shruti Ramachandran
+- **Director**: Pravin Narayanan
 
 ---
 
