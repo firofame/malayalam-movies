@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-19)
+# Watch List (Updated: 2025-08-20)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -21,23 +21,23 @@
 
 ---
 
-### 3. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
-
-- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
-
-- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
-- **Music Director**: Jakes Bejoy
-- **Director**: Anuraj Manohar
-
----
-
-### 4. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
+### 3. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
 - **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
 
 - **Lead**: Suresh Gopi, Anupama Parameswaran
 - **Supporting**: Divya Pillai, Shruti Ramachandran
 - **Director**: Pravin Narayanan
+
+---
+
+### 4. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
+
+- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
+
+- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
+- **Music Director**: Jakes Bejoy
+- **Director**: Anuraj Manohar
 
 ---
 
