@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-20)
+# Watch List (Updated: 2025-08-21)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -41,23 +41,23 @@
 
 ---
 
-### 5. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
-
-- **Synopsis**: Tony, a determined student from Kerala, defies his father’s dream of going abroad, sparking tension at home and igniting a youth movement that shakes the very heart of the state.
-
-- **Lead**: Ranjith Sajeev, Johny Antony, Indrans
-- **Supporting**: Manoj K. Jayan
-- **Director**: Arun Vaiga
-
----
-
-### 6. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
+### 5. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
 
 - **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
 
 - **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
 - **Supporting**: Johny Antony, Suresh Krishna
 - **Director**: Vintesh
+
+---
+
+### 6. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
+
+- **Synopsis**: Tony, a determined student from Kerala, defies his father’s dream of going abroad, sparking tension at home and igniting a youth movement that shakes the very heart of the state.
+
+- **Lead**: Ranjith Sajeev, Johny Antony, Indrans
+- **Supporting**: Manoj K. Jayan
+- **Director**: Arun Vaiga
 
 ---
 
