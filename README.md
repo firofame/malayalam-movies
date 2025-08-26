@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-25)
+# Watch List (Updated: 2025-08-26)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -31,17 +31,7 @@
 
 ---
 
-### 4. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
-
-- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
-
-- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
-- **Music Director**: Jakes Bejoy
-- **Director**: Anuraj Manohar
-
----
-
-### 5. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
+### 4. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
 
 - **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
 
@@ -51,13 +41,24 @@
 
 ---
 
-### 6. **United Kingdom of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt32166743/), [Trailer](https://www.youtube.com/watch?v=hBvWeSUwtEE)
+### 5. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
 
-- **Synopsis**: Tony, a determined student from Kerala, defies his father’s dream of going abroad, sparking tension at home and igniting a youth movement that shakes the very heart of the state.
+- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
 
-- **Lead**: Ranjith Sajeev, Johny Antony, Indrans
-- **Supporting**: Manoj K. Jayan
-- **Director**: Arun Vaiga
+- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
+- **Music Director**: Jakes Bejoy
+- **Director**: Anuraj Manohar
+
+---
+
+### 6. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+
+- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
+
+- **Lead**: Vineeth, Rajesh Madhavan
+- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
+- **Music Director**: Mujeeb Majeed
+- **Director**: Devadath Shaji
 
 ---
 
