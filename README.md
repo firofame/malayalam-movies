@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-26)
+# Watch List (Updated: 2025-08-27)
 
 ### 1. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
 
@@ -11,23 +11,23 @@
 
 ---
 
-### 2. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
-
-- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
-
-- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
-- **Music Director**: Hesham Abdul Wahab
-- **Director**: Rajesh Ravi
-
----
-
-### 3. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
+### 2. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
 - **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
 
 - **Lead**: Suresh Gopi, Anupama Parameswaran
 - **Supporting**: Divya Pillai, Shruti Ramachandran
 - **Director**: Pravin Narayanan
+
+---
+
+### 3. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
+
+- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
+
+- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
+- **Music Director**: Hesham Abdul Wahab
+- **Director**: Rajesh Ravi
 
 ---
 
