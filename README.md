@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-29)
+# Watch List (Updated: 2025-08-30)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -31,17 +31,7 @@
 
 ---
 
-### 4. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
-
-- **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
-
-- **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
-- **Supporting**: Johny Antony, Suresh Krishna
-- **Director**: Vintesh
-
----
-
-### 5. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+### 4. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
 - **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
 
@@ -49,6 +39,16 @@
 - **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
 - **Music Director**: Mujeeb Majeed
 - **Director**: Devadath Shaji
+
+---
+
+### 5. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
+
+- **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
+
+- **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
+- **Supporting**: Johny Antony, Suresh Krishna
+- **Director**: Vintesh
 
 ---
 
