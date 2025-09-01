@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-08-31)
+# Watch List (Updated: 2025-09-01)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -21,17 +21,7 @@
 
 ---
 
-### 3. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
-
-- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
-
-- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
-- **Music Director**: Hesham Abdul Wahab
-- **Director**: Rajesh Ravi
-
----
-
-### 4. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+### 3. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
 - **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
 
@@ -39,6 +29,16 @@
 - **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
 - **Music Director**: Mujeeb Majeed
 - **Director**: Devadath Shaji
+
+---
+
+### 4. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
+
+- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
+
+- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
+- **Music Director**: Hesham Abdul Wahab
+- **Director**: Rajesh Ravi
 
 ---
 
@@ -52,13 +52,14 @@
 
 ---
 
-### 6. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
+### 6. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
 
-- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
+- **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
 
-- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
-- **Music Director**: Jakes Bejoy
-- **Director**: Anuraj Manohar
+- **Lead**: Shine Tom Chacko, Vincy Aloshious
+- **Supporting**: Deepak Parambol
+- **Music Director**: Nithish KTR
+- **Director**: Eugien Jos Chirammel
 
 ---
 
