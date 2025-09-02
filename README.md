@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-01)
+# Watch List (Updated: 2025-09-02)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -42,17 +42,7 @@
 
 ---
 
-### 5. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
-
-- **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
-
-- **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
-- **Supporting**: Johny Antony, Suresh Krishna
-- **Director**: Vintesh
-
----
-
-### 6. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
+### 5. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
 
 - **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
 
@@ -60,6 +50,16 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Nithish KTR
 - **Director**: Eugien Jos Chirammel
+
+---
+
+### 6. **Super Zindagi** (2024) [IMDb](https://www.imdb.com/title/tt27736435/), [Trailer](https://www.youtube.com/watch?v=gKZ6RI60S5U)
+
+- **Synopsis**: Sidhu and Mujeeb chase after hidden gold in rural Karnataka, following a tip from Rudra, a local they met on a bus who claims he found treasure and needs help selling it.
+
+- **Lead**: Dhyan Sreenivasan, Parvati Nair, Mukesh
+- **Supporting**: Johny Antony, Suresh Krishna
+- **Director**: Vintesh
 
 ---
 
