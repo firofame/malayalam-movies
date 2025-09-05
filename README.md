@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-04)
+# Watch List (Updated: 2025-09-05)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -32,17 +32,7 @@
 
 ---
 
-### 4. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
-
-- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
-
-- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
-- **Music Director**: Hesham Abdul Wahab
-- **Director**: Rajesh Ravi
-
----
-
-### 5. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
+### 4. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
 
 - **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
 
@@ -50,6 +40,16 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Nithish KTR
 - **Director**: Eugien Jos Chirammel
+
+---
+
+### 5. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
+
+- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
+
+- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
+- **Music Director**: Hesham Abdul Wahab
+- **Director**: Rajesh Ravi
 
 ---
 
