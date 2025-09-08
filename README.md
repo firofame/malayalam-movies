@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-07)
+# Watch List (Updated: 2025-09-08)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -53,13 +53,14 @@
 
 ---
 
-### 6. **Narivetta** (2025) [IMDb](https://www.imdb.com/title/tt28479285/), [Trailer](https://www.youtube.com/watch?v=SqSyU5tIV_8)
+### 6. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
-- **Synopsis**: A global examination of state-sanctioned violence through policing, exploring how power structures meant to protect citizens can transform into systems of control, particularly affecting marginalized communities.
+- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
 
-- **Lead**: Tovino Thomas, Cheran, Suraj Venjaramoodu
-- **Music Director**: Jakes Bejoy
-- **Director**: Anuraj Manohar
+- **Lead**: Sidharth Bharathan, Saiju Kurup
+- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Rahul Riji Nair
 
 ---
 
