@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-14)
+# Watch List (Updated: 2025-09-15)
 
 ### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
@@ -54,13 +54,14 @@
 
 ---
 
-### 6. **Samshayam** (2025) [IMDb](https://www.imdb.com/title/tt36276442/), [Trailer](https://www.youtube.com/watch?v=vaMjYKKKeOs)
+### 6. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
 
-- **Synopsis**: One day, Vimala begins to suspect something deeply unsettling. Her husband Manojan sets out to uncover the truth, only to find secrets that could shatter their world. What he discovers may change everything.
+- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
 
-- **Lead**: Sharaf U Dheen, Lijo Mol Jose, Vinay Forrt, Priyamvada Krishnan
-- **Music Director**: Hesham Abdul Wahab
-- **Director**: Rajesh Ravi
+- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
+- **Supporting**: Sudhi Koppa, Jeo Baby
+- **Music Director**: Sooraj S. Kurup
+- **Director**: Emcy Joseph
 
 ---
 
