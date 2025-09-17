@@ -1,16 +1,6 @@
-# Watch List (Updated: 2025-09-16)
+# Watch List (Updated: 2025-09-17)
 
-### 1. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
-
-- **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
-
-- **Lead**: Suresh Gopi, Anupama Parameswaran
-- **Supporting**: Divya Pillai, Shruti Ramachandran
-- **Director**: Pravin Narayanan
-
----
-
-### 2. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
 - **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
 
@@ -18,6 +8,16 @@
 - **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
 - **Music Director**: Mujeeb Majeed
 - **Director**: Devadath Shaji
+
+---
+
+### 2. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
+
+- **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
+
+- **Lead**: Suresh Gopi, Anupama Parameswaran
+- **Supporting**: Divya Pillai, Shruti Ramachandran
+- **Director**: Pravin Narayanan
 
 ---
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
-
-- **Synopsis**: Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.
-
-- **Lead**: Roshan Mathew, Dileesh Pothan
-- **Supporting**: Sudhi Koppa, Rajesh Madhavan, Nandhan Unni
-- **Music Director**: Anil Johnson
-- **Director**: Shahi Kabir
-
----
-
-### 6. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+### 5. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
 
 - **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Sudhi Koppa, Jeo Baby
 - **Music Director**: Sooraj S. Kurup
 - **Director**: Emcy Joseph
+
+---
+
+### 6. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
+
+- **Synopsis**: Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.
+
+- **Lead**: Roshan Mathew, Dileesh Pothan
+- **Supporting**: Sudhi Koppa, Rajesh Madhavan, Nandhan Unni
+- **Music Director**: Anil Johnson
+- **Director**: Shahi Kabir
 
 ---
 
