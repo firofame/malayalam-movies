@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-17)
+# Watch List (Updated: 2025-09-18)
 
 ### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
@@ -11,17 +11,7 @@
 
 ---
 
-### 2. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
-
-- **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
-
-- **Lead**: Suresh Gopi, Anupama Parameswaran
-- **Supporting**: Divya Pillai, Shruti Ramachandran
-- **Director**: Pravin Narayanan
-
----
-
-### 3. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
+### 2. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
 - **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
 
@@ -29,6 +19,16 @@
 - **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
 - **Music Director**: Sidhartha Pradeep
 - **Director**: Rahul Riji Nair
+
+---
+
+### 3. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
+
+- **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
+
+- **Lead**: Suresh Gopi, Anupama Parameswaran
+- **Supporting**: Divya Pillai, Shruti Ramachandran
+- **Director**: Pravin Narayanan
 
 ---
 
