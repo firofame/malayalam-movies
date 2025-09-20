@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-19)
+# Watch List (Updated: 2025-09-20)
 
 ### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
