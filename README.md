@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-20)
+# Watch List (Updated: 2025-09-21)
 
 ### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
@@ -54,14 +54,14 @@
 
 ---
 
-### 6. **Ronth** (2025) [IMDb](https://www.imdb.com/title/tt33294533/), [Trailer](https://www.youtube.com/watch?v=7BgNdP8eTkk)
+### 6. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
 
-- **Synopsis**: Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.
+- **Synopsis**: A weather officer's orderly life unravels when suspicions about his wife emerge after a neighbor incident. His quest for answers leads to chaos, a kidnapping, and police involvement, forcing him into a comical escape.
 
-- **Lead**: Roshan Mathew, Dileesh Pothan
-- **Supporting**: Sudhi Koppa, Rajesh Madhavan, Nandhan Unni
-- **Music Director**: Anil Johnson
-- **Director**: Shahi Kabir
+- **Lead**: Sheelu Abraham, Anoop Menon
+- **Supporting**: Dhyan Sreenivasan, Siddique, Sajin Cherukayil
+- **Music Director**: Prakash Ulliyeri
+- **Director**: Manoj Palodan
 
 ---
 
