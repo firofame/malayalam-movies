@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-21)
+# Watch List (Updated: 2025-09-22)
 
 ### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
@@ -22,7 +22,18 @@
 
 ---
 
-### 3. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
+### 3. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+
+- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
+
+- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
+- **Supporting**: Sudhi Koppa, Jeo Baby
+- **Music Director**: Sooraj S. Kurup
+- **Director**: Emcy Joseph
+
+---
+
+### 4. **JSK - Janaki vs State of Kerala** (2025) [IMDb](https://www.imdb.com/title/tt23458804/), [Trailer](https://www.youtube.com/watch?v=RfQ2fdtLaR4)
 
 - **Synopsis**: Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.
 
@@ -32,7 +43,7 @@
 
 ---
 
-### 4. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
+### 5. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
 
 - **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
 
@@ -40,17 +51,6 @@
 - **Supporting**: Deepak Parambol
 - **Music Director**: Nithish KTR
 - **Director**: Eugien Jos Chirammel
-
----
-
-### 5. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
-
-- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
-
-- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
-- **Supporting**: Sudhi Koppa, Jeo Baby
-- **Music Director**: Sooraj S. Kurup
-- **Director**: Emcy Joseph
 
 ---
 
