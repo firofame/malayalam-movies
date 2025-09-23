@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-22)
+# Watch List (Updated: 2025-09-23)
 
 ### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
@@ -43,18 +43,7 @@
 
 ---
 
-### 5. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
-
-- **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
-
-- **Lead**: Shine Tom Chacko, Vincy Aloshious
-- **Supporting**: Deepak Parambol
-- **Music Director**: Nithish KTR
-- **Director**: Eugien Jos Chirammel
-
----
-
-### 6. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
+### 5. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
 
 - **Synopsis**: A weather officer's orderly life unravels when suspicions about his wife emerge after a neighbor incident. His quest for answers leads to chaos, a kidnapping, and police involvement, forcing him into a comical escape.
 
@@ -62,6 +51,17 @@
 - **Supporting**: Dhyan Sreenivasan, Siddique, Sajin Cherukayil
 - **Music Director**: Prakash Ulliyeri
 - **Director**: Manoj Palodan
+
+---
+
+### 6. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
+
+- **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
+
+- **Lead**: Shine Tom Chacko, Vincy Aloshious
+- **Supporting**: Deepak Parambol
+- **Music Director**: Nithish KTR
+- **Director**: Eugien Jos Chirammel
 
 ---
 
