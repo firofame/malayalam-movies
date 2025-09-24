@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-09-23)
+# Watch List (Updated: 2025-09-24)
 
-### 1. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
-
-- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
-
-- **Lead**: Vineeth, Rajesh Madhavan
-- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
-- **Music Director**: Mujeeb Majeed
-- **Director**: Devadath Shaji
-
----
-
-### 2. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
+### 1. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
 - **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
 - **Music Director**: Sidhartha Pradeep
 - **Director**: Rahul Riji Nair
+
+---
+
+### 2. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+
+- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
+
+- **Lead**: Vineeth, Rajesh Madhavan
+- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
+- **Music Director**: Mujeeb Majeed
+- **Director**: Devadath Shaji
 
 ---
 
@@ -54,14 +54,12 @@
 
 ---
 
-### 6. **Soothravakyam** (2025) [IMDb](https://www.imdb.com/title/tt34335405/), [Trailer](https://www.youtube.com/watch?v=UhffV-U0RyA)
+### 6. **Footage** (2024) [IMDb](https://www.imdb.com/title/tt27219011/), [Trailer](https://www.youtube.com/watch?v=sX48jFi-X9U)
 
-- **Synopsis**: A police inspector who mentors students turns his station into a community hub for local youth, but faces scrutiny when someone disappears.
+- **Synopsis**: A curious couple sets out to document their lives, but their found footage soon unravels into a chilling thriller where curiosity leads them into terrifying unknowns.
 
-- **Lead**: Shine Tom Chacko, Vincy Aloshious
-- **Supporting**: Deepak Parambol
-- **Music Director**: Nithish KTR
-- **Director**: Eugien Jos Chirammel
+- **Lead**: Manju Warrier, Vishak Nair, Gayathri Ashok
+- **Director**: Saiju Sreedharan
 
 ---
 
