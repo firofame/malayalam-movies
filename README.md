@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-09-29)
+# Watch List (Updated: 2025-09-30)
 
 ### 1. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
@@ -33,14 +33,14 @@
 
 ---
 
-### 4. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+### 4. **Sumathi Valavu** (2025) [IMDb](https://www.imdb.com/title/tt33037773/), [Trailer](https://www.youtube.com/watch?v=BdSgJv7nsTE)
 
-- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
+- **Synopsis**: A haunted curve in Kerala, named after Sumathi's tragic death, draws various people into supernatural encounters. As they experience strange events, the mystery of Sumathi and the road's dark history unfolds.
 
-- **Lead**: Vineeth, Rajesh Madhavan
-- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
-- **Music Director**: Mujeeb Majeed
-- **Director**: Devadath Shaji
+- **Lead**: Arjun Ashokan, Malavika Manoj
+- **Supporting**: Lal, Saiju Kurup, Balu Varghese, Sreejith Ravi
+- **Music Director**: Ranjin Raj
+- **Director**: Vishnu Sasi Shankar
 
 ---
 
@@ -55,14 +55,14 @@
 
 ---
 
-### 6. **Sumathi Valavu** (2025) [IMDb](https://www.imdb.com/title/tt33037773/), [Trailer](https://www.youtube.com/watch?v=BdSgJv7nsTE)
+### 6. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
 
-- **Synopsis**: A haunted curve in Kerala, named after Sumathi's tragic death, draws various people into supernatural encounters. As they experience strange events, the mystery of Sumathi and the road's dark history unfolds.
+- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
 
-- **Lead**: Arjun Ashokan, Malavika Manoj
-- **Supporting**: Lal, Saiju Kurup, Balu Varghese, Sreejith Ravi
-- **Music Director**: Ranjin Raj
-- **Director**: Vishnu Sasi Shankar
+- **Lead**: Vineeth, Rajesh Madhavan
+- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
+- **Music Director**: Mujeeb Majeed
+- **Director**: Devadath Shaji
 
 ---
 
