@@ -1,17 +1,6 @@
-# Watch List (Updated: 2025-09-30)
+# Watch List (Updated: 2025-10-01)
 
-### 1. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
-
-- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
-
-- **Lead**: Sidharth Bharathan, Saiju Kurup
-- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Rahul Riji Nair
-
----
-
-### 2. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
+### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
 - **Synopsis**: Sandeep, a heart-transplant survivor, attends his donor's daughter Haritha's engagement, but an unplanned stay draws him closer to the family. As weeks pass, he finds himself falling for Haritha.
 
@@ -19,6 +8,17 @@
 - **Supporting**: Basil Joseph, Meera Jasmine
 - **Music Director**: Justin Prabhakaran
 - **Director**: Sathyan Anthikad
+
+---
+
+### 2. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
+
+- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
+
+- **Lead**: Sidharth Bharathan, Saiju Kurup
+- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Rahul Riji Nair
 
 ---
 
@@ -55,14 +55,14 @@
 
 ---
 
-### 6. **Dheeran** (2025) [IMDb](https://www.imdb.com/title/tt29997427/), [Trailer](https://www.youtube.com/watch?v=NQRQZFk4wUc)
+### 6. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
 
-- **Synopsis**: A village hero's good intentions spiral into mishaps when he leads quirky locals on a chaotic road trip. As hidden truths emerge and mishaps multiply, their wrong turns could become unexpected blessings.
+- **Synopsis**: Jilted at his wedding, Aby encounters a reserved woman needing help. As they heal together, his ex returns with newfound insight into his dreams. A hidden truth leads Aby to find peace.
 
-- **Lead**: Vineeth, Rajesh Madhavan
-- **Supporting**: Shabareesh Varma, Sidharth Bharathan, Sudheesh
-- **Music Director**: Mujeeb Majeed
-- **Director**: Devadath Shaji
+- **Lead**: Fahadh Faasil, Kalyani Priyadarshan
+- **Supporting**: Dhyan Sreenivasan, Lal
+- **Music Director**: Justin Varghese
+- **Director**: Althaf Salim
 
 ---
 
