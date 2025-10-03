@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-02)
+# Watch List (Updated: 2025-10-03)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -44,18 +44,7 @@
 
 ---
 
-### 5. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
-
-- **Synopsis**: A weather officer's orderly life unravels when suspicions about his wife emerge after a neighbor incident. His quest for answers leads to chaos, a kidnapping, and police involvement, forcing him into a comical escape.
-
-- **Lead**: Sheelu Abraham, Anoop Menon
-- **Supporting**: Dhyan Sreenivasan, Siddique, Sajin Cherukayil
-- **Music Director**: Prakash Ulliyeri
-- **Director**: Manoj Palodan
-
----
-
-### 6. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
+### 5. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
 
 - **Synopsis**: Jilted at his wedding, Aby encounters a reserved woman needing help. As they heal together, his ex returns with newfound insight into his dreams. A hidden truth leads Aby to find peace.
 
@@ -63,6 +52,17 @@
 - **Supporting**: Dhyan Sreenivasan, Lal
 - **Music Director**: Justin Varghese
 - **Director**: Althaf Salim
+
+---
+
+### 6. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
+
+- **Synopsis**: A weather officer's orderly life unravels when suspicions about his wife emerge after a neighbor incident. His quest for answers leads to chaos, a kidnapping, and police involvement, forcing him into a comical escape.
+
+- **Lead**: Sheelu Abraham, Anoop Menon
+- **Supporting**: Dhyan Sreenivasan, Siddique, Sajin Cherukayil
+- **Music Director**: Prakash Ulliyeri
+- **Director**: Manoj Palodan
 
 ---
 
