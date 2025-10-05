@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-04)
+# Watch List (Updated: 2025-10-05)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
