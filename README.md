@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-05)
+# Watch List (Updated: 2025-10-06)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -11,18 +11,7 @@
 
 ---
 
-### 2. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
-
-- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
-
-- **Lead**: Sidharth Bharathan, Saiju Kurup
-- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Rahul Riji Nair
-
----
-
-### 3. **Sumathi Valavu** (2025) [IMDb](https://www.imdb.com/title/tt33037773/), [Trailer](https://www.youtube.com/watch?v=BdSgJv7nsTE)
+### 2. **Sumathi Valavu** (2025) [IMDb](https://www.imdb.com/title/tt33037773/), [Trailer](https://www.youtube.com/watch?v=BdSgJv7nsTE)
 
 - **Synopsis**: A haunted curve in Kerala, named after Sumathi's tragic death, draws various people into supernatural encounters. As they experience strange events, the mystery of Sumathi and the road's dark history unfolds.
 
@@ -33,18 +22,18 @@
 
 ---
 
-### 4. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+### 3. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
-- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
+- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
 
-- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
-- **Supporting**: Sudhi Koppa, Jeo Baby
-- **Music Director**: Sooraj S. Kurup
-- **Director**: Emcy Joseph
+- **Lead**: Sidharth Bharathan, Saiju Kurup
+- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Rahul Riji Nair
 
 ---
 
-### 5. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
+### 4. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
 
 - **Synopsis**: Jilted at his wedding, Aby encounters a reserved woman needing help. As they heal together, his ex returns with newfound insight into his dreams. A hidden truth leads Aby to find peace.
 
@@ -52,6 +41,17 @@
 - **Supporting**: Dhyan Sreenivasan, Lal
 - **Music Director**: Justin Varghese
 - **Director**: Althaf Salim
+
+---
+
+### 5. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+
+- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
+
+- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
+- **Supporting**: Sudhi Koppa, Jeo Baby
+- **Music Director**: Sooraj S. Kurup
+- **Director**: Emcy Joseph
 
 ---
 
