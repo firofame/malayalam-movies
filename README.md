@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-06)
+# Watch List (Updated: 2025-10-07)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -55,14 +55,14 @@
 
 ---
 
-### 6. **Raveendra Nee Evide?** (2025) [IMDb](https://www.imdb.com/title/tt29633769/), [Trailer](https://www.youtube.com/watch?v=vMhmJAYdBoo)
+### 6. **Sarkeet** (2025) [IMDb](https://www.imdb.com/title/tt34757142/), [Trailer](https://www.youtube.com/watch?v=vFRKz019F7U)
 
-- **Synopsis**: A weather officer's orderly life unravels when suspicions about his wife emerge after a neighbor incident. His quest for answers leads to chaos, a kidnapping, and police involvement, forcing him into a comical escape.
+- **Synopsis**: A couple juggles work, their ADHD son, and their marriage. A chance encounter with a tired stranger brings unexpected transformation over 24 hours.
 
-- **Lead**: Sheelu Abraham, Anoop Menon
-- **Supporting**: Dhyan Sreenivasan, Siddique, Sajin Cherukayil
-- **Music Director**: Prakash Ulliyeri
-- **Director**: Manoj Palodan
+- **Lead**: Asif Ali, Divya Prabha
+- **Supporting**: Deepak Parambol, Prashanth Alexander, Remya Suresh
+- **Music Director**: Govind Vasantha
+- **Director**: Thamar K.V.
 
 ---
 
