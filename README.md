@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-08)
+# Watch List (Updated: 2025-10-09)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -22,18 +22,7 @@
 
 ---
 
-### 3. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
-
-- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
-
-- **Lead**: Sidharth Bharathan, Saiju Kurup
-- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Rahul Riji Nair
-
----
-
-### 4. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
+### 3. **Odum Kuthira Chadum Kuthira** (2025) [IMDb](https://www.imdb.com/title/tt22001978/), [Trailer](https://www.youtube.com/watch?v=l275FrBatio)
 
 - **Synopsis**: Jilted at his wedding, Aby encounters a reserved woman needing help. As they heal together, his ex returns with newfound insight into his dreams. A hidden truth leads Aby to find peace.
 
@@ -41,6 +30,17 @@
 - **Supporting**: Dhyan Sreenivasan, Lal
 - **Music Director**: Justin Varghese
 - **Director**: Althaf Salim
+
+---
+
+### 4. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
+
+- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
+
+- **Lead**: Sidharth Bharathan, Saiju Kurup
+- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Rahul Riji Nair
 
 ---
 
