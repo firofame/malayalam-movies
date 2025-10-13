@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-12)
+# Watch List (Updated: 2025-10-13)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -33,14 +33,14 @@
 
 ---
 
-### 4. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+### 4. **Sahasam** (2025) [IMDb](https://www.imdb.com/title/tt35613198/), [Trailer](https://www.youtube.com/watch?v=kY4UOqOul7o)
 
-- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
+- **Synopsis**: Deep in Kerala's heartland, a simple man's decision to pursue an ancient secret sets off a chain of thrilling events that will test his limits and transform his world.
 
-- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
-- **Supporting**: Sudhi Koppa, Jeo Baby
-- **Music Director**: Sooraj S. Kurup
-- **Director**: Emcy Joseph
+- **Lead**: Ramzan Muhammed, Gouri Kishan
+- **Supporting**: Babu Antony, Shabareesh Varma, Narain
+- **Music Director**: Bibin Ashok
+- **Director**: Bibin Krishna
 
 ---
 
@@ -55,14 +55,14 @@
 
 ---
 
-### 6. **Sahasam** (2025) [IMDb](https://www.imdb.com/title/tt35613198/), [Trailer](https://www.youtube.com/watch?v=kY4UOqOul7o)
+### 6. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
 
-- **Synopsis**: Deep in Kerala's heartland, a simple man's decision to pursue an ancient secret sets off a chain of thrilling events that will test his limits and transform his world.
+- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
 
-- **Lead**: Ramzan Muhammed, Gouri Kishan
-- **Supporting**: Babu Antony, Shabareesh Varma, Narain
-- **Music Director**: Bibin Ashok
-- **Director**: Bibin Krishna
+- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
+- **Supporting**: Sudhi Koppa, Jeo Baby
+- **Music Director**: Sooraj S. Kurup
+- **Director**: Emcy Joseph
 
 ---
 
