@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-14)
+# Watch List (Updated: 2025-10-15)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -55,14 +55,14 @@
 
 ---
 
-### 6. **Meesha** (2025) [IMDb](https://en.wikipedia.org/wiki/Meesha_%28film%29), [Trailer](https://www.youtube.com/watch?v=BWYB2s_SLck)
+### 6. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
 
-- **Synopsis**: Deep in the wilderness, six friends reunite for dinner, each harboring dangerous motives that threaten their long-standing bonds.
+- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
 
-- **Lead**: Kathir, Hakkim Shah, Shine Tom Chacko
-- **Supporting**: Sudhi Koppa, Jeo Baby
-- **Music Director**: Sooraj S. Kurup
-- **Director**: Emcy Joseph
+- **Lead**: Sidharth Bharathan, Saiju Kurup
+- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
+- **Music Director**: Sidhartha Pradeep
+- **Director**: Rahul Riji Nair
 
 ---
 
