@@ -1,4 +1,4 @@
-# Watch List (Updated: 2025-10-15)
+# Watch List (Updated: 2025-10-16)
 
 ### 1. **Hridayapoorvam** (2025) [IMDb](https://www.imdb.com/title/tt30818546/), [Trailer](https://www.youtube.com/watch?v=B4-Xhaajyok)
 
@@ -55,14 +55,12 @@
 
 ---
 
-### 6. **Flask** (2025) [IMDb](https://www.imdb.com/title/tt35110563/), [Trailer](https://www.youtube.com/watch?v=iOX8gBYxZDo)
+### 6. **Maine Pyar Kiya** (2025) [IMDb](https://www.imdb.com/title/tt33310930/), [Trailer](https://www.youtube.com/watch?v=CsEMECviras)
 
-- **Synopsis**: A judge and his security officer's relationship transforms during their captivity by Maoist rebels, who threaten execution unless their imprisoned commander is freed.
+- **Synopsis**: Searching for Nidhi in Madurai's streets, Aryan faces mounting danger and tension at every turn. Time runs short as he navigates growing chaos to stay alive.
 
-- **Lead**: Sidharth Bharathan, Saiju Kurup
-- **Supporting**: Zhinz Shan, Suresh Krishna, Balachandran Chullikadu
-- **Music Director**: Sidhartha Pradeep
-- **Director**: Rahul Riji Nair
+- **Lead**: Preity Mukhundhan, Hridhu Haroon
+- **Supporting**: Mime Gopi, Jeo Baby, Redin Kingsley
 
 ---
 
